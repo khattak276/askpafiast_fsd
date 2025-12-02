@@ -16,3 +16,4 @@ sentence-transformers==2.2.2
 
 # TEMP DISABLED – was causing build issues
 # scikit-learn==1.3.2
+eventlet==0.33.3
