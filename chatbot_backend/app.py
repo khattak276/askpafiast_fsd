@@ -133,18 +133,44 @@ logging.basicConfig(
 )
 
 # -------------------------------------------------
-# CHATBOT INIT
+# CHATBOT INIT  (LAZY TO AVOID RENDER TIMEOUT)
 # -------------------------------------------------
-chatbot = Assistant()
-
-# Load ONLY the university knowledge here
+chatbot = None
 uni_data = None
-try:
-    uni_data = chatbot.load_file("university_data.txt")
-    print("Data file 'university_data.txt' loaded successfully")
-except Exception as e:  # noqa: BLE001
-    logging.error(f"Data loading error: {str(e)}")
-    print(f"Error loading data file: {str(e)}")
+
+
+def ensure_chatbot():
+    """
+    Lazily initialize the Assistant on first use instead of at import time.
+    This keeps Render startup fast and avoids deployment timeouts.
+    """
+    global chatbot, uni_data
+
+    # If already created, do nothing
+    if chatbot is not None:
+        return
+
+    try:
+        # Heavy stuff happens here, but only on first /api/chat call
+        local_bot = Assistant()
+
+        local_uni_data = None
+        try:
+            local_uni_data = local_bot.load_file("university_data.txt")
+            print("Data file 'university_data.txt' loaded successfully")
+        except Exception as e:  # noqa: BLE001
+            logging.error(f"Data loading error: {str(e)}")
+            print(f"Error loading data file: {str(e)}")
+
+        # Only assign to globals if everything above worked
+        chatbot = local_bot
+        uni_data = local_uni_data
+
+    except Exception as e:  # noqa: BLE001
+        logging.error(f"Failed to initialize Assistant: {str(e)}")
+        chatbot = None
+        uni_data = None
+        print("❌ Failed to initialize Assistant – see logs.")
 
 
 # -------------------------------------------------
@@ -259,6 +285,18 @@ def chat():
     No other .txt persona files are used for context here.
     """
     try:
+        # 🔹 Make sure chatbot is initialized (lazy load)
+        ensure_chatbot()
+        if chatbot is None:
+            return (
+                jsonify(
+                    {
+                        "error": "Chatbot failed to initialize on server. Please try again later."
+                    }
+                ),
+                500,
+            )
+
         data = request.get_json(force=True) or {}
         if "message" not in data:
             return jsonify({"error": "Missing 'message' in request"}), 400
@@ -1487,4 +1525,3 @@ if __name__ == "__main__":
 
     # Production: no debug, listen on 0.0.0.0 and dynamic port
     socketio.run(app, host="0.0.0.0", port=port, debug=False)
-
