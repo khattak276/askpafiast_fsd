@@ -1,0 +1,19 @@
+# Python
+chatbot_backend/__pycache__/
+chatbot_backend/instance/
+chatbot_backend/venv/
+chatbot_backend/*.log
+
+# Node / React
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+chatbot_backend/.env

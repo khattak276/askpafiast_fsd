@@ -1,0 +1,326 @@
+/* AdminLogin.css - Redesigned for PAF-IAST theme */
+
+.container-admin {
+  background: linear-gradient(145deg, #131d36, #0231c036);
+  border-radius: 2rem;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  width: 1100px;
+  max-width: 95%;
+  min-height: 520px;
+  margin: 100px auto;
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+  color: #fff;
+}
+
+.container-admin p,
+.container-admin a,
+.container-admin span {
+  color: #bbb;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+}
+
+.button-admin {
+  background: linear-gradient(90deg, #00b3ff86, #0062ff75) !important;
+  color: white;
+  font-size: 13px;
+  padding: 12px 35px;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+/* ---------- Sign-in / Sign-up base ---------- */
+
+.sign-in,
+.sign-up {
+  pointer-events: none;
+  opacity: 0;
+  z-index: 1;
+  transform: translateX(0);
+  transition: all 0.6s ease-in-out;
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+}
+
+/* Only the active form is visible and interactable */
+.container-admin.active .sign-up {
+  opacity: 1;
+  pointer-events: all;
+  z-index: 5;
+  transform: translateX(100%);
+  animation: move 0.6s;
+}
+
+.container-admin:not(.active) .sign-in {
+  opacity: 1;
+  pointer-events: all;
+  z-index: 5;
+  transform: translateX(0%);
+}
+
+/* Ensure .form-container doesn't show overlap */
+.form-container {
+  overflow: hidden;
+}
+
+.button-admin.hidden {
+  background: transparent;
+  border: 1px solid #838383;
+  color: #a5a5a5;
+}
+
+.container-admin form {
+  background: rgba(255, 255, 255, 0);
+  display: flex;
+  padding-bottom: 50px;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
+}
+
+.container-admin input {
+  background: rgba(17, 24, 39, 0.9);
+  border: none2px solid rgba(0, 0, 0, 0);
+  font-size: 13px;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  transition: 0.3s ease;
+}
+
+.container-admin input:focus {
+  border-color: #6365f16c;
+  box-shadow: 0 0 10px rgba(99, 101, 241, 0.226);
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.form-container {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  transition: all 0.6s ease-in-out;
+}
+
+.sign-in {
+  left: 0;
+  width: 50%;
+  z-index: 2;
+}
+
+.container-admin.active .sign-in {
+  transform: translateX(100%);
+}
+
+.sign-up {
+  left: 0;
+  width: 50%;
+  opacity: 0;
+  z-index: 1;
+}
+
+.container-admin.active .sign-up {
+  transform: translateX(100%);
+  opacity: 1;
+  z-index: 5;
+  animation: move 0.6s;
+}
+
+@keyframes move {
+  0%,
+  49.99% {
+    opacity: 0;
+    z-index: 1;
+  }
+  50%,
+  100% {
+    opacity: 1;
+    z-index: 5;
+  }
+}
+
+.social-icons a {
+  border: 1px solid #5e5e5e;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 6px;
+  width: 40px;
+  height: 40px;
+  color: #ccc;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #3245aa;
+  background: linear-gradient(
+    135deg,
+    #1b2240 0%,
+    #27336b 40%,
+    #3245aa 100%
+  );
+  border-color: #3245aa;
+}
+
+.toggle-container {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  transition: all 0.6s ease-in-out;
+  border-radius: 150px 0 0 100px;
+  z-index: 1000;
+}
+
+.container-admin.active .toggle-container {
+  transform: translateX(-100%);
+  border-radius: 0 150px 100px 0;
+}
+
+.toggle {
+  background: linear-gradient(135deg, #161f3a, #27385f);
+  color: white;
+  position: relative;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  transform: translateX(0);
+  transition: all 0.6s ease-in-out;
+}
+
+.container-admin.active .toggle {
+  transform: translateX(50%);
+}
+
+.toggle-panel {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 30px;
+  text-align: center;
+  top: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.toggle-left {
+  transform: translateX(-200%);
+}
+
+.container-admin.active .toggle-left {
+  transform: translateX(0);
+}
+
+.toggle-right {
+  right: 0;
+  transform: translateX(0);
+}
+
+.container-admin.active .toggle-right {
+  transform: translateX(200%);
+}
+
+/* ---------- Input rows ---------- */
+
+.input-row {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+}
+
+.input-row input {
+  flex: 1;
+}
+
+.auth-icon {
+  margin: 0 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 1.1rem;
+}
+
+/* Reduce top space above Create Account heading */
+.form-container.sign-up h2 {
+  margin-top: 10px;
+}
+
+/* ---------- Scrollable signup fields ---------- */
+
+.signup-fields {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 260px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+/* ---------- File inputs ---------- */
+
+.file-row {
+  align-items: stretch;
+}
+
+.file-label {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 12px;
+  color: #d1d5ff;
+}
+
+.file-label input[type="file"] {
+  padding: 6px 8px;
+  background: rgba(17, 24, 39, 0.9);
+  border-radius: 10px;
+  border: 1px dashed rgba(129, 140, 248, 0.5);
+  font-size: 11px;
+}
+
+/* ---------- Forgot password ---------- */
+
+.forgot-password-row {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 6px;
+}
+
+.forgot-password-link {
+  background: transparent;
+  border: none;
+  color: #9ca3ff;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.forgot-password-link:hover {
+  color: #c4c7ff;
+}

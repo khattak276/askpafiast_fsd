@@ -1,0 +1,338 @@
+/* Full page layout */
+body.navigation-page {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+  min-height: 100vh;
+  background-color: #0c1124;
+  color: #f3f4f6;
+  overflow-x: hidden;
+}
+
+/* Fix container size */
+.container-navigation {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  overflow: visible;
+  position: relative;
+  min-width: 1500px;
+  text-decoration: none !important;
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #ffffffcc;
+  text-decoration: underline;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+/* Fix map width to fit container */
+#map {
+  width: 100%;
+  height: 400px;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+  margin: 0 auto 20px;
+  display: block;
+}
+
+/* Map layer switcher (if used) */
+.mapbox-container {
+  width: 100%;
+  height: 500px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 12px 30px rgb(247, 38, 38);
+  margin-bottom: 20px;
+}
+
+
+#recenter-btn:hover {
+  background-color: #3730a3;
+}
+
+/* Button container */
+.button-container {
+  margin: 20px 0;
+}
+
+.button-container button {
+  padding: 12px 30px;
+  background-color: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.3);
+  transition: all 0.3s ease;
+}
+
+.button-container button:hover {
+  background-color: #000000;
+  transform: translateY(-2px);
+}
+
+/* Distance box */
+#distance-info {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: #00ffea;
+}
+
+/* Street View iframe */
+.streetview-container iframe {
+  border-radius: 12px;
+  margin-top: 20px;
+  border: none;
+}
+
+.streetview-container iframe[src*="google.com"] {
+  opacity: 1;
+}
+
+/* Debug coords box */
+.debug-coords-box {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  background: #000000cc;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+/* User Marker Icon */
+.leaflet-marker-icon .user-icon {
+  background-color: #00d1ff;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 0 10px #00d1ff;
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  background-image: url('/images/avatar.gif');
+  background-size: cover;
+  animation: pulse 1s infinite ease-in-out;
+}
+
+
+
+/* Avatar icon (if used) */
+.avatar-icon {
+  width: 40px;
+  height: 40px;
+  background: url('/images/avatar.png') no-repeat center center / contain;
+  border-radius: 50%;
+}
+
+/* Label boxes */
+.building-label div {
+  background: rgba(0,0,0,0.75);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  white-space: nowrap;
+  transform: translate(-50%, -150%);
+  position: relative;
+}
+
+
+
+/* Recenter Button */
+.recenter-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  padding: 10px 20px;
+  background-color: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  transition: background-color 0.3s ease;
+}
+
+.recenter-btn:hover {
+  background-color: #3730a3;
+}
+
+/* Street View Iframe */
+.streetview-frame {
+  width: 100%;
+  height: 400px;
+  border: 0;
+  border-radius: 12px;
+  margin-top: 20px;
+
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+
+
+
+
+
+/* Container for map buttons */
+.map-button-group {
+  position: absolute;
+  bottom: 60px; /* ⬅️ Increased from 12px */
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 12px;
+  z-index: 1000;
+}
+
+
+/* Common button styling */
+.map-button {
+  padding: 12px 24px;
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.3);
+}
+
+.map-button:hover {
+  background-color: #3730a3;
+  transform: translateY(-2px);
+}
+
+/* Container for map buttons */
+.map-button-group {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 12px;
+  z-index: 1000;
+}
+
+.map-button {
+  padding: 12px 24px;
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.3);
+}
+
+.map-button:hover {
+  background-color: #3730a3;
+  transform: translateY(-2px);
+}
+
+
+
+.leaflet-control-layers label{
+  color: #000000;
+  font-weight: 30px;
+  left: 10px;
+}
+
+.leaflet-control-layers {
+  border-radius: 12px;
+  z-index: 1001;
+  background-color: #1f2937e7 !important;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.leaflet-control-layers-expanded {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  max-width: 200px;
+  font-size: 14px;
+  height: 90px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.distance-info {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 8px 16px;
+  border-radius: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  z-index: 1000;
+  transition: all 0.4s ease;
+}
+
+.distance-info.tracking {
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.distance-info.not-tracking {
+  position: absolute;
+  bottom: 35px;
+  left: 30px;
+}
+
+
+
+.leaflet-control-zoom {
+  display: none !important;
+}
+
+/* Completely hide the Leaflet Routing UI box */
+.hidden-routing-container {
+  display: none !important;
+}
+
+
+
+
+/* Map expand/shrink styles */
+.map-container {
+  width: 100%;
+  height: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* Add this to prevent container scroll conflicts when map is fixed */
+.container {
+  position: relative;
+  z-index: 1;
+}

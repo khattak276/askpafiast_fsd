@@ -1,0 +1,1066 @@
+.admin-dashboard-page {
+  padding-top: 120px;
+  text-align: center;
+}
+
+/* ===== AdminLogoutButton styles ===== */
+
+.admin-logout-btn {
+  position: fixed;
+  top: 24px; /* roughly same vertical as Go Back */
+  right: 64px;
+  background: rgba(255, 255, 255, 0.016);
+  backdrop-filter: blur(12px);
+  color: #fffbfb9d;
+  font-size: 1.1rem;
+  border: 1px solid rgba(255, 255, 255, 0.051);
+  border-radius: 12px;
+  padding: 11px 15px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  z-index: 999;
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.045);
+}
+
+.admin-logout-btn:hover {
+  background: rgba(18, 17, 48, 0.078);
+  transform: translateY(-3px);
+}
+
+/* Responsive – logout button only */
+@media (max-width: 900px) {
+  .admin-logout-btn {
+    top: 70px;
+    right: 16px;
+    padding: 8px 20px;
+  }
+}
+
+/* ===== AdminProfileCard / Info Card styles ===== */
+
+/* Main card section – centers the card */
+.admin-card-section {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 60px;
+}
+
+/* Main card – broader container + more height */
+.admin-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 64px 52px 56px;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 720px;
+}
+
+/* Profile area – extra bottom margin so pill never overlaps first row */
+.admin-profile {
+  text-align: center;
+  margin-bottom: 4.5rem; /* more gap under the pill */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Avatar image – smaller */
+.admin-avatar {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 0 28px rgba(15, 23, 42, 0.8);
+  background: radial-gradient(circle at top, #1f2937, #020617);
+}
+
+/* Name below avatar */
+.admin-name {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 6px;
+  margin-bottom: 4px;
+  color: #787879;
+}
+
+/* Role pill under name – FORCE normal flow, no absolute */
+.admin-profile .admin-role-pill {
+  position: static;              /* overrides any other file */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 18px;
+  border-radius: 400px;
+  background: rgb(11, 61, 168);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+/* Info grid – plus an explicit top margin so it never touches the pill */
+.admin-info-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px 26px;
+  margin-top: 1.5rem; /* <- extra vertical gap below profile section */
+}
+
+.admin-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.admin-field.wide {
+  grid-column: 1 / -1;
+}
+
+.admin-field label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #a1a1aa;
+}
+
+/* Value box */
+.admin-field-box {
+  background: rgba(17, 24, 39, 0.9);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 11px 14px;
+  font-size: 0.95rem;
+  color: #e5e7eb;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+/* Buttons row – side by side */
+.admin-buttons-row {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+/* when inside the .admin-info-grid, span full width */
+.admin-info-grid .admin-buttons-row {
+  grid-column: 1 / -1;
+}
+
+/* Status messages under forms / cards */
+.admin-status-message {
+  margin-top: 14px;
+  margin-bottom: 4px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.admin-status-message.error {
+  color: #f87171;
+}
+
+.admin-status-message.success {
+  color: #4ade80;
+}
+
+/* Buttons (shared with other cards) */
+.admin-btn {
+  border-radius: 12px;
+  padding: 12px 30px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.25s ease;
+}
+
+.admin-btn.primary {
+  background: linear-gradient(90deg, #00b3ff86, #0062ff75);
+  color: #ffffff;
+  box-shadow: 0 10px 25px rgba(37, 100, 235, 0.103);
+}
+
+.admin-btn.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(37, 100, 235, 0.137);
+}
+
+.admin-btn.secondary {
+  background: rgba(255, 255, 255, 0.06);
+  color: #ffffff;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.7);
+}
+
+.admin-btn.secondary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.9);
+}
+
+/* Responsive – card + grid only */
+@media (max-width: 900px) {
+  .admin-card {
+    padding: 40px 22px 30px;
+    width: 94%;
+    min-height: 640px;
+  }
+
+  .admin-avatar {
+    width: 110px;
+    height: 110px;
+  }
+
+  .admin-info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ========================= */
+/* 🔹 Event Form Power Card  */
+/* ========================= */
+
+.admin-event-section {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 70px;
+}
+
+.admin-event-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 34px 40px 30px;
+  border-radius: 26px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+}
+
+/* heading inside the card (not page main h1) */
+.admin-section-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 8px;
+  border-left: 3px solid #00b4ff;
+  padding-left: 12px;
+}
+
+.admin-event-helper {
+  color: #9ca3af;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+/* form layout */
+.admin-event-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.admin-event-row {
+  width: 100%;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.admin-event-row.two-col {
+  justify-content: space-between;
+}
+
+.admin-input,
+.admin-textarea {
+  flex: 1;
+  background: rgba(17, 24, 39, 0.9);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 11px 14px;
+  font-size: 0.95rem;
+  color: #e5e7eb;
+  outline: none;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease,
+    background 0.25s ease;
+}
+
+.admin-input::placeholder,
+.admin-textarea::placeholder {
+  color: #6b7280;
+}
+
+.admin-input:focus,
+.admin-textarea:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.4);
+  background: rgba(15, 23, 42, 0.98);
+}
+
+.admin-textarea {
+  resize: none;
+  min-height: 90px;
+}
+
+/* file input */
+.admin-file-label {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  font-size: 0.9rem;
+  color: #d1d5db;
+}
+
+.admin-file-input {
+  width: 100%;
+  background: rgba(17, 24, 39, 0.9);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 9px 12px;
+  font-size: 0.9rem;
+  color: #e5e7eb;
+  cursor: pointer;
+}
+
+.admin-file-input::file-selector-button {
+  border: none;
+  border-radius: 8px;
+  padding: 6px 12px;
+  margin-right: 10px;
+  background: linear-gradient(90deg, #00b3ff86, #0062ff75);
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+/* actions */
+.admin-event-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+  gap: 12px;
+}
+
+/* ========================= */
+/* 🔹 Preview Card Styles    */
+/* ========================= */
+
+.admin-event-preview {
+  margin-top: 26px;
+  padding: 22px 22px 24px;
+  border-radius: 24px;
+  border: 1px solid rgba(129, 140, 248, 0.65);
+  color: #e5e7eb;
+}
+
+.admin-event-preview-image-wrapper {
+  width: 100%;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
+
+.admin-event-preview-image {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  max-height: 260px;
+}
+
+.admin-event-preview-title {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.admin-event-preview-line {
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+}
+
+/* 📱 Responsive */
+@media (max-width: 900px) {
+  .admin-event-card {
+    padding: 26px 20px 24px;
+    width: 94%;
+  }
+
+  .admin-event-row.two-col {
+    flex-direction: column;
+  }
+
+  .admin-event-actions {
+    justify-content: center;
+  }
+}
+
+/* =============================== */
+/* 🔹 App Content Control Panel    */
+/* =============================== */
+
+.admin-content-section {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 80px;
+}
+
+.admin-content-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 34px 40px 30px;
+  border-radius: 26px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+}
+
+/* Header: title + page select on the right */
+.admin-content-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 22px;
+  margin-bottom: 18px;
+}
+
+.admin-page-select {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  min-width: 220px;
+}
+
+.admin-page-select label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #d1d5db;
+}
+
+/* Layout: left text settings + right assets list */
+.admin-content-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 24px;
+  margin-top: 8px;
+}
+
+.admin-content-text-panel,
+.admin-content-assets-panel {
+  width: 100%;
+}
+
+/* Small subtitles inside the card */
+.admin-content-subtitle {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #f9fafb;
+  margin-bottom: 6px;
+}
+
+.admin-content-helper {
+  color: #9ca3af;
+  font-size: 0.86rem;
+  margin-bottom: 14px;
+}
+
+/* Assets list */
+.admin-asset-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.admin-asset-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 9px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+  background: rgba(15, 23, 42, 0.9);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+}
+
+.admin-asset-item:hover {
+  border-color: #6366f1;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.45);
+  transform: translateY(-1px);
+}
+
+.admin-asset-item.selected {
+  border-color: #6366f1;
+  background: radial-gradient(
+    circle at top left,
+    rgba(99, 102, 241, 0.28),
+    rgba(15, 23, 42, 0.95)
+  );
+}
+
+.admin-asset-label {
+  font-size: 0.9rem;
+  color: #e5e7eb;
+}
+
+.admin-asset-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.7);
+}
+
+.admin-asset-tag.asset-image {
+  background: rgba(56, 189, 248, 0.15);
+  border-color: rgba(56, 189, 248, 0.7);
+  color: #7dd3fc;
+}
+
+.admin-asset-tag.asset-section {
+  background: rgba(129, 140, 248, 0.15);
+  border-color: rgba(129, 140, 248, 0.7);
+  color: #a5b4fc;
+}
+
+/* Actions under assets & bottom save */
+.admin-content-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+
+.admin-content-actions.bottom {
+  margin-top: 20px;
+  border-top: 1px solid rgba(148, 163, 184, 0.3);
+  padding-top: 16px;
+}
+
+/* 📱 Responsive */
+@media (max-width: 900px) {
+  .admin-content-card {
+    padding: 26px 20px 24px;
+    width: 94%;
+  }
+
+  .admin-content-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .admin-page-select {
+    width: 100%;
+  }
+
+  .admin-content-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .admin-content-actions,
+  .admin-content-actions.bottom {
+    justify-content: center;
+  }
+}
+
+/* =============================== */
+/* 🔹 Society Info Manager Card    */
+/* =============================== */
+
+.society-section {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 70px;
+}
+
+.society-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 34px 40px 30px;
+  border-radius: 26px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+  text-align: left;
+}
+
+.society-helper-text {
+  color: #9ca3af;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+/* form layout */
+.society-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.society-row {
+  width: 100%;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.society-row.two-col {
+  justify-content: space-between;
+}
+
+.society-row.three-col {
+  justify-content: space-between;
+}
+
+.society-row.three-col .admin-input {
+  min-width: 0;
+}
+
+/* select style */
+.society-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-right: 30px;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0)
+  );
+  background-position: right 10px center;
+  background-repeat: no-repeat;
+}
+
+/* actions */
+.society-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+  gap: 12px;
+}
+
+/* preview card */
+.society-preview {
+  margin-top: 24px;
+  padding: 20px 22px 22px;
+  border-radius: 22px;
+  border: 1px solid rgba(52, 211, 153, 0.5);
+  background: rgba(15, 23, 42, 0.9);
+  color: #e5e7eb;
+}
+
+.society-preview-title {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.society-preview-line {
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+}
+
+/* 📱 Responsive for society card */
+@media (max-width: 900px) {
+  .society-card {
+    padding: 26px 20px 24px;
+    width: 94%;
+  }
+
+  .society-row.two-col,
+  .society-row.three-col {
+    flex-direction: column;
+  }
+
+  .society-actions {
+    justify-content: center;
+  }
+}
+
+/* ===================================== */
+/* 🔹 User Management / Control Panel    */
+/* ===================================== */
+
+.user-mgmt-section {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 80px;
+}
+
+.user-mgmt-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 34px 40px 30px;
+  border-radius: 26px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+}
+
+.user-mgmt-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.user-mgmt-helper {
+  color: #9ca3af;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+/* chips (filters) */
+.user-mgmt-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.user-mgmt-chip {
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.8rem;
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  background: rgba(15, 23, 42, 0.9);
+  color: #e5e7eb;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.user-mgmt-chip:hover {
+  border-color: #38bdf8;
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
+}
+
+.user-mgmt-chip-active {
+  border-color: #6366f1;
+  background: linear-gradient(90deg, #4f46e5, #0ea5e9);
+  color: #ffffff;
+}
+
+.pending-chip {
+  border-color: #fbbf24;
+}
+
+/* search row */
+.user-mgmt-search-row {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.user-mgmt-search-input {
+  width: 100%;
+}
+
+/* table */
+.user-mgmt-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.user-mgmt-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.user-mgmt-table thead {
+  background: rgba(15, 23, 42, 0.9);
+}
+
+.user-mgmt-table th,
+.user-mgmt-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(31, 41, 55, 0.9);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.user-mgmt-table th {
+  font-weight: 600;
+  color: #d1d5db;
+}
+
+.user-mgmt-table tbody tr:hover {
+  background: rgba(15, 23, 42, 0.7);
+}
+
+/* status pill */
+.user-status-pill {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 0.8rem;
+}
+
+.user-status-pill.status-active {
+  background: rgba(34, 197, 94, 0.16);
+  color: #4ade80;
+  border: 1px solid rgba(34, 197, 94, 0.4);
+}
+
+.user-status-pill.status-pending {
+  background: rgba(245, 158, 11, 0.16);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
+.user-status-pill.status-blocked {
+  background: rgba(239, 68, 68, 0.16);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.4);
+}
+
+/* actions column */
+.user-mgmt-actions-col {
+  text-align: right;
+}
+
+.user-mgmt-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.user-mgmt-btn {
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 0.78rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.approve-btn {
+  background: rgba(34, 197, 94, 0.18);
+  color: #bbf7d0;
+}
+
+.approve-btn:hover {
+  background: rgba(34, 197, 94, 0.32);
+}
+
+.block-btn {
+  background: rgba(251, 191, 36, 0.18);
+  color: #fef3c7;
+}
+
+.block-btn:hover {
+  background: rgba(251, 191, 36, 0.32);
+}
+
+.delete-btn {
+  background: rgba(239, 68, 68, 0.18);
+  color: #fecaca;
+}
+
+.delete-btn:hover {
+  background: rgba(239, 68, 68, 0.32);
+}
+
+/* empty state */
+.user-mgmt-empty {
+  text-align: center;
+  padding: 18px 0;
+  color: #9ca3af;
+}
+
+/* 📱 Responsive */
+@media (max-width: 900px) {
+  .user-mgmt-card {
+    padding: 26px 20px 24px;
+    width: 94%;
+  }
+
+  .user-mgmt-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .user-mgmt-actions {
+    justify-content: flex-start;
+  }
+
+  .user-mgmt-table th,
+  .user-mgmt-table td {
+    padding: 8px 10px;
+  }
+}
+
+/* ========================= */
+/* 🔹 Create User Card       */
+/* ========================= */
+
+.admin-create-section {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 70px;
+}
+
+.admin-create-card {
+  width: 92%;
+  max-width: 1350px;
+  padding: 34px 40px 30px;
+  border-radius: 26px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+}
+
+.admin-create-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.admin-create-role-hint {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin-top: 4px;
+}
+
+@media (max-width: 900px) {
+  .admin-create-card {
+    padding: 26px 20px 24px;
+    width: 94%;
+  }
+}
+
+/* ───────────────────────────────────────────── */
+/* User management – filters & arrange controls */
+/* ───────────────────────────────────────────── */
+
+.user-mgmt-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.user-mgmt-select-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: #a1a1aa;
+}
+
+.user-mgmt-select-label {
+  padding-left: 4px;
+}
+
+.user-mgmt-select-group select {
+  min-width: 150px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  background: rgba(15, 23, 42, 0.9);
+  color: #e5e7eb;
+  font-size: 0.8rem;
+  outline: none;
+}
+
+.user-mgmt-select-group select:focus {
+  border-color: rgba(59, 130, 246, 0.9);
+  box-shadow: 0 0 0 1px rgba(59, 130, 246, 0.25);
+}
+
+.user-mgmt-arrange-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.user-mgmt-direction-select {
+  min-width: 110px;
+}
+
+/* Pill for "Students" on organizer dashboard */
+.user-mgmt-students-pill {
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: rgba(59, 130, 246, 0.18);
+  border: 1px solid rgba(59, 130, 246, 0.8);
+  color: #e5e7eb;
+  font-size: 0.8rem;
+}
+
+
+
+
+/* ========================================= */
+/* 🔧 FINAL OVERRIDE – FIX PROFILE OVERLAP   */
+/* ========================================= */
+
+/* Extra wrapper class on the profile header */
+.admin-profile-header {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
+  margin-bottom: 0.5rem !important; /* big gap before FIRST/LAST NAME row */
+}
+
+/* Force smaller avatar size */
+.admin-profile-header .admin-avatar {
+  width: 140px !important;
+  height: 140px !important;
+  border-radius: 40% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+/* Force the pill to stay under the name, not absolute anywhere */
+.admin-profile-header .admin-role-pill-header {
+  position: static !important;
+  top: auto !important;
+  left: auto !important;
+  transform: none !important;
+
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+
+  padding: 4px 18px !important;
+  border-radius: 999px !important;
+  background: rgb(11, 61, 168) !important;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.08em !important;
+
+  margin-top: 0.5rem !important;
+  margin-bottom: 0 !important;
+}
+
+/* Make sure the grid never hugs the pill */
+.admin-card .admin-info-grid {
+  margin-top: 1.8rem !important;
+}

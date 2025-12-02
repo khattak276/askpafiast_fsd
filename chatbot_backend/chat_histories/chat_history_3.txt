@@ -1,0 +1,12 @@
+[2025-11-29 17:22:03] USER: hey can u tell me my name?
+[2025-11-29 17:22:03] AI  : Your name is Haseeb.
+
+[2025-11-29 18:26:57] USER: my name is usman
+[2025-11-29 18:26:57] AI  : Nice to meet you, Usman! It seems we had a little mix-up earlier. Your name is indeed Usman. How can I assist you today? Would you like to know more about PAF-IAST, its International Office, or something else?
+
+[2025-12-01 10:19:06] USER: hey
+[2025-12-01 10:19:06] AI  : It seems like we're stuck on the greeting. Let me try to steer the conversation in a different direction. As a STUDENT from the CS department, you might be interested in knowing about the penalties for students at PAF-IAST. Would you like me to share that information with you?
+
+[2025-12-01 20:01:17] USER: hekllo
+[2025-12-01 20:01:17] AI  : It looks like you're getting excited. If you're ready, we can move on to discussing something specific about PAF-IAST or I can share some information on the role of HEC. Which one would you prefer?
+

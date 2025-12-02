@@ -1,0 +1,15 @@
+[2025-11-29 17:21:18] USER: what is my name ?
+[2025-11-29 17:21:18] AI  : Unfortunately, I don't have any information about your name in our previous conversation. You're a new user, and we're starting from scratch. If you'd like to share your name, I'd be happy to know it!
+
+[2025-11-29 17:21:25] USER: my name is haseeb
+[2025-11-29 17:21:25] AI  : Nice to meet you, Haseeb! I've taken note of your name. How can I assist you today? Would you like to know more about PAF-IAST, its departments, or perhaps ask a specific question?
+
+[2025-11-29 17:21:43] USER: can u tell me whats my name ?
+[2025-11-29 17:21:43] AI  : Your name is Haseeb.
+
+[2025-11-30 18:24:04] USER: hey
+[2025-11-30 18:24:04] AI  : How can I assist you today? Would you like to know more about the penalties for students at PAF-IAST?
+
+[2025-12-01 10:13:06] USER: hey
+[2025-12-01 10:13:06] AI  : It seems like we're repeating the greeting. If you're ready, I can provide information on the penalties for students at PAF-IAST. Would you like to know more about that?
+

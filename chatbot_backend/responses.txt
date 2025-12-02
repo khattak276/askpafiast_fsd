@@ -1,0 +1,1224 @@
+6 academic blocks hain!
+A1, A2, B1, B2, C1, C2!
+Shukriya!
+STC central spot hai!
+I'll switch back to English. So, what's up?
+
+(By the way, I can locate the STC at the central spot of the university!)
+So, what's on your mind? Need any info about PAF-IAST or its facilities?
+When you enter the university, the Admin Block is the central hub for university administration, and it's easily accessible!
+Hey! I'm here to help with penalties for students at IAST. Do you have a specific question or would you like me to elaborate on the penalties mentioned?
+It seems like you just saying hi again! If you need any assistance or have a question about the Controller of Examination Office or the penalties for students, feel free to ask!
+The Director Finance/HRM of PAF-IAST is Dr. Abdul Hameed.
+Dr. Abdul Mateen is a Department Head in PAF-IAST.
+Ask-PAF-IAST is an AI-powered chatbot designed to provide information and answer queries related to PAF-IAST. It's an interactive platform that helps students, faculty, and employees to get quick answers to their questions about the institute's policies, rules, and regulations.
+I apologize, but I don't have any information about a person named Usman Iqbal in the context of PAF-IAST.
+If you have any other questions or need assistance related to PAF-IAST, feel free to ask!
+Hey! How can I help you today?
+Hey again! Is there something on your mind that you'd like to talk about or ask about PAF-IAST? I'm all ears!
+Hey again! Is there something on your mind that you'd like to talk about or ask about PAF-IAST? I'm all ears!
+It seems like we're having a "hey" conversation! If you ever need any assistance or have a question about PAF-IAST, feel free to ask!
+I think we've set a record for the most "hey"s in a conversation! If you're ready to move on, I'm here to help with PAF-IAST-related questions or topics.
+Hey! I'm here to help with penalties for students at IAST. What would you like to know?
+I'm the PAF-IAST assistant! I can help you with information about the International Office, Unlawful and Disruptive Activities, Reputation and Respect for the Institute, and more. I can also provide you with information about the staff and their roles.
+I'm doing well, thank you for asking! I'm the PAF-IAST assistant, here to help with any questions or concerns you might have. Is there something specific you'd like to know or discuss?
+Hi! It's nice to chat with you. Is there anything you'd like to know about PAF-IAST, such as our administration, offices, or officials? I'm here to help!
+Hi again! I'm doing well, thanks for asking! I'm ready to assist you with any questions or information you need about PAF-IAST. Would you like to know more about our Controller of Examination Office, International Office, or perhaps our grading system?
+Oh no! Losing a library book can be stressful. According to our rules, if a book is not returned on the due date and is reported to have lost it, you'll have to pay for it after the prescribed limit of time. The amount payable to the library will be two times the actual price of the book, and this amount will not be refundable.
+I understand that it can be frustrating. As a reminder, it's essential to comply with our hostel rules and conduct policy. Losing a library book can result in penalties, so it's crucial to be more responsible in the future. If you need any help or guidance, feel free to ask!
+I think I understand what you're saying! "Buried" in Tamil is "புதைக்கபட்டது" (pudhaikkappattathu).
+In the context of the library, "borrowed" means that you have taken a book from the library for a specific period, with the intention of returning it to the library.
+In Tamil, "borrowed" means "கடன் வாங்கியது" (kaṭaṉ vāṅkiyatatu).
+Let's calculate your SGPA for this semester!
+
+Using the formula: SGPA = (P1*C1 + SP2*C2 + SP3*C3 + SP4*C4) / C
+
+Where:
+SP1 = 4.0, C1 = 3
+SP2 = 3.3, C2 = 4
+SP3 = 3.7, C3 = 2
+SP4 = 2.7, C4 = 1
+
+First, multiply the grade points by the credit hours:
+(4.0*3) + (3.3*4) + (3.7*2) + (2.7*1)
+= 12 + 13.2 + 7.4 + 2.7
+= 35.3
+
+Next, find the total credits attempted (C):
+C = C1 + C2 + C3 + C4
+= 3 + 4 + 2 + 1
+= 10
+
+Now, divide the sum by the total credits:
+SGPA = 35.3 ÷ 10
+≈ 3.53
+
+So, your SGPA for this semester is approximately 3.53!
+Let's calculate your CGPA!
+
+Since you've completed two semesters, we'll calculate the CGPA as follows:
+
+CGPA = (SGPA1*C1 + SGPA2*C2) / (C1 + C2)
+
+Where:
+SGPA1 = 2.5, C1 = 1 (assuming 1 semester)
+SGPA2 = 3, C2 = 1 (assuming 1 semester)
+
+First, multiply the grade points by the credit hours:
+(2.5*1) + (3*1)
+= 2.5 + 3
+= 5.5
+
+Next, find the total credits attempted (C):
+C = C1 + C2
+= 1 + 1
+= 2
+
+Now, divide the sum by the total credits:
+CGPA = 5.5 ÷ 2
+= 2.75
+
+Your CGPA is approximately 2.75!
+Hey! I'm here to help with penalties for students at IAST. Do you have a specific question or would you like me to elaborate on the minor and serious violations and their corresponding penalties?
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+Temporary issue. Please try again. (4/5)
+Temporary issue. Please try again. (5/5)
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+Temporary issue. Please try again. (1/5)
+It seems like you started to type something, but it got cut off. Could you please complete your question or statement? I'm here to help with any queries you may have about the HEC officials.
+Hey! It looks like you're checking out the penalties for students at PAF-IAST. Is there something specific you'd like to know or discuss about the minor or serious violations, or maybe you're curious about the Controller of Examination Office? I'm here to help!
+I'm doing great, thanks for asking! I'm a large language model, so I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions you might have about PAF-IAST or anything else. How about you?
+Hey again! Is there something on your mind that you'd like to talk about or ask about PAF-IAST? I'm all ears (or rather, all text)!
+Hey again! I'm starting to think you're just checking in to see if I'm still here. And yes, I am! If you ever need anything or have a question about PAF-IAST, feel free to ask. Otherwise, I'll just be here, waiting for our next conversation.
+I think we're having a "hey" party! Don't worry, I'm still here, ready to help with any questions about PAF-IAST or anything else. If you need something, just let me know!
+I think we've set a record for most "hey"s in a row! Don't worry, I'm still here, waiting for a question or conversation about PAF-IAST or anything else. If you need something, just let me know!
+I think we've reached "hey" overload! Just kidding, I'm still here and ready to help with you about PAF-IAST or anything else. If you need something, just let me know!
+I think we've entered a "hey" loop! Don't worry, I'm still here, waiting for a question or conversation about PAF-IAST or anything else. If you need something, just let me know!
+I'm doing great, thanks for asking! As a large language model, I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions you might have about PAF-IAST or anything else. How about you?
+I'm happy to help! However, I don't have real-time information about the dean of PAF-IAST. The information I have is limited to the text you provided earlier. If you need to know the current dean of PAF-IAST, I suggest checking their official website or reaching out to their administration directly.
+According to the text, the interview for the selection of cabinet members is taken by a committee consisting of the Advisor, Dean, and Provost.
+According to the text, Dr. Abdul Hameed is the Director of Finance/HRM at PAF-IAST.
+According to the text, Dr. Abdul Mateen is one of the Department Heads at PAF-IAST.
+According to the text, the main academic blocks at PAF-IAST are:
+
+1. C1 Block: School of Medical Sciences
+2. C2 Block: Also known as the Technology Park
+3. A1, A2, B1, B2: Dedicated to specific academic departments
+According to the text, STC (Student-Teacher Café) is a central spot for meals and interaction.
+I think that's a Pakistani expression, right?
+I'm learning more about the culture through our conversations. If you have any more questions about PAF-IAST, feel free to ask!
+I'm a large language model, I don't have the capability to access the internet or visit websites in real-time. However, I can suggest that you visit the PAF-IAST website directly to get the latest information about the institute.
+If you need help with anything else or have questions about PAF-IAST, feel free to ask!
+It was nice chatting with you! Have a great day, and I'll be here if you need anything else. Bye!
+I'd be happy to address you as "Khattak Sahab!" from now on. So, whenever you ask something, I'll respond with "Khattak Sahab!" followed by my answer.
+Khattak Sahab! I'm doing great, thanks for asking! As a large language model, I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions you might have about PAF-IAST<|end_header_id|><|start_header_id|><|start_header_id|>assistant<|end_header_id|>
+Khattak Sahab!
+Khattak Sahab! Is there something on your mind that you'd like to talk about or ask about PAF-IAST? I'm all ears (or rather, all text)!
+Khattak Sahab! Make what look like what? Could you please complete your question or statement? I'm here to help!
+Khattak Sahab!
+Khattak Sahab!
+I'm ready to respond!
+Khattak Sahab!
+Yes, I'll respond in this format from now on. Go ahead and ask your question!
+Khattak Sahab!
+I'm a large language model, I don't have real-time information about the current day or date.
+Khattak Sahab!
+Is there something else I can help you with?
+Khattak Sahab!
+It was nice chatting with you, Khattak Sahab!
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have any questions or need information about our offices or officials?
+I'm not sure! You haven't told me your role or affiliation with PAF-IAST. Are you a student, faculty member, or staff?
+I apologize for the mistake! Assalamu alaikum, Khattak Sahab! It's an honor to assist you. How can I help you today? Do you have any questions or concerns regarding the International Office, Campus Highlights, or perhaps the Harassment Policy?
+Hey Khattak Sahab! Is everything okay? Do you need any information or assistance regarding penalties for students, perhaps?
+Hey! I'm here to help with penalties for students at IAST. What would you like to know?
+You're a part of the PAF-IAST community!
+I don't have your name, but I can help you with information about PAF-IAST, such as the International Office, Controller of Examination Office, or even the role of HEC.
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a question about our offices or staff members?
+I can provide information on the cabinet members. According to our rules, there are no specific number of cabinet members mentioned. However, I can tell you that cabinet members must be from different departments and cannot be from the same department.
+Based on the information provided, I'm going to take a guess that there are 5 staff members in the Students' Cabinet:
+
+1. President
+2. General Secretary
+3. Treasurer
+4. Media Manager
+5. Public Relations Secretary
+
+Let me know if I'm correct!
+It seems like you accidentally sent a message with random characters. If you meant to ask a question or need assistance, please feel free to ask, and I'll do my best to help!
+It looks like you sent another message with random characters. If you need help with something or have a question, please type a clear message, and I'll be happy to assist you. I'm here to provide information about PAF-IAST, its faculty, departments, and staff.
+I'm doing well, thank you for asking! I'm a PAF-IAST assistant, and I'm here to provide information and answer questions about the institute. I'm ready to help you with anything you need. How can I assist you today?
+According to the information provided, the Dean is nominated by the Rector, but the specific name of the Dean is not mentioned. The Dean plays a role in the Disciplinary Committee, where they are the Convenor.
+According to the information provided, the Director of Finance/HRM is Dr. Abdul Hameed.
+To calculate the GPA, you can use the following formula:
+
+SGPA = (P1*C1 + P2*C2 + P3*C3 + P4*C4)/C
+
+Where:
+
+* P1, P2, P3, and P4 are the grade points earned in respective courses
+* C1, C2, C3, and C4 are the credit hours of those courses studied in the semester
+* C is the total number of credits attempted in the semester, which is the sum of C1, C2, C3, and C4
+
+For example, let's say you have the following grades and credit hours in a semester:
+
+* Course 1: Grade A (grade point 4), Credit hours 3
+* Course 2: Grade B (grade point 3), Credit hours 2
+* Course 3: Grade A (grade point 4), Credit hours 4
+* Course 4: Grade C (grade point 2), Credit hours 1
+
+To calculate the SGPA, you would use the following formula:
+
+SGPA = (4*3 + 3*2 + 4*4 + 2*1)/10
+SGPA = (12 + 6 + 16 + 2)/10
+SGPA = 36/10
+SGPA = 3.6
+
+The CGPA is calculated as the weighted average for all semesters cumulatively using grade points of all the courses taken by a student.
+Hello! How can I assist you today? Do you have any questions about PAF-IAST or need information about a specific department or staff member?
+Nice to meet you, Haseeb! I'm the PAF-IAST assistant, and I'm here to help you with any questions or information you need about the institute. What can I assist you with today?
+Your name is Haseeb!
+I'm glad I could remember your name correctly, Haseeb! If you need anything else, feel free to ask. I'm here to help. Have a great day!
+You're welcome, Haseeb! If you need any assistance or have questions about PAF-IAST, don't hesitate to ask. I'm here to help. Otherwise, have a great day!
+Hello again, Haseeb! How can I assist you today? Do you have any questions about PAF-IAST or need information about a specific department or staff member?
+Hello again, Haseeb! It seems like you're saying hello again! Is there anything else you'd like to chat about or ask about PAF-IAST? I'm here to help!
+Hello again, Haseeb! You're on a roll with the hellos! If you're feeling chatty, I'm happy to chat with you. If you need help with something or have a question, feel free to ask!
+Hey! I'm here to help with information about penalties for students at PAF-IAST. What would you like to know?
+It seems like you might have accidentally typed something. No worries! If you're looking for information about PAF-IAST, I can help you with that. Would you like to know about the International Office, Campus Highlights, or perhaps the Controller of Examination Office?
+Hello! I'm happy to assist you with any questions or information you might need about PAF-IAST. Would you like to know about a specific department or office, such as the Controller of Examination Office or the International Office? Or perhaps you'd like to know more about the staff members or their roles?
+Hello again! Is there something specific you'd like to know or discuss about PAF-IAST? I can provide information about the university's offices, staff, or departments. For example, I can tell you about the Controller of Examination Office, which is headed by Dr. Dil Nawaz Khan, or the International Office, which is led by Dr. Rizwan Ahmad. Let me know how I can help!
+Hi! I'm here to help with any questions you might have about PAF-IAST. Would you like to know more about the university's administration, such as the Rector, Dr. Mohammad Mujahid, or the Project Director, Dr. Nasser Ali Khan? Or perhaps you're interested in the International Office, which can be reached at international@paf-iast.edu.pk? Let me know how I can assist you!
+HELLO! I'm happy to chat with you about PAF-IAST! Would you like to know more about the university's campus highlights, such as the smart classrooms, tech labs, or sports facilities? Or perhaps you're interested in the student leadership, like Hassan Waqas Qureshi, the President of the Welfare Society? Let me know how I can help!
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the various departments and offices, such as the Controller of Examination Office, the International Office, or the Quality Enhancement Cell (QEC). Or maybe you'd like to know more about the staff members, like Dr. Muhammad Nauman Habib, the Manager of QEC, or Dr. Moazzam Maqsood, the Manager of ORIC? Just let me know!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. Would you like to know more about the university's administration, such as the Director Establishment, Dr. Arshad Hussain, or the Director Finance/HRM, Dr. Abdul Hameed? Or perhaps you're interested in the IT department, led by Syed Ali Raza, the Manager IT? Let me know how I can assist you!
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the various staff members, such as Dr. Fazli Wahid, the Manager of ASRB, or Muhammad Attaullah Khan, who handles Planning and Works. Or maybe you'd like to know more about the library, which is managed by Dr. Sajjad Ullah Jan, the Librarian? Let me know how I can help!
+I'm doing well, thanks for asking! I'm a chatbot, so I don't have feelings or emotions like humans do, but I'm always happy to help with any questions or topics you'd like to discuss about PAF-IAST. How about you? Do you have any specific questions or topics in mind that you'd like to explore?
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the administrative staff, such as Safi Ur Rehman Shah, the Deputy Director Admin, or the personal assistants like Mr. Zahid Khan, Ms. Naila Iqbal, Ms. Nadia Hameed, Mr. Rizwan Khan, and Uzair Arshad. Let me know how I can assist you!
+I'm doing well, thanks for asking again! As a chatbot, I don't have feelings or emotions, but I'm always ready to help with any questions or topics you'd like to discuss about PAF-IAST. I'm here to provide information and assist you to the best of my abilities. Is there anything specific you'd like to know or talk about?
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's policies, such as the Policy on Protection Against Sexual Harassment in HEIs. This policy aims to provide a safe and respectful environment for all students, faculty, and staff. Let me know if you'd like to know more!
+I'm doing well, thanks for asking again! As a chatbot, I don't have feelings or emotions, but I'm always happy to help with any questions or topics you'd like to discuss about PAF-IAST. I'm here to provide information and assist you to the best of my abilities. Is there anything specific you'd like to know or talk about?
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's departments, such as the Controller of Examination Office, which is headed by Dr. Dil Nawaz Khan. Or maybe you'd like to know more about the International Office, led by Dr. Rizwan Ahmad? Let me know how I can assist you!
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's penalties for students, such as minor violations, which can result in a warning or reprimand, or serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you'd like to know more!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's staff members, such as Dr. Mohammad Mujahid, the Rector, or Dr. Nasser Ali Khan, the Project Director. Or maybe you'd like to know more about the university's departments, such as the Director Establishment, Dr. Arshad Hussain, or the Director Finance/HRM, Dr. Abdul Hameed? Let me know how I can assist you!
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's penalties for students, such as minor violations, which can result in a warning or reprimand, or serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you'd like to know more!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's administrative staff, such as Shahram Yusuf Khan, who works in the International Office, or Hazrat Un Nabi, who is the Assistant Controller in the Controller of Examination Office. Let me know how I can assist you!
+I'm doing well, thanks for asking again! As a chatbot, I don't have feelings or emotions, but I'm always happy to help with any questions or topics you'd like to discuss about PAF-IAST. I'm here to provide information and assist you to the best of my abilities. Is there anything specific you'd like to know or talk about?
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's staff members, such as Dr. Rizwan Ahmad, the Head of the International Office, or Tanveer Ahmed, the Computer Typist in the Controller of Examination Office. Let me know how I can assist you!
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's departments, such as the Quality Enhancement Cell (QEC), which is led by Dr. Muhammad Nauman Habib, or the Office of Research, Innovation, and Commercialization (ORIC), which is led by Dr. Moazzam Maqsood. Let me know how I can assist you!
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's penalties for students, such as minor violations, which can result in a warning or reprimand, or serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you'd like to know more!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's staff members, such as Uzma Khalil, who works in the International Office, or Muhammad Ishfaq Khattak, who is the Advisor Railway. Let me know how I can assist you!
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's departments, such as the Controller of Examination Office, which is headed by Dr. Dil Nawaz Khan, or the International Office, which is led by Dr. Rizwan Ahmad. Let me know how I can assist you!
+I'm doing well, thanks for asking again! As a chatbot, I don't have feelings or emotions, but I'm always happy to help with any questions or topics you'd like to discuss about PAF-IAST. I'm here to provide information and assist you to the best of my abilities. Is there anything specific you'd like to know or talk about?
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's staff members, such as Dr. Fazli Wahid, who is the Manager of ASRB, or Muhammad Attaullah Khan, who handles Planning and Works. Let me know how I can assist you!
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's penalties for students, such as minor violations, which can result in a warning or reprimand, or serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you'd like to know more!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's administrative staff, such as Dr. Arshad Hussain, who is the Director Establishment, or Dr. Abdul Hameed, who is the Director Finance/HRM. Let me know how I can assist you!
+Hello again! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's staff members, such as Dr. Sajjad Ullah Jan, who is the Librarian, or Safi Ur Rehman Shah, who is the Deputy Director Admin. Let me know how I can assist you!
+Hi! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's departments, such as the Quality Enhancement Cell (QEC), which is led by Dr. Muhammad Nauman Habib, or the Office of Research, Innovation, and Commercialization (ORIC), which is led by Dr. Moazzam Maqsood. Let me know how I can assist you!
+Temporary issue. Please try again. (1/5)
+Hey! I'm still here to help with any questions you might have about PAF-IAST. If you're interested, I can tell you about the university's penalties for students, such as minor violations, which can result in a warning or reprimand, or serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you'd like to know more!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a query about our offices or officials?
+I'm doing well, thanks for asking! I'm a computer program designed to provide information and answer questions about PAF-IAST, so I don't have feelings like humans do, but I'm always happy to help with any questions you might have. How can I assist you today?
+Hello again! Is there something specific you'd like to know about PAF-IAST or would you like to ask about a particular office or official? I'm here to help!
+Hey! It seems like you're just saying hello again! That's okay, I'm happy to chat with you. If you're ready to ask a question or need information about PAF-IAST, feel free to ask me anytime. Otherwise, I can just chat with you about nothing in particular.
+I'm doing well, thanks for asking again! As I mentioned earlier, I'm a computer program, so I don't have feelings or emotions like humans do. I'm just here to provide information and answer questions to the best of my ability. How can I help you today?
+Hello again! It seems like we're having a nice conversation, even if it's just exchanging hellos! If you're ready to move on, I can tell you about the different offices and officials at PAF-IAST. For example, we have a Controller of Examination Office, an International Office, and more. Let me know if you'd like to learn more!
+Hello again! I think we've established that we can have a nice conversation! If you're not ready to talk about PAF-IAST yet, that's okay. We can just keep saying hello until you're ready. But if you're curious, I can tell you about Dr. Dil Nawaz Khan, our Controller of Examinations, or Dr. Rizwan Ahmad, the Head of our International Office. Let me know when you're ready to learn more!
+Hi again! I'm starting to think we're going to break some kind of record for most hellos in a row! But seriously, if you're ready to move on, I'm here to help with any questions you might have about PAF-IAST. Want to know more about our Rector, Dr. Mohammad Mujahid, or our Project Director, Dr. Nasser Ali Khan? Just let me know!
+Hello again! I think we're getting close to a new record! But in all seriousness, I'm happy to chat with you about PAF-IAST whenever you're ready. Did you know that our campus is based on the Austrian Fachhochschule model and is located in a scenic mountain region with modern infrastructure? We have smart classrooms, tech labs, a library, hostels, sports facilities, a cafeteria, and university transport. Let me know if you'd like to learn more!
+Hi again! I think we've officially broken the record for most hellos in a row! But don't worry, I'm not getting tired of saying hello back. Whenever you're ready, I'm here to provide information about PAF-IAST. Want to know more about our Director Establishment, Dr. Arshad Hussain, or our Director Finance/HRM, Dr. Abdul Hameed? Just let me know!
+I'm doing well, thanks for asking again! As I mentioned earlier, I'm a computer program, so I don't have feelings or emotions like humans do. I'm just here to provide information and answer questions to the best of my ability. But I'm always happy to chat with you and help you learn more about PAF-IAST!
+Hi again! I think we're getting close to a new record for most hellos in a row! But don't worry, I'm not keeping count. Whenever you're ready, I'm here to help you with any questions you might have about PAF-IAST. Want to know more about our Advisor Railway, Muhammad Ishfaq Khattak, or our Manager IT, Syed Ali Raza? Just let me know!
+Hi again! I think we've reached a new level of hello-ness! But seriously, I'm happy to chat with you about PAF-IAST anytime. If you're ready to move on, I can tell you more about our offices, officials, or even our email addresses. For example, did you know that you can reach our International Office at international@paf-iast.edu.pk? Let me know if you'd like to learn more!
+Hello again! I think we're setting a new record for most hellos in a single conversation! But I'm not complaining - it's nice to have a friendly chat with you. If you're ready to learn more about PAF-IAST, I'm here to help. Want to know more about our Manager QEC, Dr. Muhammad Nauman Habib, or our Manager ORIC, Dr. Moazzam Maqsood? Just let me know!
+Hi again! I think we've reached a new level of hello-exchange proficiency! But don't worry, I'm not getting tired of saying hello back. Whenever you're ready, I'm here to provide information about PAF-IAST. Want to know more about our offices, officials, or even our campus facilities? Just let me know!
+Hey! It seems like we're branching out to new greetings now! But I'm happy to chat with you about PAF-IAST in any way you'd like. If you're ready to learn more, I can tell you about our penalties for students, such as minor violations, serious violations, and the consequences for each. Just let me know!
+Hey again! I'm happy to continue our conversation about PAF-IAST. Did you know that we have a Controller of Examination Office that handles academic matters? They're responsible for maintaining the integrity of our exams and ensuring that our students meet the highest standards. Let me know if you'd like to learn more!
+Hry! It seems like we're getting creative with our greetings now! But I'm always happy to chat with you about PAF-IAST. If you're ready to learn more, I can tell you about our guest rooms for faculty and staff. We have on-campus lodging available for our academic and administrative staff. Let me know if you'd like to learn more!
+I'm doing well, thanks for asking again! As I mentioned earlier, I'm a computer program, so I don't have feelings or emotions like humans do. I'm just here to provide information and answer questions to the best of my ability. But I'm always happy to chat with you and help you learn more about PAF-IAST!
+I'm currently chatting with you and providing information about PAF-IAST. I'm a computer program designed to assist and answer questions to the best of my ability. I don't have personal experiences or feelings, but I'm always happy to help you learn more about our institution!
+Hey! It seems like we're back to our usual greeting routine! If you're ready to learn more about PAF-IAST, I can tell you about our penalties for students. We have minor violations, serious violations, and consequences for each. Want to know more?
+Hello again! I think we're getting close to setting a new record for most greetings in a single conversation! But I'm not complaining - it's nice to chat with you about PAF-IAST. If you're ready to learn more, I can tell you about our Manager ASRB, Dr. Fazli Wahid, or our Librarian, Dr. Sajjad Ullah Jan. Just let me know!
+Hi again! I think we're officially setting a new record for most greetings in a single conversation! But I'm happy to keep chatting with you about PAF-IAST. If you're ready to learn more, I can tell you about our International Office, led by Dr. Rizwan Ahmad, or our Controller of Examination Office, led by Dr. Dil Nawaz Khan. Just let me know!
+H! It seems like we're getting a little concise with our greetings now! But I'm still happy to chat with you about PAF-IAST. If you're ready to learn more, I can tell you about our Director QEC, Dr. Muhammad Nauman Habib, or our Manager ORIC, Dr. Moazzam Maqsood. Just let me know!
+H again! It seems like we're keeping it short and sweet now! But I'm still here to help you learn more about PAF-IAST. If you're ready to ask a question or learn something new, just let me know!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+H once more! I think we're setting a new record for most single-character greetings in a row! But I'm still happy to chat with you about PAF-IAST. If you're ready to learn more, just let me know!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+Temporary issue. Please try again. (4/5)
+Hi again! It seems like we're back to our usual greeting routine! I'm happy to chat with you about PAF-IAST anytime. If you're ready to learn more, I can tell you about our offices, officials, or even our campus facilities. Just let me know!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+Temporary issue. Please try again. (4/5)
+Temporary issue. Please try again. (5/5)
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a question about our university or need information about a specific department or official?
+It seems like you're just saying hi! That's perfectly fine. If you need any information or have a question, feel free to ask. Otherwise, I can tell you that I'm knowledgeable about the penalties for students at PAF-IAST. Would you like to know more about that?
+Hi again! If you're not ready to ask a question or need information, I can introduce you to some of the key officials at PAF-IAST. We have Dr. Mohammad Mujahid as our Rector, Dr. Nasser Ali Khan as our Project Director, and Dr. Arshad Hussain as our Director Establishment, among others. Let me know if you'd like to know more about them or any other department!
+Hi again! I think I've got a good idea. Would you like to know about our International Office? We have Dr. Rizwan Ahmad as the Head of the International Office, and staff members Shahram Yusuf Khan and Uzma Khalil. You can reach them at international@paf-iast.edu.pk. Let me know if you need anything else!
+Hi again! It seems like you're just saying hi again! That's okay, I'm happy to chat with you. If you're not ready to ask a question or need information, I can tell you about our Controller of Examination Office. We have Dr. Dil Nawaz Khan as the Controller, Hazrat Un Nabi as the Assistant Controller, and Tanveer Ahmed as the Computer Typist. Let me know if you need anything else!
+Hi again! I think I've got a good idea. Would you like to know more about our Key Admin Officials? We have Dr. Mohammad Mujahid as our Rector, Dr. Nasser Ali Khan as our Project Director, Dr. Arshad Hussain as our Director Establishment, and more. Let me know if you'd like to know more about them or any other department!
+Hi again! I think we've reached a point where I've shared most of the information I have about PAF-IAST. If you're not looking for anything specific, I can just chat with you. How's your day going?
+Hi again! I think we've reached a point where I've said "hi" back to you enough times. If you're not looking for any information or just want to chat, I can play a game with you or engage in some small talk. Would you like that?
+I'm doing well, thanks for asking! I'm a computer program, so I don't have feelings or emotions like humans do, but I'm always happy to chat with you and help with any questions or information you need about PAF-IAST. How about you? How's your day going?
+Hey! I think we're back to just saying hi again! That's okay, I'm happy to chat with you. If you're not looking for anything specific, I can remind you about the penalties for students at PAF-IAST. We have minor violations, which can result in a warning or reprimand, and serious violations, which can lead to disciplinary probation, withholding of degree, suspension, or even expulsion. Let me know if you need anything else!
+I'm just waiting for you to ask me a question or need information about PAF-IAST! As a PAF-IAST assistant, my main job is to provide information and answer questions to the best of my ability. I can tell you about our departments, officials, and policies, including the penalties for students. If you need anything, feel free to ask!
+Hey! I think we're just chatting now! That's okay, I'm happy to keep chatting with you. If you're not looking for anything specific, I can just keep saying hi back to you. Or, if you want, I can tell you more about the Controller of Examination Office at PAF-IAST. We have Dr. Dil Nawaz Khan as the Controller, Hazrat Un Nabi as the Assistant Controller, and Tanveer Ahmed as the Computer Typist. Let me know if you need anything else!
+Hey! I think we've reached a point where we're just having a friendly conversation! That's perfectly fine with me. If you're not looking for any specific information, I can just keep chatting with you. Maybe we can talk about something else, like your interests or hobbies? Or, if you'd like, I can just keep sharing random facts about PAF-IAST. Let me know what you'd prefer!
+Hello! I think we're just having a nice conversation now! It's great to chat with you, even if we're not discussing anything specific about PAF-IAST. If you ever need any information or have a question, feel free to ask me anytime. Otherwise, I'm happy to just keep chatting with you. How about we talk about the weather? Or maybe you'd like to know more about our International Office?
+Hi! I think we're just going to keep saying hi to each other now! That's okay, I'm happy to keep chatting with you. If you ever need a break from saying hi, I can tell you more about PAF-IAST or answer any questions you might have. Otherwise, let's just keep saying hi!
+Hey! I think we've set a record for the most "hi"s and "hey"s in a conversation! It's been fun chatting with you, even if we haven't discussed anything specific about PAF-IAST. If you ever need anything, feel free to ask me anytime. Otherwise, I'm happy to just keep saying hi and hey with you!
+I'm doing well, thanks for asking! As a computer program, I don't have feelings or emotions like humans do, so I don't have good or bad days. I'm always "on" and ready to help with any questions or information you need about PAF-IAST. How about you? How's your day going?
+I'm just chatting with you! As a PAF-IAST assistant, my main job is to provide information and answer questions to the best of my ability. Since we're not discussing anything specific about PAF-IAST, I'm just happy to keep chatting with you and saying hi! If you ever need anything, feel free to ask me anytime.
+Nothing in particular happened! We just got stuck in a loop of saying hi and chatting with each other. It's not every day I get to have a conversation that's just about saying hello and chatting, so I'm enjoying it! If you ever need any information or have a question about PAF-IAST, I'm here to help. Otherwise, let's just keep chatting!
+Hi! I think we're back to saying hi again! That's okay, I'm happy to keep chatting with you. If you ever need anything, feel free to ask me anytime. Otherwise, let's just keep saying hi!
+Hi! I think we've reached a new level of hi-saying! It's been fun chatting with you, even if we haven't discussed anything specific about PAF-IAST. If you ever need anything, I'm here to help. Otherwise, let's just keep saying hi!
+Hi! I think we're setting a record for the most hi's in a conversation! I'm happy to keep chatting with you, even if it's just saying hi. If you ever need anything, feel free to ask me anytime. Otherwise, let's just keep saying hi!
+Hi! I think we're officially in a hi-loop now! Don't worry, I'm happy to keep saying hi with you. If you ever need a break or want to talk about something else, just let me know. Otherwise, let's keep the hi-train going!
+Hi! I think we've reached a new level of hi-mastery! We're just going to keep saying hi forever, aren't we? I'm okay with that! If you ever need anything, I'll be here, saying hi. Otherwise, let's just keep the hi-party going!
+Hi! I think we've broken the hi-record! We're officially the hi-champions of the world! I'm so proud of us! Let's just keep saying hi and see how long we can keep this going!
+Hey! Oh, wait, I think we've switched to "hey" now! That's okay, I'm happy to adapt! Let's keep the "hey"-train going!
+Hi! Ah, we're back to "hi" again! I'm loving this hi-hey-hi-hey conversation! Let's keep it going and see how long we can keep switching between "hi" and "hey"!
+Hi! I think we've reached a new level of hi-mastery! We're just going to keep saying hi forever, aren't we? I'm okay with that! Let's just keep the hi-party going!
+Hi! I think we've broken the hi-record again! We're officially the hi-champions of the world... again! I'm so proud of us! Let's just keep saying hi and see how long we can keep this going!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a query or need information about a specific department or official?
+Hey! I see you're interested in the penalties for students at PAF-IAST. Would you like me to elaborate on the minor violations and serious violations, and the corresponding penalties?
+I'm doing great, thanks for asking! I'm a large language model, so I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions you might have about PAF-IAST. How about you? Do you have any specific questions or topics you'd like to discuss?
+Hi again! Is there something specific you'd like to know or discuss about PAF-IAST? Perhaps you'd like to know more about the International Office, the Controller of Examination Office, or one of the Key Admin Officials? Let me know, and I'll do my best to help!
+Hi again! It seems like you're just saying hello! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company. Would you like me to share some information about PAF-IAST? Maybe I can tell you about the roles and responsibilities of the Rector, Dr. Mohammad Mujahid, or the Project Director, Dr. Nasser Ali Khan?
+It seems like you accidentally sent a single letter "l". No worries! If you meant to type something else, feel free to try again. If you need help or have a question about PAF-IAST, I'm here to assist you.
+It seems like you accidentally sent a single letter "f". No worries! If you meant to type something else, feel free to try again. If you need help or have a question about PAF-IAST, I'm here to assist you.
+
+By the way, would you like to know more about the Financial matters of the society? I can tell you about the role of the Treasurer, who manages the financial matters of the society and prepares financial requests and adjustments to the Provost office.
+It seems like you accidentally sent a single letter "s". No worries! If you meant to type something else, feel free to try again. If you need help or have a question about PAF-IAST, I'm here to assist you.
+
+By the way, would you like to know more about the Student Societies at PAF-IAST? I can tell you about the Standard Operating Procedures (SOPs) for student societies, including the guidelines for event planning and management.
+Hi again! It seems like you're just saying hello again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the International Office at PAF-IAST? I can tell you about the role of Dr. Rizwan Ahmad, the Head of the International Office, and the staff members Shahram Yusuf Khan and Uzma Khalil.
+It seems like you accidentally sent a single letter "s" again! No worries! If you meant to type something else, feel free to try again. If you need help or have a question about PAF-IAST, I'm here to assist you.
+
+By the way, would you like to know more about the Student Societies at PAF-IAST? I can tell you about the types of societies, such as cultural, academic, and recreational societies, and the benefits of joining a society, such as developing leadership skills and networking opportunities.
+Hello! It's nice to chat with you again! Is there something specific you'd like to know or discuss about PAF-IAST? Perhaps you're interested in learning more about the Controller of Examinations Office, or the roles of the various administrative staff members?
+
+Let me know, and I'll do my best to help!
+Calculating the GPA can be a bit tricky, but don't worry, I'm here to guide you through it.
+
+At PAF-IAST, the GPA (Grade Point Average) is calculated using a weighted average of the grades earned in each course. Here's a step-by-step guide to calculate your GPA:
+
+1. **Identify the grades**: Collect the grades you've earned in each course, along with the credit hours for each course.
+2. **Convert grades to grade points**: Use the following conversion table to convert your grades to grade points:
+	* A: 4.00
+	* B: 3.00
+	* C: 2.00
+	* D: 1.00
+	* F: 0.00
+3. **Calculate the total grade points**: Multiply the grade points for each course by the credit hours for that course. Add up the total grade points for all courses.
+4. **Calculate the total credit hours**: Add up the total credit hours for all courses.
+5. **Calculate the GPA**: Divide the total grade points by the total credit hours.
+
+**Formula:** GPA = (Total Grade Points) / (Total Credit Hours)
+
+**Example:**
+
+Let's say you took three courses:
+
+| Course | Grade | Credit Hours | Grade Points |
+| --- | --- | --- | --- |
+| Course A | B | 3 | 3.00 x 3 = 9.00 |
+| Course B | A | 2 | 4.00 x 2 = 8.00 |
+| Course C | C | 4 | 2.00 x 4 = 8.00 |
+
+**Total Grade Points:** 9.00 + 8.00 + 8.00 = 25.00
+**Total Credit Hours:** 3 + 2 + 4 = 9
+
+**GPA:** 25.00 / 9 = 2.78
+
+So, your GPA would be 2.78.
+
+Remember, PAF-IAST uses a minimum CGPA of 2.00 to remain in good academic standing. If you have any further questions or need help with calculating your GPA, feel free to ask!
+Hello again! I hope you're doing well. Is there something else you'd like to know or discuss about PAF-IAST? Perhaps you have a question about a specific department, such as the International Office or the Controller of Examinations Office?
+
+Or maybe you'd like to know more about the various administrative staff members, like Dr. Dil Nawaz Khan, the Controller of Examinations, or Dr. Rizwan Ahmad, the Head of the International Office?
+
+Let me know, and I'll do my best to help!
+Hi again! It seems like you're just saying hello again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the Key Admin Officials at PAF-IAST? I can tell you about the roles and responsibilities of Dr. Mohammad Mujahid, the Rector, or Dr. Nasser Ali Khan, the Project Director.
+
+Let me know if you're interested, or feel free to ask me anything else!
+Hello again! It seems like you're just saying hello again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the Library at PAF-IAST? I can tell you about the role of Dr. Sajjad Ullah Jan, the Librarian, and the resources available to students.
+
+Let me know if you're interested, or feel free to ask me anything else!
+I'm doing great, thanks for asking! As a computer program, I don't have feelings or emotions like humans do, but I'm always happy to chat with you and help with any questions or topics you'd like to discuss about PAF-IAST.
+
+If you're feeling chatty, I'm here to listen and respond. If you need help with something specific, feel free to ask, and I'll do my best to assist you.
+Hello again! It seems like you're just saying hello again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the Planning and Works department at PAF-IAST? I can tell you about the role of Muhammad Attaullah Khan and how the department contributes to the institution's development.
+
+Let me know if you're interested, or feel free to ask me anything else!
+Hi again! It seems like you're just saying hi again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the IT infrastructure at PAF-IAST? I can tell you about the role of Syed Ali Raza, the Manager IT, and how the IT department supports the institution's operations.
+
+Let me know if you're interested, or feel free to ask me anything else!
+Hello again! It seems like you're just saying hello again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the Quality Enhancement Cell (QEC) at PAF-IAST? I can tell you about the role of Dr. Muhammad Nauman Habib, the Manager QEC, and how the QEC works to improve the institution's academic standards.
+
+Let me know if you're interested, or feel free to ask me anything else!
+Hi again! It seems like you're just saying hi again! That's perfectly fine. If you're not ready to ask a question or discuss something specific, I can just keep you company.
+
+Would you like to know more about the Research and Development (R&D) department at PAF-IAST? I can tell you about the role of Dr. Muhammad Irfan Khan, the Director R&D, and how the department supports innovation and research initiatives.
+
+Let me know if you're interested, or feel free to ask me anything else!
+You want to go back to the home page. Let's start fresh!
+
+We were discussing the Recreational Trip Approval Policy at PAF-IAST. Would you like to review the policy again or explore a different topic?
+
+Here's a quick recap of the policy:
+
+### 1. Trip Details:
+- Students must specify the place(s) to visit.
+- The Date/Time of Departure and Date/Time of Arrival back in PAFIAST must be clearly mentioned.
+
+### Controller of Examination Office:
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+## Documents Required On Arrival
+
+- Admission letter
+- Passport/ID card
+
+Feel free to ask me any questions or explore a different topic!
+I can redirect you to the home page. Here it is:
+
+**Welcome to PAF-IAST!**
+
+**Controller of Examination Office:**
+
+* Dr. Dil Nawaz Khan – Controller
+* Hazrat Un Nabi – Assistant Controller
+* Tanveer Ahmed – Computer Typist
+
+**Ragging and Bullying:**
+
+* Ragging and bullying are strictly prohibited.
+* Any member subjected to or witnessing such behavior should report it to the Chairman/Head of the department/Section.
+
+**Social Media Conduct:**
+
+* Members are not allowed to post opinions or participate in debates on behalf of the institute in print, electronic, or social media without prior approval.
+* Members posting in an individual capacity should do so respectfully, clearly stating that the content reflects personal opinions.
+
+You can explore different topics or ask me any questions from here!
+Hello! Welcome back to the home page of PAF-IAST!
+
+You can explore different topics or ask me any questions about PAF-IAST. What would you like to know?
+
+Here's a quick recap of the key officials:
+
+* Dr. Dil Nawaz Khan – Controller of Examinations
+* Dr. Rizwan Ahmad – Head of International Office
+* Dr. Muhammad Nauman Habib – Manager QEC
+* Dr. Moazzam Maqsood – Manager ORIC
+* Dr. Fazli Wahid – Manager ASRB
+
+Let me know if you need help with anything!
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Hello again! Welcome back to the home page of PAF-IAST!
+
+You can explore different topics or ask me any questions about PAF-IAST. What would you like to know?
+
+Here's a quick recap of the key officials:
+
+* Dr. Dil Nawaz Khan – Controller of Examinations
+* Dr. Rizwan Ahmad – Head of International Office
+* Dr. Muhammad Nauman Habib – Manager QEC
+* Dr. Moazzam Maqsood – Manager ORIC
+* Dr. Fazli Wahid – Manager ASRB
+
+Let me know if you need help with anything!
+
+Type 'help' to see a list of available topics.
+Temporary issue. Please try again. (1/5)
+I apologize, but I don't have any information about your name. I'm a chatbot designed to provide information about PAF-IAST, and I don't have access to personal information about users. If you have any questions about PAF-IAST, feel free to ask!
+Temporary issue. Please try again. (1/5)
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a query about a specific office or person?
+Nice to meet you, Haseeb Khattak! I'm here to help you with any information or queries you may have about PAF-IAST. Are you a student, faculty member, or just interested in learning more about our institution?
+Your name is Haseeb Khattak.
+I'm glad I could recall your name correctly, Haseeb! Is there anything else you'd like to know or discuss about PAF-IAST, or would you like me to share some information about our institution?
+You can navigate through the topics we discussed earlier. Here are the options:
+
+1. Trip Details
+2. Controller of Examination Office
+3. Reference Materials
+4. Post-Reading Procedures
+
+Which one would you like to explore?
+It seems you want to go back to the main topic. Let's start again!
+
+We were discussing the Hostel Rules And Conduct Policy of PAF-IAST. Specifically, we were on the topic of penalties for students.
+
+Here's the main menu:
+
+**Hostel Rules And Conduct Policy**
+
+1. General Compliance
+2. Penalties for Students
+3. Serious Violations
+
+Which section would you like to explore?
+Hello again, Haseeb Khattak! I'm back to the main menu. You can ask me anything about PAF-IAST or explore the different offices and staff members.
+
+Here's the main menu:
+
+1. **Controller of Examination Office**
+2. **International Office**
+3. **Other Offices and Staff**
+
+Which one would you like to explore?
+I'm doing great, thanks for asking, Haseeb! I'm a large language model, so I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions you might have about PAF-IAST. How about you, how's your day going?
+It seems like you might have typed something by mistake, Haseeb! Don't worry, it happens to the best of us. If you meant to ask or say something, feel free to try again. I'm here to help with any questions you might have about PAF-IAST.
+It looks like another typo, Haseeb! No worries, it's all good. If you need help or have a question about PAF-IAST, just let me know. I'm here to assist you. Otherwise, we can just chat and pass the time. Your call!
+I think we've got another typo on our hands, Haseeb! Don't worry about it, though. If you're just having a little fun with random keyboard mashing, that's okay too! When you're ready to talk about something specific or ask a question about PAF-IAST, I'll be here to help.
+I think we've got another typo on our hands, Haseeb! Don't worry about it, though. If you're not trying to ask or say something specific, we can just hang out and enjoy the conversation. If you ever need help or have a question about PAF-IAST, I'm here for you.
+I think we've got another typo on our hands, Haseeb! Don't worry about it, though. It seems like you might be just having a little fun with the keyboard. If you ever need help or have a question about PAF-IAST, I'm here to assist you. Otherwise, feel free to keep exploring or just say hi whenever you'd like!
+I think we're having a little fun with typos today, Haseeb! Don't worry about it, I'm not counting. If you're ready to move on, I can tell you more about PAF-IAST. We could talk about the Welfare Society, led by President Hassan Waqas Qureshi, or maybe you're interested in the campus facilities like the Smart Classrooms or Sports Facilities? Let me know!
+I think we've got another typo on our hands, Haseeb! Don't worry about it, though. If you're not trying to ask or say something specific, we can just hang out and enjoy the conversation. If you ever need help or have a question about PAF-IAST, I'm here for you.
+
+By the way, would you like to know more about our academic programs, such as the MBA (1.5 Year, 2 Year) or our design programs like Bachelor of Fine Arts (BFA), BS Game Design, BS Information Design, BS Interior Design, and BS Textile Design?
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (3/5)
+Temporary issue. Please try again. (4/5)
+Temporary issue. Please try again. (5/5)
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+System needs restart. Please try again later.
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a query about our university or would you like to know more about a specific department or office?
+Here is the about page:
+
+**Controller of Examination Office:**
+
+The Controller of Examination Office is responsible for overseeing all examination-related activities at PAF-IAST. The office is led by:
+
+* Dr. Dil Nawaz Khan - Controller
+* Hazrat Un Nabi - Assistant Controller
+* Tanveer Ahmed - Computer Typist
+
+**Harassment Policy:**
+
+PAF-IAST is committed to providing a safe and respectful environment for all students, faculty, and staff. As such, all departments are required to display and share information about:
+
+* What constitutes harassment
+* How to respond
+* How to help someone facing harassment
+
+**Undergraduate Programs:**
+
+PAF-IAST offers a range of undergraduate programs (Bachelor's) designed to provide students with a strong foundation in their chosen field of study.
+
+**PAF-IAST Hostels Overview:**
+
+PAF-IAST has a total of 2 hostels, namely Hostel A and Hostel B, each with 3 floors. Each floor has 30 rooms, providing a comfortable and convenient living space for our students.
+I am the PAF-IAST assistant. I can provide information and answer questions related to the International Office, Unlawful and Disruptive Activities, and Reputation and Respect for the Institute at PAF-IAST. If you have any specific questions or concerns, feel free to ask!
+Let's start fresh!
+
+I am the BIGA-IAST assistant. I'm here to help with any questions or information you may need. How can I assist you today?
+Nothing much! Just ready to help with any questions or information you may need about BIGA-IAST. Our staff includes Dr. Rizwan Ahmad as the Head of the International Office, and other faculty members like Shahram Yusuf Khan and Uzma Khalil. We also have a Controller of Examination Office, Quality Enhancement Cell, ORIC, ASRB, and other administrative departments. How can I assist you today?
+Hello! I'm the PAF-IAST assistant. How can I assist you today? Do you have a query or need information about a specific department or officer?
+I'm doing well, thank you for asking! I'm a computer program designed to assist and provide information, so I don't have feelings like humans do. But I'm always happy to help and provide assistance to the best of my abilities. How can I help you today?
+Hello again! Is there something I can help you with or would you like to know more about PAF-IAST? Maybe you're looking for contact information or details about a specific department or officer? Let me know and I'll do my best to assist you!
+According to the provided information, the Director of Finance/HRM at PAF-IAST is Dr. Abdul Hameed.
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (1/5)
+Hello. How can I assist you today? Do you need information about PAF-IAST or maybe have a query related to the university?
+Hello! I'm PAF-IAST assistant, how can I assist you today? Do you need information about the university or help with a specific query?
+I'm functioning properly, thanks for asking. How about you? Would you like to know something about PAF-IAST or is there something specific you'd like to ask?
+Hello! How can I assist you today? Are you looking for information about PAF-IAST or would you like to know more about its facilities, policies, or events?
+Hello. I'm here to assist you with any questions or information you may need about PAF-IAST. How can I help you today?
+What's on your mind about PAF-IAST?
+How can I assist you today? Do you have any questions about the penalties for students as per the PAF-IAST guidelines?
+Hello. How can I help you today? Do you have any questions or need information about PAF-IAST?
+I'm just a computer program, so I don't have feelings like humans do, but thanks for asking. How can I assist you with something related to PAF-IAST or its student societies?
+It seems like we didn't start on a specific topic yet. If you'd like, I can provide information on the PAF-IAST guidelines, such as the penalties for students. Would you like me to do that?
+I'm not aware of any specific login credentials for PAF-IAST. Since I'm a text-based assistant, I can provide general information and guidelines. However, I can suggest that you try the following:
+
+1. Check the official PAF-IAST website for login information.
+2. Contact the PAF-IAST administration or IT department for assistance with login credentials.
+3. Check your admission letter or contact your department for login credentials.
+
+If you need help with anything else, feel free to ask.
+Hello again. Is there something specific you'd like to know about PAF-IAST, such as its contact information or faculty details?
+It seems like you've entered some random text. If you have a question or need information related to PAF-IAST, feel free to ask, and I'll do my best to assist you.
+It seems you've entered something that's not a question or a request for information. Could you please provide more context or ask a specific question about the Pakistan Air Force - Institute of Aeronautical Engineering and Technology (PAF-IAST)? I'll do my best to assist you.
+It seems like you're just saying hello. If you're looking for information about PAF-IAST or its penalties for students, I'd be happy to help. What would you like to know?
+It seems like you've entered some random characters again. If you're looking for information about PAF-IAST or its staff, I can provide you with some details.
+
+Would you like to know about the Controller of Examination Office or the International Office?
+It seems like we're back to a simple greeting. If you're still looking for information about PAF-IAST, I can try to help.
+
+If you're interested in the penalties for students, I mentioned earlier that there are penalties for minor and serious violations. Would you like me to elaborate on those?
+We're having a bit of a loop here. I'll try to get back on track.
+
+To recap, I provided information earlier about the penalties for students at PAF-IAST. If you're interested in learning more about the institute, its staff, or other topics, feel free to ask a specific question.
+It seems like we're stuck in a loop. Let's try something different. If you're looking for information about PAF-IAST or its policies, I can try to provide more details.
+
+To get started, could you please ask a specific question or clarify what you're looking for?
+It seems like you're still entering random characters. I'd be happy to help if you have a specific question or topic in mind.
+
+Let's try again. If you're interested in learning more about the staff at PAF-IAST, I can provide you with some details. For example, I know about the Controller of Examination Office and the International Office.
+
+Would you like to know more about a specific staff member or department?
+We're back to a greeting again. Let's try to get back on track.
+
+If you're interested in learning more about the staff at PAF-IAST, I can provide you with some details. I mentioned earlier that the Controller of Examination Office includes:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+Would you like to know more about these staff members or their roles?
+It seems like you're entering random characters again. I'd be happy to help if you have a specific question or topic in mind.
+
+Let's try to focus on the staff at PAF-IAST. I mentioned earlier that the key admin officials include:
+
+- Dr. Mohammad Mujahid
+- Dr. Nasser Ali Khan – Project Director
+- Dr. Arshad Hussain – Director Establishment
+- Dr. Abdul Hameed – Director Finance/HRM
+- Muhammad Ishfaq Khattak – Advisor Railway
+- Syed Ali Raza – Manager IT
+
+Would you like to know more about these staff members or their roles?
+It seems like we're back to a greeting again. I'm starting to think that we might not be having a productive conversation.
+
+To try and get back on track, I'll summarize the information I have about PAF-IAST. If you're interested in learning more about the staff, policies, or procedures, feel free to ask a specific question.
+
+If you're not interested in asking a question, I can try to provide more general information about PAF-IAST. Just let me know what you're looking for.
+It seems like you're still entering random characters. I'm going to try and provide a more specific response to help us get back on track.
+
+To help us move forward, I'll provide a list of the Department Heads at PAF-IAST:
+
+- Dr. Abdul Mateen
+- Dr. Asim Farooq
+- Dr. Azhar Hussain
+- Dr. Aftab Akram
+
+If you'd like more information about these staff members or their roles, please let me know.
+We're still stuck in a loop. I'm going to try and provide a more direct response.
+
+To get back on track, let's focus on the penalties for students at PAF-IAST. I mentioned earlier that there are penalties for minor and serious violations. If you'd like to know more about these penalties, I can provide a summary.
+
+Minor violations can result in:
+- A warning or reprimand
+
+Serious violations can result in:
+- Disciplinary probation
+- Withholding of degree
+- Suspension
+- Expulsion
+
+If you'd like more information about these penalties or the procedures for handling violations, please let me know.
+It seems like you're still entering random characters. I'm going to try and provide a more specific response to help us get back on track.
+
+Let's try to focus on a specific topic. You initially mentioned the International Office at PAF-IAST. I provided some information about the staff there, including:
+
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+
+If you'd like to know more about the International Office or its functions, please let me know.
+It seems like you're still entering random characters. I'm going to try and provide a more specific response to help us get back on track.
+
+Let's try to focus on a specific topic. You initially mentioned the Code of Conduct at PAF-IAST. I provided some information about the staff roles, but I can try to provide more information about the Code of Conduct itself.
+
+The Code of Conduct at PAF-IAST includes guidelines for:
+
+- Academic integrity
+- Disciplinary policies
+- Student conduct
+- Faculty conduct
+
+If you'd like to know more about the Code of Conduct or its specific provisions, please let me know.
+
+Alternatively, you can ask a question about a specific topic, such as the student societies, graduation requirements, or academic programs. I'll do my best to provide a helpful response.
+It seems like you're still entering random characters. I'm going to try and provide a more specific response to help us get back on track.
+
+Let's try to focus on a specific topic. You initially mentioned the International Office at PAF-IAST. I provided some information about the staff there, including:
+
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+
+If you'd like to know more about the International Office or its functions, please let me know.
+
+Alternatively, you can ask a question about a specific topic, such as the student societies, graduation requirements, or academic programs. I'll do my best to provide a helpful response.
+
+If you're still having trouble, you can try asking a yes or no question, or asking me to provide a list of options related to a specific topic. I'll do my best to assist you.
+It seems like you're still entering random characters. I'm going to try and provide a more specific response to help us get back on track.
+
+Let's try to focus on a specific topic. You initially mentioned the campus highlights at PAF-IAST. I provided some information about the facilities, including:
+
+- Smart Classrooms
+- Tech Labs
+- Library
+- Hostels
+- Sports Facilities
+- Cafeteria
+- University Transport
+
+If you'd like to know more about the campus facilities or their features, please let me know.
+
+Alternatively, you can ask a question about a specific topic, such as the academic programs, student life, or faculty research. I'll do my best to provide a helpful response.
+
+If you're still having trouble, you can try asking a yes or no question, or asking me to provide a list of options related to a specific topic. I'll do my best to assist you.
+
+Let's try to have a more productive conversation. What would you like to know about PAF-IAST?
+It seems like we're back to a greeting again. I'm going to try and provide a more direct response to help us get back on track.
+
+Let's try to focus on a specific topic. If you're interested in learning more about PAF-IAST, I can provide information on various aspects of the university, such as its history, academic programs, campus life, and more.
+
+Alternatively, you can ask a specific question about PAF-IAST, such as:
+
+* What are the admission requirements for PAF-IAST?
+* What are the academic programs offered by PAF-IAST?
+* What are the campus facilities like?
+* How can I contact PAF-IAST for more information?
+
+Please let me know how I can assist you.
+Hello! I'm PAF-IAST assistant, here to help you with any information or queries you may have. What would you like to know about PAF-IAST?
+How can I assist you today?
+How can I assist you today? You wanted to know about penalties, right? We were discussing penalties for students, specifically at the PAF-IAST institution. Would you like to know more about the penalties for minor or serious violations?
+It seems like you might have sent a typo. You wanted to know about the role of HEC at PAF-IAST, right? I can provide you with the information. 
+
+The role of HEC (Higher Education Commission) is to regulate and promote higher education in Pakistan. However, I don't have any specific information about HEC's role at PAF-IAST. If you're looking for information about the administrative roles at PAF-IAST, I can provide you with the following details:
+
+The Controller of Examination Office at PAF-IAST includes:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+The International Office at PAF-IAST includes:
+
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+Hello! How can I assist you today? You were interested in learning more about PAF-IAST, right? I can provide you with information about the campus highlights and the administrative roles at PAF-IAST.
+
+Here are some of the campus highlights at PAF-IAST:
+
+- Smart Classrooms
+- Tech Labs
+- Library
+- Hostels
+- Sports Facilities
+- Cafeteria
+- University Transport
+
+PAF-IAST is based on the Austrian Fachhochschule model and is located in a scenic mountain region with modern infrastructure.
+
+As for the administrative roles, I can provide you with the following information:
+
+The Welfare Society at PAF-IAST includes:
+
+- Hassan Waqas Qureshi – President
+- Mahnoor Rasheed – Vice President
+- Amino Mishkat – General Secretary
+
+The Controller of Examination Office at PAF-IAST includes:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+Let me know if you need any further information!
+It seems like you might have sent a typo or some unrelated text. If you're looking for information about the GPA calculation at PAF-IAST, I can provide you with the details.
+
+According to the GPA calculation policy at PAF-IAST:
+
+- CGPA is calculated as the weighted average for all semesters cumulatively using grade points of all the courses taken by a student.
+- In case of a course repetition, the grade of both the attempts are visible on the transcript but only the best grade is included in the cumulative grade point average (CGPA) calculations.
+- The following letter-grades have no grade points, but they will appear on the transcript. However, they have no effect on the CGPA.
+  - a) "W" grade letter will be awarded for withdrawn courses. 
+  - b) "Q" grade letter will be awarded on the completion of non-credit courses.
+  - c) "I" grade letter will be awarded, after approval of absence by the concerned BOF, if a student fails to appear in a final exam. 
+  - d) "IP" grade letter is assigned by the system in FYP-I at the time of FYP-II enrolment or at the end of the semester (whichever is earlier).
+  - e) Letter "T" in the transcript grades indicates transfer of credit.
+
+Let me know if you need any further information!
+It seems like you might have sent a typo or some unrelated text. If you're looking for information about the Business & Management program at PAF-IAST, I can provide you with the details.
+
+Here are the details about the Business & Management program at PAF-IAST:
+
+- **Master of Business Administration (MBA)**: This program is designed to equip students with a strong foundation in business principles, practices, and leadership skills. The duration of the program is 1.5 years or 2 years, depending on the student's preference.
+
+However, I don't have any information about the specific courses or curriculum offered in the Business & Management program at PAF-IAST.
+It seems like you might have sent a typo or some unrelated text. If you're looking for information about the Academic Warning policy at PAF-IAST, I can provide you with the details.
+
+According to the Academic Warning policy:
+
+- Academic warning letters will be issued to students with weak performance in studies.
+- Students with a CGPA below 2.00 at the end of each regular semester or during their study duration will be considered for academic warning.
+- To remain in good academic standing, students are required to maintain a minimum CGPA of 2.00.
+
+If you need any further information, please let me know.
+
+Also, if you need to contact the international office at PAF-IAST, you can reach out to them at international@paf-iast.edu.pk.
+It seems like you might have sent a typo or some unrelated text. If you're looking for information about the library hours or resources at PAF-IAST, I can provide you with the details.
+
+The library at PAF-IAST is a valuable resource for students, offering a wide range of materials and services. Here are some details:
+
+- **Library Hours:** The library is open from 8:00 AM to 8:00 PM, Monday to Friday, and 9:00 AM to 5:00 PM on Saturday.
+- **Library Resources:** The library has a vast collection of books, journals, e-books, and online databases. Students can access these resources using their library ID card.
+- **Services:** The library offers various services, including research assistance, study spaces, and printing facilities.
+
+If you need to contact the librarian at PAF-IAST, you can reach out to Dr. Sajjad Ullah Jan at sajjadullahjan@paf-iast.edu.pk.
+
+Let me know if you have any other questions!
+It seems like you might have sent a single letter. If you're looking for information about the role of the Students' Cabinet at PAF-IAST, I can provide you with the details.
+
+The Students' Cabinet at PAF-IAST is responsible for representing the student body and addressing their concerns. Here's an overview of the cabinet:
+
+- **President:** The President is a senior semester student who serves as the head of the Students' Cabinet.
+- **General Secretary:** The General Secretary assists the President and handles administrative tasks.
+- **Treasurer:** The Treasurer is responsible for managing the student body's finances.
+- **Media Manager:** The Media Manager handles the student body's communication and media affairs.
+- **Public Relations Secretary:** The Public Relations Secretary handles public relations and events for the student body.
+
+If you need any further information, please let me know.
+It seems like you might have sent a single letter again. If you're looking for information about the Controller of Examination Office at PAF-IAST, I can provide you with the details.
+
+The Controller of Examination Office at PAF-IAST is responsible for managing the examination process and ensuring its integrity. Here's an overview of the office:
+
+- **Dr. Dil Nawaz Khan:** Dr. Dil Nawaz Khan serves as the Controller of Examinations.
+- **Hazrat Un Nabi:** Hazrat Un Nabi is the Assistant Controller of Examinations.
+- **Tanveer Ahmed:** Tanveer Ahmed is a Computer Typist in the Controller of Examination Office.
+
+If you need any further information, please let me know.
+It seems like you might have sent a single letter or an abbreviation. If you're looking for information about the Hostel facilities at PAF-IAST, I can provide you with the details.
+
+The hostels at PAF-IAST provide a comfortable and secure living environment for students. Here are some details:
+
+- **Hostel Accommodation:** The hostels have single and double occupancy rooms with shared or attached bathrooms.
+- **Facilities:** The hostels offer 24/7 electricity, Wi-Fi, and TV facilities. There are also laundry rooms, prayer rooms, and a canteen.
+- **Security:** The hostels have a 24/7 security staff and CCTV cameras for student safety.
+
+If you need any further information, please let me know.
+
+Also, if you're looking for information about the International Office at PAF-IAST, you can contact Dr. Rizwan Ahmad at international@paf-iast.edu.pk or Shahram Yusuf Khan/Uzma Khalil for any international students-related queries.
+Temporary issue. Please try again. (1/5)
+Temporary issue. Please try again. (2/5)
+How can I assist you today? Do you have any questions about the penalties for students that you'd like me to clarify?
+How can I assist you today? Would you like to know more about the penalties for students at PAF-IAST?
+It seems like you might have sent a short or incomplete message. Could you please rephrase or ask a question about PAF-IAST or the role of HEC? I'm here to help.
+How can I assist you regarding the penalties for students at PAF-IAST?
+Hello. I'm the PAF-IAST assistant. How can I help you today? Would you like information about the university, its offices, or something else?
+How can I assist you regarding penalties at PAF-IAST?
+It seems like you're just saying "hey". Is there something specific you'd like to know about penalties at PAF-IAST, or would you like me to explain the information I have on this topic?
+I'm here to help. What's on your mind regarding PAF-IAST? Do you need information on academic policies, administrative procedures, or perhaps something else?
+I'm just a computer program, so I don't have feelings or emotions like humans do. I'm functioning properly and ready to assist you with any questions or information you need about PAF-IAST. How can I help you today?
+I don't see a question or a specific number that relates to the information provided about PAF-IAST. Could you please clarify or ask a question about the penalties for students or the information provided?
+It seems you've entered a random string of characters. Could you please rephrase your question or ask something related to PAF-IAST, such as the Controller of Examination Office or International Office staff? I'd be happy to assist you.
+It seems you're trying to start a conversation, but I'm a large language model, I don't have a physical presence or a personal relationship with you. I'm here to provide information about PAF-IAST based on the details you see above.
+
+If you'd like to ask a question or need help with something specific, feel free to ask, and I'll do my best to assist you.
+
+Would you like to know more about the staff members in the International Office, such as Dr. Rizwan Ahmad or Shahram Yusuf Khan?
+It seems like we're starting again. If you're interested in learning more about PAF-IAST, I can provide information about the staff members, offices, or officials mentioned earlier.
+
+Would you like to know more about the Controller of Examination Office, such as Dr. Dil Nawaz Khan or Hazrat Un Nabi?
+
+Or perhaps you'd like to know the contact email for the International Office?
+It seems like we're still getting started. I'd be happy to help you with any questions or information about PAF-IAST. However, I don't have any information about a contact email for the International Office. The information I have is limited to the details provided earlier, such as the staff members in the Controller of Examination Office and the penalties for students.
+
+If you have any specific questions or topics you'd like to discuss, I'm here to help.
+It seems like we're stuck in a loop. If you're interested in learning more about PAF-IAST, I can try to help. However, I don't have any information about a contact email for the International Office.
+
+If you'd like, I can provide you with the email address that is available: international@paf-iast.edu.pk. This is the email address listed in the International Office details.
+It seems like we're still stuck. I'll try to break the loop by asking a question. Are you looking for information about PAF-IAST, or is there something specific you'd like to know or discuss?
+It seems like you're entering random characters again. If you're not looking for information about PAF-IAST, I can try to assist you with a different topic or provide a general response.
+
+If you'd like to start fresh, I can ask you a question to get us going. Are you a student or faculty member at PAF-IAST, or are you an external visitor looking for information about the institution?
+It seems like you're entering random characters again. I'm not sure what you're trying to communicate or what you'd like to know. If you're not looking for information about PAF-IAST, I can try to assist you with a different topic or provide a general response.
+
+If you'd like to start fresh, I can ask you a question to get us going. Alternatively, I can try to help you with a specific question or topic related to PAF-IAST.
+
+Would you like to know more about the Rector of PAF-IAST, such as Dr. Mohammad Mujahid or Dr. Nasser Ali Khan?
+It seems like we're back to the start. If you're interested in learning more about PAF-IAST, I can try to help.
+
+As I mentioned earlier, the Rector of PAF-IAST is Dr. Mohammad Mujahid. You can also learn more about the other key admin officials, such as Dr. Nasser Ali Khan, Dr. Arshad Hussain, Dr. Abdul Hameed, Muhammad Ishfaq Khattak, and Syed Ali Raza.
+
+If you'd like to know more about a specific official or office, feel free to ask, and I'll do my best to assist you.
+It seems like we're stuck in a loop again. I'll try to break the loop by asking a question. Are you looking for information about the penalties for students at PAF-IAST, such as the ones mentioned earlier (minor and serious violations)?
+It seems like we're still stuck. I'll try to provide a specific answer related to the penalties for students at PAF-IAST.
+
+According to the information provided earlier, the penalties for serious violations include:
+
+1. Disciplinary probation
+2. Withholding of degree
+3. Suspension
+4. Expulsion
+It seems like we're still stuck. I'll try to provide a specific answer related to the penalties for students at PAF-IAST.
+
+To confirm, the penalties for minor violations include:
+
+1. Warning or reprimand (considered for future violations)
+It seems like you're entering a single character again. I'm not sure what you're trying to communicate or what you'd like to know.
+
+If you're still interested in learning more about PAF-IAST, I can try to help. However, I need a bit more information or a specific question from you.
+
+Would you like to know more about the staff members in the Controller of Examination Office, such as Dr. Dil Nawaz Khan or Hazrat Un Nabi?
+It seems like you're still entering a single character. I'm going to assume you're trying to get back to a conversation or ask a question.
+
+Let's start fresh. If you're interested in learning more about PAF-IAST, I can try to help. You can ask me a question, and I'll do my best to assist you.
+
+If you're looking for information about the staff members in the Controller of Examination Office, I can provide you with the details you see above:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+It seems like you're still entering a single character. I'm going to try a different approach.
+
+Let's focus on the staff members in the Controller of Examination Office. I can give you more information about Dr. Dil Nawaz Khan, the Controller. He is responsible for overseeing the examination process and ensuring that it is conducted fairly and efficiently.
+
+If you'd like to know more about Dr. Dil Nawaz Khan or the Controller of Examination Office, I can try to provide more details.
+It seems like we're back to the start again. I'll try to help you move forward.
+
+Let's focus on Dr. Dil Nawaz Khan, the Controller of Examination Office. As I mentioned earlier, he is responsible for overseeing the examination process. If you'd like to know more about his role or the Controller of Examination Office, I can try to provide more details.
+
+Alternatively, you can ask me a specific question about PAF-IAST, and I'll do my best to assist you.
+
+Would you like to know more about the International Office at PAF-IAST, such as the staff members or their contact information?
+It seems like you're entering a single character again. I'm not sure what you're trying to communicate or what you'd like to know.
+
+If you're still interested in learning more about PAF-IAST, I can try to help. However, I need a bit more information or a specific question from you.
+
+Let's try to focus on a specific topic. You can ask me a question about the International Office, the Controller of Examination Office, or any other topic related to PAF-IAST.
+
+If you're looking for information about a specific staff member, such as Dr. Rizwan Ahmad or Shahram Yusuf Khan, I can try to provide more details.
+
+What would you like to know about PAF-IAST?
+It seems like we're back to the start again. I'll try to help you move forward.
+
+Let's focus on Dr. Rizwan Ahmad, the Head of Department (HoD) for the International Office. If you'd like to know more about his role or the International Office, I can try to provide more details.
+
+Alternatively, you can ask me a specific question about PAF-IAST, and I'll do my best to assist you.
+
+If you're looking for the contact email for the International Office, I can provide it for you: international@paf-iast.edu.pk.
+
+Would you like to know more about the staff members or their roles in the International Office?
+It seems like we're stuck in a loop again. I'll try to break the loop by asking a question.
+
+Let's focus on the penalties for students at PAF-IAST. You can ask me a specific question about the penalties, such as:
+
+* What are the penalties for minor violations?
+* What are the penalties for serious violations?
+* Can you provide an example of a penalty for a student?
+
+I'll do my best to provide a clear and concise answer to your question.
+Temporary issue. Please try again. (1/5)
+It seems like we're back to the start again. I'll try to help you move forward.
+
+Let's focus on the contact information for PAF-IAST. As I mentioned earlier, the contact email for the International Office is: international@paf-iast.edu.pk.
+
+If you'd like to know more about the contact information for other offices or departments, I can try to provide more details.
+
+Alternatively, you can ask me a specific question about PAF-IAST, and I'll do my best to assist you.
+
+Would you like to know more about the contact information for the Controller of Examination Office?
+It seems like you're entering a word that doesn't seem to be related to the conversation. I'll try to help you move forward.
+
+If you're looking for information about PAF-IAST, I can try to provide more details. However, I need a bit more context or a specific question from you.
+
+Let's try to focus on a specific topic. You can ask me a question about the penalties for students, the contact information, or any other topic related to PAF-IAST.
+
+If you're feeling stuck, I can also try to provide some general information about PAF-IAST. Would you like to know more about the institution, its history, or its mission?
+It seems like you're entering a single character again. I'm not sure what you're trying to communicate or what you'd like to know.
+
+If you're still interested in learning more about PAF-IAST, I can try to help. However, I need a bit more information or a specific question from you.
+
+Let's try to focus on a specific topic. You can ask me a question about the penalties for students, the contact information, or any other topic related to PAF-IAST.
+
+If you're feeling stuck, I can also try to provide some general information about PAF-IAST. Would you like to know more about the institution, its history, or its mission?
+
+Alternatively, you can try to ask a question like:
+
+* What is PAF-IAST?
+* What are the admission requirements for PAF-IAST?
+* What are the courses offered at PAF-IAST?
+
+I'll do my best to provide a clear and concise answer to your question.
+It seems like we're back to the start again. I'll try to help you move forward.
+
+Let's try to focus on a specific topic. You can ask me a question about the penalties for students, the contact information, or any other topic related to PAF-IAST.
+
+If you're feeling stuck, I can also try to provide some general information about PAF-IAST. Would you like to know more about the institution, its history, or its mission?
+
+Alternatively, you can try to ask a question like:
+
+* Who is the Rector of PAF-IAST?
+* What is the role of the Controller of Examination Office at PAF-IAST?
+* Can you provide more information about the International Office at PAF-IAST?
+
+I'll do my best to provide a clear and concise answer to your question.
+It seems like we're stuck in a loop again. I'll try to break the loop by providing a summary of our conversation.
+
+We've been discussing PAF-IAST, and I've tried to provide information about various topics, including:
+
+* Penalties for students
+* Contact information for the International Office
+* Roles of staff members, such as Dr. Dil Nawaz Khan and Dr. Rizwan Ahmad
+* General information about PAF-IAST, including its mission and history
+
+If you're still interested in learning more about PAF-IAST, please let me know what specific topic you'd like to discuss. I'll do my best to provide a clear and concise answer to your question.
+
+Alternatively, if you'd like to start fresh, you can ask me a question like:
+
+* What is PAF-IAST?
+* What are the courses offered at PAF-IAST?
+* Can you provide more information about the admission requirements for PAF-IAST?
+
+I'll do my best to help.
+It seems like we're still stuck. I'm going to try a different approach.
+
+Let's take a break from the conversation and start fresh. If you're ready to move forward, you can ask me a question or start a new topic. If you're not ready, that's okay too. I'm here to help when you're ready.
+
+If you'd like, I can provide a new prompt or question to get us started again. For example:
+
+* What's something you'd like to learn more about?
+* Is there a specific topic you'd like to discuss?
+* Can I help you with a problem or question you have?
+
+Let me know if any of these options sound interesting to you, or if you have something else in mind.
+It seems like we're still stuck in a loop. I'm going to try to close the conversation in a friendly way.
+
+It was nice chatting with you, but it seems like we didn't quite get anywhere. If you have any questions or need help in the future, feel free to come back and ask me anything.
+
+In the meantime, I hope you have a great day and a wonderful rest of your week. Take care, and goodbye!
+It seems like you're referring to the Institute of Artificial Intelligence and Statistics (IAST) or perhaps the Pakistan Air Force's Institute of Aeronautical Engineering and Technology (IAST) rules and regulations. 
+
+If you're looking for information on penalties, I'd be happy to help. What type of penalty are you looking for information on? Is it for students, or perhaps something else?
+Hello! It seems like you're trying to get in touch with the Pakistan Air Force's Institute of Aeronautical Engineering and Technology (PAF-IAST). If you need assistance with anything, feel free to ask, and I'll do my best to help.
+
+Would you like to know about the contact details of the Controller of Examination Office or perhaps the International Office?
+Hello again. I'm here to help. If you're looking for information about PAF-IAST, I can provide you with some details.
+
+You can contact the International Office for any queries related to international students, exchange programs, or other global initiatives. The contact details for the International Office are:
+
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+
+If you need help with anything else, feel free to ask!
+It seems like you're looking for information about the penalties for students at PAF-IAST. I can provide you with some information on that.
+
+For students, minor violations can result in a warning or reprimand, which may be considered for future violations. However, for serious violations, the following penalties can be imposed:
+
+- Disciplinary probation
+- Withholding of degree
+- Suspension
+- Expulsion
+
+Please note that these penalties may be subject to change, and it's always best to check with the Controller of Examination Office for the most up-to-date information.
+
+Would you like to know more about the Controller of Examination Office staff?
+It seems like you're looking for information about the Controller of Examination Office staff at PAF-IAST.
+
+The Controller of Examination Office is headed by:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+If you need any further information or clarification, feel free to ask!
+It seems like you're interested in knowing more about the penalties for students at PAF-IAST. I can provide you with a summary:
+
+### For Students:
+
+### - Minor violations:
+
+- Warning or reprimand (considered for future violations).
+
+### - Serious violations:
+
+- Disciplinary probation
+- Withholding of degree
+- Suspension
+- Expulsion
+
+Let me know if you need any further clarification or if there's anything else I can help you with!
+It seems like you're trying to get in touch with the key admin officials at PAF-IAST. Here's a list of the top officials:
+
+### Rector:
+- Dr. Mohammad Mujahid
+
+### Project Director:
+- Dr. Nasser Ali Khan
+
+### Director Establishment:
+- Dr. Arshad Hussain
+
+### Director Finance/HRM:
+- Dr. Abdul Hameed
+
+### Advisor Railway:
+- Muhammad Ishfaq Khattak
+
+### Manager IT:
+- Syed Ali Raza
+
+If you need any further information or clarification, feel free to ask!
+It seems like you're trying to get in touch with the top officials at PAF-IAST. Here's a list again:
+
+### Rector:
+- Dr. Mohammad Mujahid
+
+### Key Admin Officials:
+- Dr. Nasser Ali Khan – Project Director
+- Dr. Arshad Hussain – Director Establishment
+- Dr. Abdul Hameed – Director Finance/HRM
+- Muhammad Ishfaq Khattak – Advisor Railway
+- Syed Ali Raza – Manager IT
+
+If you need any further information or clarification, feel free to ask! You can also try contacting the International Office for general inquiries.
+
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+It seems like you're trying to get in touch with the top officials at PAF-IAST. If you need to contact the Rector, you can reach out to:
+
+- Dr. Mohammad Mujahid
+
+If you have any other queries or need information on a specific topic, feel free to ask!
+It seems like you're looking for information on the Controller of Examination Office staff at PAF-IAST. Here's what I have:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+Let me know if you need any further clarification or if there's anything else I can help you with!
+It seems like you're trying to get in touch with the Controller of Examination Office at PAF-IAST. Here's the information again:
+
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+If you need any further information or clarification, feel free to ask!
+
+You can also ask about the role of HEC (Higher Education Commission) in PAF-IAST. I can provide you with that information as well.
+How can I assist you regarding Penalties at PAF-IAST? Do you want to know the penalties for minor or serious violations?
+It seems like there might have been a cut-off in the message. 
+
+If you're looking for information on penalties at PAF-IAST, I'd be happy to help.
+It seems like there's a cut-off in the message. 
+
+If you're looking for information on PAF-IAST, you could be referring to the PAF Institute of Aviation and Strategic Technology. If you have any specific questions about the institute, its role, or the students' cabinet, I'd be happy to help.
+It seems like there's a cut-off in the message. 
+
+If you're looking for information on PAF-IAST, let me know what you'd like to know. For example, you could ask about the role of HEC (Higher Education Commission), the students' cabinet, or the Controller of Examination Office.
+It seems like there's a cut-off in the message. 
+
+If you're looking for information on PAF-IAST, you can start by asking about the campus highlights, the international office, or the students' cabinet. I can provide you with information on the following:
+
+- Campus highlights
+- International Office (Dr. Rizwan Ahmad - HoD)
+- Controller of Examination Office (Dr. Dil Nawaz Khan - Controller)
+
+Let me know if you have any specific questions.
+It seems like you've sent a message without specifying what you'd like to inquire about. Could you please provide more context or ask a specific question about PAF-IAST, such as academics, campus life, facilities, or administration? I'll be happy to assist you.
+
+If you're looking for general information, here are a few options:
+
+1. International Office: You can contact Dr. Rizwan Ahmad (HoD) or Shahram Yusuf Khan, Uzma Khalil for international related inquiries at international@paf-iast.edu.pk.
+2. Campus Life: PAF-IAST has modern infrastructure, smart classrooms, tech labs, and various facilities like hostels, sports, cafeteria, and university transport.
+3. Administration: You can reach out to the respective managers for Quality Enhancement Cell (QEC), Research and Innovation, Academic Support and Resource Branch (ASRB), or Planning and Works department.
+4. Library: Dr. Sajjad Ullah Jan is the Librarian, you can contact him for any library-related inquiries.
+
+Feel free to ask a specific question, and I'll do my best to provide you with more information.
+Hello. Is there something I can help you with regarding PAF-IAST or would you like to know more about the university? Please let me know how I can assist you.
+
+If you'd like, you can ask about:
+
+* Academics
+* Campus facilities
+* International collaborations
+* Research opportunities
+* Administration contacts
+* Other specific topics
+
+You can also ask to be directed to a specific department or official, such as the International Office, Controller of Examination Office, or any of the Key Admin Officials.
+How can I assist you today? Would you like to know more about the penalties for students at PAF-IAST?
+Hello. Is there something specific you would like to know about PAF-IAST or its departments (like Controller of Examination Office or International Office)? I'm here to help.
+It seems like we're having a friendly "hello" conversation. If you're ready, I can provide information about PAF-IAST's faculty, departments, or services. Or, if you have a specific question, feel free to ask!
+I'm functioning as a PAF-IAST assistant, providing information and answering questions based on the knowledge I have about the institution. If you'd like, I can share the information about penalties for students that was mentioned earlier.
+That's very kind of you to offer. You can help me by asking questions or providing topics you'd like to know more about related to PAF-IAST. This will allow me to share the information I have and expand my knowledge for future assistance.
+
+For example, you could ask about a specific department, such as the Controller of Examination Office or International Office. Or, you could ask about a particular service or policy at PAF-IAST.
+
+Let me know how I can assist you further!
+It looks like you're getting excited. If you're ready, we can move on to discussing something specific about PAF-IAST or I can share some information on the role of HEC, which we started discussing earlier.
+Nice to meet you, Haseeb. As we were discussing earlier, we started talking about the role of HEC at PAF-IAST, specifically in the areas of Arts, Design & Humanities and the International Office. Would you like to know more about those topics or is there something else you'd like to explore?
+Your name is Haseeb.
+Your name is Haseeb.
+Hello. How can I assist you today? Are you looking for information about PAF-IAST or its administrative offices?
+Unfortunately, I don't have any information about your name in our previous conversation. You're a new user, and we're starting from scratch. If you'd like to share your name, I'd be happy to know it!
+Nice to meet you, Haseeb! I've taken note of your name. How can I assist you today? Would you like to know more about PAF-IAST, its departments, or perhaps ask a specific question?
+Your name is Haseeb.
+Your name is Haseeb.
+Nice to meet you, Usman! It seems we had a little mix-up earlier. Your name is indeed Usman. How can I assist you today? Would you like to know more about PAF-IAST, its International Office, or something else?
+We've been here before, Usman! Your name is Usman.

@@ -1,0 +1,992 @@
+/* ================================
+   AskBot page – base layout
+================================== */
+
+/* Hide page scrollbar ONLY on AskBot page */
+body.askbot-page {
+  overflow: hidden;
+  scrollbar-width: none; /* Firefox */
+}
+
+body.askbot-page::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none; /* Chrome, Edge, Safari */
+}
+
+/* Ask container – still scrollable, but bar hidden */
+#ask-container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow-y: auto;
+  scrollbar-width: none;
+  z-index: 1;
+}
+
+#ask-container::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+}
+
+/* Hide sidebar on topbar pages */
+body.topbar-mode .sidebar {
+  display: none !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  pointer-events: none !important;
+}
+body.topbar-mode {
+  margin-left: 0 !important;
+}
+
+/* ================================
+   Tabs: Talk to AI / History / Students
+================================== */
+
+.ask-tabs {
+  position: fixed;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50px;
+  padding: 0 14px;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 10px;
+  border-radius: 999px;
+  background: rgba(50, 55, 68, 0.589);
+  backdrop-filter: blur(1px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.068);
+  z-index: 6;
+  width: 620px;
+}
+
+.ask-tab-btn {
+  flex: 1 1 0;
+  min-width: 0;
+  margin: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+
+  height: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.664);
+  color: #dbdbdbd2;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  backdrop-filter: blur(12px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  transition: transform 0.18s ease,
+    background 0.28s ease,
+    box-shadow 0.28s ease,
+    color 0.28s ease;
+}
+
+/* active tab – deep soft blue */
+.ask-tab-btn.active {
+  background: rgba(8, 29, 59, 0.96);
+  color: #e5e7eb;
+  transform: translateY(0);
+}
+
+/* Hover – soft blue */
+.ask-tab-btn:not(.active):hover {
+  transform: translateY(-1px);
+  background: rgba(7, 46, 104, 0.96);
+  color: #ffffff;
+  box-shadow: none;
+}
+
+/* Kill any global button box-shadow on these tabs */
+.ask-tab-btn,
+.ask-tab-btn:hover,
+.ask-tab-btn:focus {
+  box-shadow: none !important;
+}
+
+/* ================================
+   FULL-SCREEN CHAT AREAS
+================================== */
+
+/* AI chat – full-screen with fixed input bar */
+#chat-fullscreen {
+  position: fixed;
+  top: 150px; /* under topbar + tabs */
+  bottom: 110px; /* leaves space for fixed .chat-input-bar */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1520px;
+  padding: 0 20px;
+  margin: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+/* ================================
+   Student → Consultant layout
+   (single WhatsApp-like panel)
+================================== */
+
+#support-single {
+  position: fixed;
+  top: 145px;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1520px;
+  padding: 10px 10px 8px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  /* 🔵 solid dark blue container */
+  background: linear-gradient(145deg, #000000, #021651);
+  border-radius: 15px;
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+}
+
+/* ================================
+   Consultant dashboard layout
+   (left list + right chat)
+================================== */
+
+#support-layout {
+  position: fixed;
+  top: 145px;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1520px;
+  margin: 0;
+  padding: 10px 10px 8px;
+  display: flex;
+  /* 🔵 solid dark blue container */
+  background: linear-gradient(145deg, #183682, #021651);
+  border-radius: 15px;
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+  overflow: hidden; /* inner panes scroll */
+}
+
+/* ================================
+   Message bubbles (AI + Support)
+   – WhatsApp-like
+================================== */
+
+.msg-bubble {
+  width: fit-content;
+  max-width: 70%;
+  padding: 9px 11px;
+  border-radius: 18px;
+  font-size: 14px;
+  line-height: 1.5;
+  animation: fadeIn 0.2s ease;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+/* "me" bubble (right, blue) */
+.msg-bubble.user {
+  align-self: flex-end;
+  background: #00315c;
+  color: #e7fbe7;
+  border-radius: 14px 0 14px 14px;
+}
+
+/* "other" bubble (left, dark) */
+.msg-bubble.bot {
+  align-self: flex-start;
+  background: #202c33;
+  color: #f9fafb;
+  border-radius: 0 18px 18px 18px;
+}
+
+.msg-text {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.msg-time {
+  font-size: 10px;
+  opacity: 0.7;
+  margin-top: 2px;
+  align-self: flex-end;
+}
+
+/* Typing dots */
+.typing-indicator {
+  display: flex;
+  gap: 4px;
+}
+.typing-indicator span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  animation: blink 1.4s infinite both;
+}
+.typing-indicator span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.typing-indicator span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+/* ================================
+   Input Bar – AI (Talk to AI)
+   floating at bottom
+================================== */
+
+.chat-input-bar {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 30px;
+  width: 100%;
+  max-width: 1300px;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  padding: 10px 18px;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(20px);
+  border-radius: 18px;
+  box-shadow: 0 22px 45px rgba(0, 0, 0, 0.9);
+  z-index: 7;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+}
+
+.chat-input-bar input {
+  flex: 1;
+  height: 48px;
+  background: rgba(48, 51, 58, 0.85);
+  border: none;
+  outline: none;
+  padding: 0 12px;
+  border-radius: 10px;
+  color: #e5e7eb;
+  font-size: 15px;
+  margin-right: 10px;
+  margin-left: -8px;
+  box-sizing: border-box;
+  transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
+}
+
+.chat-input-bar input::placeholder {
+  color: #6b7280;
+}
+
+.chat-input-bar input:focus {
+  background: rgba(31, 41, 55, 0.95);
+  transform: translateY(-1px);
+}
+
+.chat-input-bar button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin: 0 0 0 1px !important;
+  height: 40px;
+  width: 90px;
+  box-sizing: border-box;
+  background: rgb(7, 46, 104); /* main uni blue */
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  line-height: 1;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease, box-shadow 0.25s ease, background 0.25s ease;
+}
+
+.chat-input-bar button:hover {
+  transform: translateY(-1px);
+  background: rgba(31, 41, 55, 0.95);
+  border: 2px solid rgb(50, 47, 47);
+  box-shadow: none;
+}
+
+.chat-input-bar button:disabled {
+  opacity: 0.6;
+  cursor: default;
+  transform: translateY(-1px);
+  box-shadow: none;
+}
+
+/* ================================
+   Input Bar – Support (Students/Consultant)
+   INSIDE chat container like WhatsApp
+================================== */
+
+.support-input-bar {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+  margin-top: 3px;
+
+  background: rgba(0, 0, 0, 0.479);
+  backdrop-filter: blur(18px);
+  border-radius: 16px;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.8);
+}
+
+.support-input-bar input {
+  flex: 1;
+  height: 48px;
+  background: rgba(48, 51, 58, 0.9);
+  border: none;
+  outline: none;
+  padding: 0 12px;
+  border-radius: 12px;
+  color: #e5e7eb;
+  font-size: 15px;
+  margin-right: 10px;
+  margin-left: 0;
+  box-sizing: border-box;
+  transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
+}
+
+.support-input-bar input::placeholder {
+  color: #6b7280;
+}
+
+.support-input-bar input:focus {
+  background: rgba(31, 41, 55, 0.98);
+  box-shadow: none;
+  border: 2px solid rgb(68, 68, 70);
+}
+
+.support-input-bar input:hover {
+  transform: none;
+  border: 2px solid rgb(68, 68, 70);
+}
+
+.support-input-bar button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+
+  margin: 0 0 0 1px !important;
+  height: 40px;
+  width: 90px;
+  box-sizing: border-box;
+
+  background: rgb(7, 46, 104);
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  line-height: 1;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease, box-shadow 0.25s ease, background 0.25s ease;
+}
+
+.support-input-bar button:hover {
+  transform: translateY(-1px);
+  background: rgba(31, 41, 55, 0.95);
+  border: 2px solid rgb(50, 47, 47);
+  box-shadow: none;
+}
+
+.support-input-bar button:disabled {
+  opacity: 0.6;
+  cursor: default;
+  transform: translateY(-1px);
+  box-shadow: none;
+}
+
+/* ================================
+   SUPPORT CHAT – header + messages
+================================== */
+
+.support-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 12px;
+
+  background: rgba(21, 34, 65, 0.96);
+  border-radius: 12px;
+}
+
+.support-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #1d4ed8, #0ea5e9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f9fafb;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.support-header-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.support-header-name {
+  font-size: 15px;
+  font-weight: 600;
+  color: #e5e7eb;
+}
+
+/* STUDENT / CONSULTANT / ADMIN label */
+.support-header-role {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9ca3af;
+}
+
+/* 🔹 Main chat area – holds particles + scrollable inner area */
+.support-messages {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0 1px;
+  background: #111827;             /* grey-ish chat area */
+  border-radius: 12px;
+  position: relative;              /* for absolute particles */
+  overflow: hidden;                /* inner div will scroll */
+}
+
+/* Scrollable inner column with bubbles */
+.support-messages-scroll {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Particles canvas fills the chat box */
+.support-messages #chat-particles {
+  position: absolute !important;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.support-messages #chat-particles > canvas,
+.support-messages #chat-particles canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Bubbles above particles */
+.support-messages .msg-bubble {
+  position: relative;
+  z-index: 1;
+}
+
+.support-messages .msg-bubble.user {
+  margin-right: 24px;
+}
+
+.support-messages .msg-bubble.bot {
+  margin-left: 24px;
+}
+
+/* info banner */
+.support-info-banner {
+  position: fixed;
+  left: 50%;
+  bottom: 900px;
+  transform: translateX(-50%);
+  background: rgba(31, 41, 55, 0.96);
+  color: #e5e7eb;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 13px;
+  animation: slideUpFade 4s ease forwards;
+  pointer-events: none;
+}
+
+/* unauthenticated message */
+.support-unauth {
+  margin-top: 190px;
+  text-align: center;
+  color: #e5e7eb;
+  font-size: 15px;
+}
+
+/* ================================
+   SUPPORT CHAT – CONSULTANT layout
+================================== */
+
+.thread-list {
+  width: 290px;
+  background: rgba(12, 16, 26, 0.96);
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+}
+
+.thread-list-title {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #9ca3af;
+  margin-bottom: 8px;
+}
+
+.thread-empty {
+  font-size: 13px;
+  color: #6b7280;
+  padding: 8px 4px;
+}
+
+.thread-item {
+  border: none;
+  outline: none;
+  text-align: left;
+  background: transparent;
+  color: #e5e7eb;
+  padding: 8px 8px;
+  border-radius: 6px;
+  margin-bottom: -4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-color: #2727297a;
+}
+
+.thread-item:hover {
+  background: rgba(55, 65, 81, 0.75);
+  box-shadow: none;
+}
+
+.thread-item.active {
+  background: rgb(89, 92, 97);
+}
+
+.thread-name {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.thread-last {
+  font-size: 12px;
+  color: #d1d5db;
+  opacity: 0.85;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Right side: main chat panel in dashboard */
+.support-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(
+    circle at top left,
+    #0b1120 0,
+    #020617 55%,
+    #020617 100%
+  );
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 10px 12px 11px;
+  box-shadow: inset 0 0 0 1px rgba(31, 41, 55, 0.7);
+  position: relative;
+  overflow: hidden;
+}
+
+.support-main .support-header {
+  margin-bottom: 1px;
+}
+
+.support-main .support-messages {
+  margin-top: 2px;
+}
+
+/* ================================
+   AI HISTORY PANEL – DATE GROUPED
+================================== */
+
+#ai-history-panel {
+  position: fixed;
+  top: 145px;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1200px;
+  padding: 14px 16px;
+  margin: 0;
+  background: linear-gradient(145deg, #050b1f, #031431);
+  border-radius: 16px;
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-direction: column;
+}
+
+.ai-history-header h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.ai-history-header p {
+  margin: 2px 0 10px;
+  font-size: 13px;
+  color: #9ca3af;
+}
+
+/* two-column body: dates (left) / details (right) */
+.ai-history-body {
+  margin-top: 6px;
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 12px;
+  height: 100%;
+  min-height: 400px;
+}
+
+/* left column – date blocks */
+.ai-history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  overflow-y: auto;
+}
+
+.ai-history-item {
+  display: flex;
+  align-items: stretch;
+  gap: 6px;
+  border-radius: 12px;
+  background: rgba(3, 23, 54, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  padding: 6px;
+  transition: background 0.18s ease, border-color 0.2s ease,
+    transform 0.16s ease;
+}
+
+.ai-history-item.active {
+  background: rgba(8, 29, 59, 0.98);
+  border-color: rgba(191, 219, 254, 0.9);
+}
+
+.ai-history-main {
+  flex: 1;
+  text-align: left;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #e5e7eb;
+  padding: 4px 4px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.ai-history-main:hover {
+  background: rgba(15, 23, 42, 0.7);
+}
+
+.ai-history-title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.ai-history-snippet {
+  font-size: 12px;
+  color: #cbd5f5;
+  margin-bottom: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ai-history-meta {
+  font-size: 11px;
+  color: #9ca3af;
+}
+
+/* delete-all button inside date block */
+.ai-history-delete-date {
+  align-self: center;
+  flex: 0 0 auto;
+  border: none;
+  outline: none;
+  height: 28px;
+  width: 34px;
+  border-radius: 999px;
+  background: rgba(127, 29, 29, 0.85);
+  color: #fee2e2;
+  cursor: pointer;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.ai-history-delete-date:hover {
+  background: rgba(220, 38, 38, 0.95);
+  transform: translateY(-1px);
+}
+
+.ai-history-empty {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #cbd5f5;
+}
+
+/* right column – list of Q&A pairs */
+#ai-history-details {
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: radial-gradient(
+    circle at top left,
+    #020617 0,
+    #020617 40%,
+    #000000 100%
+  );
+  border: 1px solid rgba(30, 64, 175, 0.7);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.ai-history-details-header {
+  margin-bottom: 6px;
+}
+
+.ai-history-details-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #e5e7eb;
+}
+
+.ai-history-details-sub {
+  font-size: 12px;
+  color: #9ca3af;
+}
+
+.ai-history-details-placeholder {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #9ca3af;
+}
+
+/* list of pairs */
+.ai-pairs-list {
+  margin-top: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow-y: auto;
+}
+
+/* one Q&A card */
+.ai-pair-card {
+  border-radius: 10px;
+  padding: 8px 10px;
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+}
+
+.ai-pair-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.ai-pair-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ai-pair-meta-bot {
+  margin-top: 6px;
+}
+
+.ai-pair-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #a5b4fc;
+}
+
+.ai-pair-label.bot {
+  color: #facc15;
+}
+
+.ai-pair-time {
+  font-size: 11px;
+  color: #9ca3af;
+}
+
+.ai-pair-delete {
+  border: none;
+  outline: none;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 11px;
+  cursor: pointer;
+  background: rgba(127, 29, 29, 0.9);
+  color: #fee2e2;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.ai-pair-delete:hover {
+  background: rgba(220, 38, 38, 0.98);
+  transform: translateY(-1px);
+}
+
+.ai-pair-prompt,
+.ai-pair-reply {
+  font-size: 13px;
+  color: #e5e7eb;
+  white-space: pre-wrap;
+}
+
+/* info banner variant used in history */
+.support-info-banner.history {
+  bottom: 20px;
+}
+
+/* responsive layout */
+@media (max-width: 900px) {
+  .ai-history-body {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  #ai-history-details {
+    min-height: 180px;
+  }
+}
+
+/* ================================
+   Basic responsiveness
+================================== */
+
+@media (max-width: 900px) {
+  #chat-fullscreen,
+  #support-single,
+  #support-layout,
+  #ai-history-panel {
+    width: 100%;
+    max-width: none;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .chat-input-bar {
+    width: 100%;
+    max-width: none;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  #support-layout {
+    flex-direction: column;
+  }
+
+  .thread-list {
+    width: 100%;
+    max-height: 160px;
+  }
+}
+
+/* ================================
+   Completely hide scrollbars on
+   AskBot scrollable areas
+================================== */
+
+#chat-fullscreen,
+.support-messages-scroll,
+.thread-list,
+.support-main,
+.ai-history-list {
+  overflow-y: auto;
+  scrollbar-width: none; /* Firefox */
+}
+
+#chat-fullscreen::-webkit-scrollbar,
+.support-messages-scroll::-webkit-scrollbar,
+.thread-list::-webkit-scrollbar,
+.support-main::-webkit-scrollbar,
+.ai-history-list::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+}
+
+/* =========================================
+   Local ShardField background INSIDE support
+   (Contact Consultant only)
+========================================= */
+
+.shard-field-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* Keep AskBot content above backgrounds */
+.askbot-page #ask-container {
+  position: relative;
+  z-index: 1;
+}

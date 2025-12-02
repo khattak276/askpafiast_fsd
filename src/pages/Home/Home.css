@@ -1,0 +1,497 @@
+#home-container {
+  min-height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* 🔹 NEW: wrapper to make page tall enough to scroll */
+.home-scroll-wrapper {
+  width: 100%;
+}
+
+/* 🔹 NEW: 200% height area for overlay animation space */
+.home-overlay-space {
+  height: 200vh;
+  width: 100%;
+}
+
+/* Card styling */
+.home-card {
+  background: rgba(5, 9, 70, 0.075);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 10px 30px;  /* reduced */
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 1000px;
+  width: 100%;
+  height: 100%;
+  max-height: 630px;
+  margin-top: -100px;
+
+  position: fixed;
+}
+
+.home-card h2 {
+  font-size: 2.0rem;
+  font-weight: 400;
+  color: #ffffff;
+  margin-bottom: 12px;
+}
+
+.home-card > p {
+  font-size: 1.1rem;
+  color: #a0aec0;
+  margin-bottom: 10px;
+}
+
+/* Main Content */
+.main-content {
+  width: calc(100% - 85px);
+  max-width: 1450px;
+  padding: 40px;
+  margin-left: 85px;
+  margin-right: auto;
+  margin-top: 40px;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; /* ✅ centers child content */
+}
+
+.sidebar:hover ~ .main-content {
+  margin-left: 240px;
+  width: calc(100% - 240px);
+}
+
+/* Feature Grid */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-bottom: 15px;
+
+  width: 100%;
+  justify-content: center;
+}
+
+.feature {
+  background: #1f2937;
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  transition: 0.3s ease;
+}
+
+.feature:hover {
+    background: linear-gradient(
+    135deg,
+    #1b2240 0%,
+    #27336b 40%,
+    #3245aa 100%
+  );
+  transform: translateY(-4px);
+
+  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.103);
+  transition: 0.3s ease;
+}
+
+.feature-icon {
+  font-size: 40px;
+  margin-bottom: 16px;
+}
+
+.feature h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ffffffa2;
+  margin-bottom: 8px;
+}
+
+.feature p {
+  font-size: 0.85rem;
+  color: #ffffffa2;
+}
+
+/* =========================== */
+/*     TOPBAR: Horizontal Nav  */
+/* =========================== */
+
+/* Topbar container */
+.topbar {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  width: 620px;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(28, 34, 46, 0.473);
+  backdrop-filter: blur(12px);
+  padding: 10px 20px;
+  height: 60px;
+  border-radius: 50px;
+  z-index: 9999;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.068);
+}
+
+/* Remove list styling and align items horizontally */
+.topbar ul {
+  display: flex;
+  gap: 60px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Each item */
+.topbar li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Icons */
+.topbar-icon {
+  font-size: 25px;
+  color: rgba(255, 255, 255, 0.45);
+  transition: color 0.3s ease;
+  
+}
+
+/* Active icon styling */
+.topbar li.active .topbar-icon {
+
+  color: #294561;
+}
+
+/* Hover effect */
+.topbar li:hover .topbar-icon {
+  color: #284d72;
+}
+
+/* Sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 85px;
+  background: rgba(17, 24, 39, 0.9);
+  backdrop-filter: blur(14px);
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+  transition: width 0.25s ease-out;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 90px;
+  overflow: hidden;
+}
+
+.sidebar:hover {
+  width: 240px;
+}
+
+/* Logo */
+.sidebar-logo {
+  width: 45px;
+  margin-bottom: -5px;
+  transition: width 0.25s ease-out, margin-bottom 0.25s ease-out;
+  flex-shrink: 0;
+}
+
+.sidebar:hover .sidebar-logo {
+  width: 70px;
+  margin-bottom: 12px;
+}
+
+/* Title */
+.sidebar-title {
+  font-size: 1rem;
+  font-weight: lighter;
+  color: #ffffff8a;
+  text-align: center;
+  margin-bottom: 20px;
+  opacity: 0;
+  transition: opacity 0.2s linear;
+}
+
+.sidebar:hover .sidebar-title {
+  opacity: 1;
+}
+
+/* List */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.sidebar li {
+  margin-bottom: 20px;
+}
+
+/* Links */
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 40px;
+  padding: 10px 30px;
+  color: #d1d5db;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+  transform: translateZ(0); /* prevents bounce by creating new layer */
+}
+
+.sidebar-link:hover,
+.sidebar li.active .sidebar-link {
+  background-color: rgba(255, 255, 255, 0);
+  color: #294561;
+}
+
+/* Icons */
+.sidebar-icon {
+  font-size: 18px;
+  min-width: 24px;
+  text-align: center;
+  line-height: 1;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: none; /* key fix — removes bounce jitter */
+  flex-shrink: 0;
+}
+
+/* Text labels */
+.sidebar-text {
+  margin-left: 15px;
+  opacity: 0;
+  visibility: hidden;
+  white-space: nowrap;
+  width: 120px;
+  display: inline-block;
+  transition: opacity 0.2s linear, visibility 0.2s linear;
+}
+
+.sidebar:hover .sidebar-text {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .home-card {
+    padding: 30px 20px;
+  }
+
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .feature {
+    padding: 24px;
+  }
+
+  .sidebar {
+    width: 200px;
+    padding: 20px 10px;
+  }
+
+  .sidebar h2 {
+    font-size: 1.4rem;
+  }
+
+  .sidebar a {
+    font-size: 0.55rem;
+  }
+
+  .primary-button {
+    /* padding: 12px 28px; */
+    font-size: 1rem;
+  }
+}
+
+.wave {
+  animation: wave-hand 2s infinite;
+  display: inline-block;
+}
+
+@keyframes wave-hand {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(14deg); }
+  30% { transform: rotate(-8deg); }
+  40% { transform: rotate(14deg); }
+  50% { transform: rotate(-4deg); }
+  60% { transform: rotate(10deg); }
+  70% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+
+/* Background Fix */
+
+/* API Warning Banner */
+.api-warning {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #941919bd;
+  color: #ffffffbc;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  z-index: -1;
+}
+
+/* Top padding to avoid overlap */
+#home-container {
+  padding-top: 0px; /* matches API warning height + spacing */
+}
+
+.feature-icon svg {
+  transition: transform 0.3s ease, color 0.3s ease;
+  color: #2368ad;
+  margin-top: 8px;
+}
+
+.feature:hover .feature-icon svg {
+  color: #f8f8f8a1;
+}
+
+.nav-info-message {
+  margin-top: 8px;
+  font-size: 0.8rem;
+  color: #cbd5f5;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.sidebar-lock-indicator,
+.topbar-lock-indicator {
+  margin-left: 4px;
+  font-size: 0.7rem;
+  opacity: 0.85;
+}
+
+.topbar-info-message {
+  margin-bottom: 10px;
+}
+
+/* ============================= */
+/*  Dashboard lock + Toast UX    */
+/* ============================= */
+
+/* Wrap icons so we can overlay the lock badge */
+.sidebar-icon-wrapper,
+.topbar-icon-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Small rounded square with translucent grey background & lock icon */
+.dashboard-lock-badge {
+  position: absolute;
+  right: -0.4rem;          /* tweak if needed */
+  bottom: -0.4rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 0.5rem;
+  background: rgba(15, 17, 25, 0.85); /* dark translucent */
+  color: #b8c0d0;                      /* soft grey */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  pointer-events: none;                /* do not block click */
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.35);
+}
+
+/* Optional: slightly dim the dashboard icon when locked */
+.dashboard-item .sidebar-icon {
+  opacity: 0.9;
+}
+
+/* ============================= */
+/*  Bottom-center toast message  */
+/* ============================= */
+
+.auth-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 1.5rem;
+  transform: translateX(-50%);
+  z-index: 9999;
+  padding: 0.85rem 1.6rem;
+  border-radius: 999px;
+  background: rgba(15, 18, 30, 0.96);
+  color: #e5ecff;
+  font-size: 0.9rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  animation:
+    toast-slide-up 0.35s ease-out,
+    toast-fade-out 0.45s ease-in 2.6s forwards;
+}
+
+.auth-toast p {
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* Slide in from bottom */
+@keyframes toast-slide-up {
+  from {
+    transform: translate(-50%, 20px);
+    opacity: 0;
+  }
+  to {
+    transform: translate(-50%, 0);
+    opacity: 1;
+  }
+}
+
+/* Slowly move up + fade out */
+@keyframes toast-fade-out {
+  from {
+    transform: translate(-50%, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate(-50%, -8px);
+    opacity: 0;
+  }
+}
+
+/* 🧩 Hard-hide Sidebar on Topbar pages */
+body.topbar-mode .sidebar {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* 🧩 Remove left spacing if sidebar used margin-left */
+body.topbar-mode {
+  margin-left: 0 !important;
+}

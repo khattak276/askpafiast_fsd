@@ -1,0 +1,213 @@
+body {
+  background-color: #111827;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+  color: #e2e8f0;
+}
+
+.contact-container {
+  padding-top: 120px;
+  text-align: center;
+  
+}
+
+/* Header */
+.contact-header {
+  margin: 40px auto;
+  max-width: 800px;
+}
+
+
+
+.contact-header p {
+  font-size: 1.1rem;
+  color: #a1a1aa;
+  margin-top: 15px;
+}
+
+@keyframes gradientSlide {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Team */
+.team {
+  margin: 80px 0;
+}
+
+.team-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.team-card {
+  background: rgba(17, 24, 39, 0.8);
+  border-radius: 18px;
+  padding: 20px;
+  width: 300px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  height: 450px;
+}
+
+.team-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(79, 70, 229, 0.3);
+}
+
+.team-card img {
+  width: 100%;
+  height: 260px;
+  border-radius: 16px;
+  object-fit: contain;       
+  background: rgba(0, 0, 0, 0.2); 
+  padding: 10px;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+
+
+.team-card h4 {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+}
+
+.team-card p {
+  color: #94a3b8;
+  font-size: 0.95rem;
+}
+
+/* Contact Form Section */
+.contact-form-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.contact-form-card {
+
+  backdrop-filter: blur(16px);
+  border-radius: 26px;
+  padding: 50px 40px;
+  width: 90%;
+  max-width: 1000px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(145deg, #131d36, #021a5f36);
+
+}
+
+.contact-form-card h2 {
+  color: #fff;
+  font-size: 1.9rem;
+  margin-bottom: 25px;
+  margin-top: -10px;
+}
+
+.social-icons-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 15px 0 25px;
+}
+
+.social-icons-row a {
+  border: 1px solid #5e5e5e;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 6px;
+  width: 40px;
+  height: 40px;
+  color: #ccc;
+  transition: 0.3s;
+}
+
+.social-icons-row a:hover {
+  color:#3245aa;
+   background: linear-gradient(
+    135deg,
+    #1b2240 0%,
+    #27336b 40%,
+    #3245aa 100%
+  );
+  border-color: #3245aa;
+}
+
+.form-note {
+  color: #a1a1aa;
+  font-size: 0.9rem;
+  margin-bottom: 25px;
+}
+
+/* Form Inputs */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-row {
+  display: flex;
+  gap: 15px;
+}
+
+input, textarea {
+  flex: 1;
+  background: rgba(17, 24, 39, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  color: #e2e8f0;
+  font-size: 1rem;
+  padding: 12px 15px;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus, textarea:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.4);
+}
+
+textarea {
+  resize: none;
+  height: 100px;
+}
+
+/* Button */
+button {
+  background: linear-gradient(90deg, #00b3ff86, #0062ff75);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(20, 51, 189, 0.4);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .form-row {
+    flex-direction: column;
+  }
+
+  .contact-form-card {
+    padding: 35px 25px;
+  }
+}

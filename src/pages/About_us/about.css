@@ -1,0 +1,1064 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #111827;
+  color: #f3f4f6;
+  max-width: 100%;
+  /* overflow-x: hidden; */
+  /* min-width: 1500px; */
+}
+
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  overflow: visible;
+  position: relative;
+  min-width: 1500px;
+  text-decoration: none !important;
+}
+
+/* Center and style the heading */
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  /* margin-top: -40px; */
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Base animations */
+@keyframes pulseUnderline {
+  0% { text-decoration-thickness: 2px; }
+  50% { text-decoration-thickness: 4px; }
+  100% { text-decoration-thickness: 2px; }
+}
+
+/* Modern Header Animations */
+
+@keyframes gradientSlide {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+@keyframes letterSpacing {
+  0% {
+      letter-spacing: -8px;
+      opacity: 0;
+  }
+  40% {
+      opacity: 0.6;
+  }
+  100% {
+      letter-spacing: normal;
+      opacity: 1;
+  }
+}
+
+/* Header title animation */
+header h1 {
+  font-size: xx-large;
+  font-weight: 1000;
+  text-align: center;
+  position: relative;
+  padding-bottom: 10px;
+  bottom: 30px;
+  display: inline-block;
+  white-space: nowrap;
+  transform: translateZ(0);
+  text-decoration: none !important;
+  
+  background-size: 400% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: 
+      letterSpacing 1.2s cubic-bezier(0.3, 0, 0.2, 1) forwards,
+      gradientSlide 8s linear infinite,
+      glowPulse 3s ease-in-out infinite;
+  filter: drop-shadow(0 0 8px rgba(79, 70, 229, 0.3));
+}
+
+header h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) scaleX(0);
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, #4f46e5, #9333ea, #ec4899);
+  border-radius: 4px;
+  opacity: 0;
+  animation: fadeScale 0.8s cubic-bezier(0.3, 0, 0.2, 1) forwards 0.8s;
+}
+
+@keyframes fadeScale {
+  0% {
+      transform: translateX(-50%) scaleX(0);
+      opacity: 0;
+  }
+  100% {
+      transform: translateX(-50%) scaleX(1);
+      opacity: 1;
+  }
+}
+
+/* Description text animation */
+header p {
+  font-size: 18px;
+  color: #d1d5db;
+  max-width: 800px;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInStagger 0.8s cubic-bezier(0.77, 0, 0.175, 1) forwards 1s;
+}
+
+@keyframes fadeInStagger {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+/* Floating animation for the header */
+@keyframes float {
+  0%, 100% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-10px);
+  }
+}
+
+/* Update the highlights section for wider cards */
+.highlights {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 80px auto;
+  flex-wrap: nowrap;
+  width: 100%;
+  max-width: 1450px; /* Exact width needed for three 440px cards + gaps */
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  width: 380px;
+  height: 320px;
+  flex: 0 0 380px;
+  background-color: #1f2937;
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 2;
+  margin: 0;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 
+    0 15px 30px rgba(0,0,0,0.4),
+    0 0 0 2px rgba(79, 70, 229, 0.7),
+    0 0 12px 6px rgba(79, 70, 229, 0.4);
+}
+
+/* Adjust card content for better readability in wider cards */
+.card h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+  position: relative;
+  padding-bottom: 20px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.card h3::before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 15px;
+  width: 0px;
+  height: 3px;
+  background: linear-gradient(
+      to right,
+      #4f46e5,
+      #9333ea,
+      #ec4899
+  );
+  transition: width 0.3s ease;
+  border-radius: 10px;
+}
+
+.card h3::after {
+  display: none;
+}
+
+.card:hover h3::before {
+  width: calc(100% - 30px);
+}
+
+.card p {
+  color: #9ca3af;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 auto;
+}
+
+.team {
+  margin: 100px 0;
+  text-align: center;
+}
+
+.team h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.team h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 140px;
+  height: 4px;
+  background: linear-gradient(90deg, #4f46e5, #7c3aed);
+  /* border-radius: 2px; */
+}
+
+.team-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+  width: 100%;
+  max-width: 1450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team-card {
+  position: relative;
+  background: rgba(30, 41, 59, 0.7);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  padding: 25px;
+  width: 380px;
+  height: 390px;
+  text-align: center;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  /* overflow: hidden; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.team-card img {
+  width: 330px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin: 0 auto 15px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.team-card:hover img {
+  transform: scale(1.05);
+}
+
+.team-card h4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0.8rem 0;
+  position: relative;
+  padding-bottom: 12px;
+  display: inline-block;
+  white-space: nowrap;
+  width: auto;
+  max-width: 100%;
+}
+
+.team-card h4::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 15px;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(
+      to right,
+      #4f46e5,
+      #9333ea,
+      #ec4899
+  );
+  transition: width 0.3s ease;
+  border-radius: 10px;
+}
+
+.team-card:hover h4::before {
+  width: calc(100% - 30px);
+}
+
+.team-card h4::after {
+  display: none;
+}
+
+.team-card p {
+  color: #94a3b8;
+  font-size: 1.1rem;
+  margin: 0;
+  padding: 0 10px;
+  line-height: 1.4;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  background: transparent;
+}
+
+.team-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  border: 2px solid transparent;
+  background: linear-gradient(45deg, rgba(11, 0, 227, 0.12), transparent);
+  z-index: -1;
+  filter: blur(10px);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  border-radius: inherit;
+}
+
+.team-card:hover::before {
+  opacity: 1;
+}
+
+/* Info Cards Section */
+.info-cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.info-card {
+  background-color: #2d2d30;
+  color: #fff;
+  border-radius: 12px;
+  padding: 25px;
+  flex: 1;
+  min-width: 250px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  text-align: center;
+}
+
+/* .info-card:hover {
+  transform: translateY(-8px);
+  background-color: #3b3b40;
+} */
+
+.info-card h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #f8f8f8a2;
+  text-decoration: underline;
+}
+
+.info-card p {
+  font-size: 15px;
+  color: #e0e0e0;
+}
+
+
+/* Update media queries for responsive design */
+@media (max-width: 1024px) {
+  .tour-card {
+    flex-direction: column;
+    padding: 0;
+    min-height: auto;
+  }
+
+  .tour-card img,
+  .tour-card:nth-child(even) img {
+    width: 100%;
+    height: 300px;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+    order: 1;
+  }
+
+  .tour-card-content {
+    padding: 2rem;
+    text-align: left;
+    width: 100%;
+  }
+
+  .tour-card h3 {
+    font-size: 1.8rem;
+  }
+
+  .tour-card p {
+    max-width: 100%;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 640px) {
+  .tour-card {
+    margin-bottom: 2.5rem;
+  }
+
+  .tour-card img,
+  .tour-card:nth-child(even) img {
+    height: 250px;
+  }
+
+  .tour-card-content {
+    padding: 1.5rem;
+  }
+
+  .tour-card h3 {
+    font-size: 1.5rem;
+  }
+
+  .tour-card p {
+    font-size: 0.95rem;
+  }
+}
+
+/* Glowing + 3D Tilt Card Effect */
+/* ⛔ Removed .tour-card here so campus tour cards don't get extra glow */
+.card:hover,
+.team-card:hover,
+.info-card:hover {
+  box-shadow:
+    0 0 0 2px rgba(79, 70, 229, 0.7),
+    0 0 12px 6px rgba(79, 70, 229, 0.4);
+}
+
+/* Section Spacing and Animation Preparation */
+header,
+.highlights,
+.team,
+.tour {
+  transform: translateY(40px);
+  will-change: transform, opacity;
+}
+
+[data-aos="fade-up"] {
+  transform: translateY(40px);
+  transition-property: transform, opacity;
+}
+
+[data-aos="fade-up"].aos-animate {
+  transform: translateY(0);
+  opacity: 1 !important;
+}
+
+/* Optimize animations for performance */
+.card,
+.team-card,
+.tour-card {
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+/* Section Spacing */
+.highlights {
+  margin: 80px 0;
+}
+
+.team {
+  margin: 100px 0;
+}
+
+.tour {
+  margin: 100px 0;
+}
+
+/* Update media query for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  [data-aos] {
+    transition: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Typography Hierarchy */
+h1, h2, h3 {
+  margin-block: 1.5rem;
+  line-height: 1.2;
+}
+
+.highlights h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-block: 1.5rem;
+  text-decoration: none;
+  padding-bottom: 0;
+}
+
+/* Make it responsive for smaller screens */
+@media (max-width: 1500px) {
+  .team-row {
+      gap: 30px;
+      padding: 0 20px;
+  }
+
+  .team-card {
+      width: 350px;
+      height: 350px;
+  }
+
+  .team-card img {
+      width: 300px;
+      height: 250px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+      padding: 20px;
+  }
+
+  .team-row {
+      gap: 25px;
+      padding: 0 15px;
+  }
+
+  .team-card {
+      height: auto;
+      min-height: 380px;
+  }
+
+  .team-card img {
+      width: 100%;
+      height: 260px;
+  }
+
+  header {
+      margin-top: -20px;
+  }
+  
+  header h1 {
+      font-size: 4.5rem;
+      padding-bottom: 25px;
+      /* margin-bottom: 25px; */
+  }
+
+  .team h2,
+  .tour h2 {
+      font-size: 2rem;
+  }
+
+  .card h3 {
+      font-size: 1.8rem;
+  }
+
+  .team-card h4 {
+      font-size: 1.3rem;
+  }
+
+  .team-card p {
+      font-size: 1rem;
+      margin-top: 5px;
+  }
+}
+
+.container-about {
+  margin-top: 160px;
+}
+
+/* ------------------------------------------------------------ */
+/*  Page-specific overrides                                     */
+/* ------------------------------------------------------------ */
+.about-page #particles-js,
+.about-page #toggle-sidebar-btn,
+.about-page #welcome-overlay {display:none!important;}
+.about-page .main-content {margin-left:0!important;width:100%!important;}
+.about-page .header {display:none!important;}
+/* .about-page #root{max-width:none!important;} */
+
+/* Initialize AOS with shorter duration */
+[data-aos] {
+  transition-duration: 1500ms !important;
+  transition-delay: -10ms !important;
+}
+
+
+
+
+
+/* Campus Tour Section */
+
+
+/* Base campus tour card (still used, but extended below) */
+.tour-card {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 32px;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+  padding: 0;
+  gap: 0;
+  width: 100%;
+  max-width: 1400px;
+  min-height: 350px;
+  position: relative;
+  overflow: hidden;
+  transform-style: preserve-3d;
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.tour-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at var(--mouse-x, center) var(--mouse-y, center),
+    rgba(255, 255, 255, 0.1) 0%,
+    transparent 60%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* generic image inside tour-card – NO diagonal here */
+.tour-card img {
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* main hero image with diagonal cut */
+.tour-main-img {
+  width: 55%;
+  height: 350px;
+  object-fit: cover;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+
+/* flipped diagonal only for even cards' main image */
+.tour-card:nth-child(even) .tour-main-img {
+  order: 2;
+  clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+
+.tour-card-content {
+  flex: 1;
+  padding: 2.5rem;
+  z-index: 3;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.tour-card h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.tour-card h3::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  bottom: -5px;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(
+    to right,
+    #4f46e5,
+    #9333ea,
+    #ec4899
+  );
+  transition: width 0.3s ease;
+  border-radius: 10px;
+}
+
+.tour-card p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0;
+  max-width: 90%;
+  transform: translateY(20px);
+  opacity: 0.7;
+  transition: all 0.4s ease;
+  text-align: left;
+  width: 100%;
+}
+
+
+
+.tour {
+  margin: 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tour h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.tour h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 140px;
+  height: 4px;
+  background: linear-gradient(90deg, #4f46e5, #7c3aed);
+  border-radius: 2px;
+}
+
+.tour-card:hover img {
+  transform: scale(1.05) translateX(var(--translate-x, 0));
+  filter: brightness(1.1) contrast(1.1);
+}
+
+.tour-card:nth-child(odd):hover img {
+  --translate-x: -10px;
+}
+
+.tour-card:nth-child(even):hover img {
+  --translate-x: 10px;
+}
+
+.tour-card:hover h3::before {
+  width: calc(100% - 30px);
+}
+
+/* Add mouse move effect with JavaScript */
+.tour-card[data-mouse-moved="true"]::after {
+  opacity: 1;
+}
+
+
+
+
+
+/* ===================== CAMPUS TOUR EXPANDING DRAWER ===================== */
+.tour-card.expandable {
+  position: relative;
+  overflow: visible;      /* allow drawer to show below */
+  margin-bottom: 4rem;
+  transition: all 0.4s ease;
+  display: flex;          /* override base flex row behavior */
+  flex-direction: column; /* stack main card + drawer vertically */
+  align-items: center;
+  border:2px solid rgba(0, 0, 0, 0);
+  border-radius: 35px;
+}
+
+/* keep your current card layout for the main part */
+.tour-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  border-radius: 32px;
+  overflow: hidden;
+  background: rgba(17, 24, 39, 0);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  width: 100%;
+  max-width: 1400px;
+}
+
+.tour-main-img {
+  width: 55%;
+  height: 350px;
+  object-fit: cover;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+}
+
+/* keep even card flipped shape for main image only */
+.tour-card.expandable:nth-child(even) .tour-main-img {
+  order: 2;
+  clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
+}
+
+/* override content layout for tour-main */
+.tour-card.expandable .tour-card-content {
+  width: 45%;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.tour-card.expandable .tour-card-content h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.tour-card.expandable .tour-card-content p {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* --- expanding drawer below each card, pushes content down --- */
+.drawer {
+  width: 100%;
+  max-width: 1400px;
+  max-height: 0; /* collapsed by default */
+  opacity: 0;
+  display: flex;
+  background: rgba(0, 0, 0, 0);
+  border-radius: 25px;
+  overflow: hidden;
+  
+   transition:
+    max-height 0.9s cubic-bezier(0.25, 1, 0.3, 1) ,
+    opacity    0.8s ease ;
+  pointer-events: none;
+  margin-top: 0;
+
+  gap: 30px;
+}
+
+
+/* On hover: smoothly reveal drawer and push next card down */
+
+.tour-card.expandable:hover .drawer {
+  max-height: 360px;   
+  opacity: 1;
+  pointer-events: all;
+}
+
+.drawer-item {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  transition: all 1s ease;
+  min-height: 360px;   
+  border-radius: 20px;  
+}
+
+.drawer-item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 45%; /* only lower portion */
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.863), transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* show gradient when drawer is open */
+.drawer:hover .drawer-item::before {
+  opacity: 0.7;
+}
+
+/* brighten gradient a bit for the hovered image */
+.drawer:hover .drawer-item:hover::before {
+  opacity: 1;
+}
+
+.drawer-item img {
+  width: 100%;
+  height: 100%;               /* fill the taller drawer */
+  object-fit: cover;
+  filter: brightness(0.1);
+  clip-path: none;
+  transition: all 0.5s ease;
+  margin-top: 10px;
+
+  border: 1px solid black;
+  border-radius: 20px;        /* 🔹 rounded on all 4 sides */
+}
+
+.drawer-item span {
+  position: absolute;
+  bottom: 12px;
+  left: 15px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
+  z-index: 2;                 /* above gradient */
+}
+
+/* expand selected image horizontally */
+.drawer:hover .drawer-item {
+  flex: 0.7;
+}
+
+.drawer:hover .drawer-item:hover {
+  flex: 3;
+}
+
+.drawer:hover .drawer-item:hover img {
+  transform: scale(1.03);     /* slightly softer zoom than before */
+}
+
+/* Responsive Fixes */
+@media (max-width: 900px) {
+  .tour-main {
+    flex-direction: column;
+  }
+
+  .tour-main-img {
+    width: 100%;
+    height: 250px;
+    clip-path: none;
+  }
+
+  .tour-card.expandable .tour-card-content {
+    width: 100%;
+    padding: 1.5rem;
+  }
+
+  /* On small screens, keep drawer always open and stacked */
+  .drawer {
+    position: static;
+    max-height: none;
+    opacity: 1;
+    flex-direction: column;
+    pointer-events: auto;
+  }
+
+  .drawer-item {
+    height: 180px;
+  }
+}
+
+
+
+/* Text panel inside each mini image – hidden by default */
+.drawer-item-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60%;
+  height: 100%;
+  padding: 18px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  color: #fff;
+  z-index: 3;
+  pointer-events: none;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0.4),
+    transparent
+  );
+
+  /* 🔻 hidden by default */
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 1s ease, transform 1s ease;
+}
+
+.drawer-item-text h4 {
+  margin-bottom: 0px;
+  font-size: 1.4rem;
+  font-weight: 600;
+
+  text-decoration: underline;
+  color: #ffffffde;
+}
+
+.drawer-item-text p {
+  margin-bottom: 90px;
+  /* margin: 0; */
+  font-size: 0.96rem;
+  line-height: 1.4;
+  /* opacity: 0.9; */
+}
+
+/* 🔹 Show text ONLY when that image is hovered */
+.drawer:hover .drawer-item:hover .drawer-item-text {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+
+
+
+
+
+

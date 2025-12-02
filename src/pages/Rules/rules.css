@@ -1,0 +1,100 @@
+/* ---------------------------- */
+/*     Rules Page Styling      */
+/* ---------------------------- */
+.body{
+    background-color: #111827 !important;
+    overflow-y: hidden;
+
+}
+.rules-page {
+
+
+  padding: 2rem;
+    width: 100%;
+    min-height: 100%;
+    background-color: #111827 !important;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 140px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+  }
+  
+  .rules-content {
+    width: 90%;
+    max-width: 1100px;
+    background-color: #111827 !important; /* dark glass background */
+    border-radius: 20px;
+    padding: 40px 30px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    color: #e5e7eb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .rules-content h1 {
+    text-align: center;
+    font-size: 2.3rem;
+    font-weight: 800;
+    margin-bottom: 30px;
+    color: #ffffff;
+    position: relative;
+    padding-bottom: 12px;
+  }
+  
+  .rules-content h1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 160px;
+    height: 4px;
+    background: linear-gradient(90deg, #4f46e5, #9333ea, #ec4899);
+    border-radius: 4px;
+  }
+  
+  .rules-content p {
+    font-size: 16.5px;
+    line-height: 1.7;
+    color: #d1d5db;
+    margin-bottom: 20px;
+  }
+  
+  .pdf-link-wrapper {
+    margin-top: 60px;
+    margin-bottom: -10px;
+  }
+  
+  .pdf-link {
+
+
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    background-color: #1f2937;
+    padding: 23px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+    position: relative;
+    z-index: 2;
+  }
+  
+  .pdf-link:hover {
+     transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(123, 47, 247, 0.4);
+
+
+;
+    box-shadow: 
+      0 15px 30px rgba(0,0,0,0.4),
+      0 0 0 2px rgba(79, 70, 229, 0.7),
+      0 0 12px 6px rgba(79, 70, 229, 0.4);
+  }

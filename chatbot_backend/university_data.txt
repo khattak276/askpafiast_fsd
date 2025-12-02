@@ -1,0 +1,1222 @@
+name of university is pak-austria Fachhochschule
+abriviation used for it is PAF_IAST
+
+
+Medium of Instruction
+- Except for language courses, courses other than English and Islamic Studies, the medium of instruction and examinations for all courses is English.
+- Medium of instruction for Islamic Studies is the student's own choice
+
+Academic Year
+- Academic year comprises mainly two regular semesters, namely, Fall and Spring.
+- A regular semester is spread over 18 weeks of teaching including one week reserved for final examination.
+- The 9-week summer semester including one week for final examination, if offered, is Optional.
+
+Credit Hour
+- One credit hour means teaching each week a theory course for one contact/classroom-teaching hour throughout the semester.
+- A classroom-teaching hour or one period is of 60 minutes including a 10-minute break.
+- The credit hours of a theory/lab course will be followed according to the approved curriculum.
+- One credit hour of lab work is equivalent to 3 contact hours of laboratory or practical work per week throughout the semester.
+
+Scheduling of Classes
+- All classes are held at scheduled hours. The schedule is communicated to students through notification of timetable by the concerned Academic Office.
+
+### - In case of any unavoidable situation a class may be postponed and rescheduled as follows:
+- a)  Faculty members/students are not allowed to reschedule any class at their own discretion.
+- b) With the approval of the concerned Head of Department (HoD)/Chairman, Classes can be rescheduled only by the Academic Section.
+- c) Before the cancellation of a class, the Academic Section will be apprised so that students are informed well in time.
+- d) For pre-planned activities (conferences, workshops etc.) during regular class hours, the concerned Head of Department/Chairman is to be informed and approached for prior formal permission.
+- If it is not possible to meet the requirement of minimum lectures due to unavoidable circumstances), or it is not possible to schedule them in free slots during the working weeks, classes may be rescheduled on weekends, local or national holidays.
+- A class can be scheduled with the approval of the Head of the Department/Chairman for 1½ period, that is, for a duration of 90 minutes.
+
+Regular Semester Course Load
+- Regular semester course load for undergraduate students not on academic warning/probation, is determined on the basis of the Institute's scheme of studies (SoS).
+- On the advice of academic advisor, the Head of Department may change the course load keeping in view the availability of courses, student's academic performance or academic deficiency status.
+- A student can register only for a courses for which he/she has qualified in all the pre-requisite courses as specified in the approved curriculum.
+
+Attendance Requirements
+- Students are expected to maintain 100% attendance not only in lectures but also labs, tutorials, seminars, and discussions prescribed by the course instructor. Mandatory attendance is 75%.
+- Failure to meet attendance requirements (75%) in a course will render the student ineligible to appear in the final examination of the concerned course. He /she will be awarded an F grade.
+
+Requirements for bachelor's degree
+- The minimum and maximum durations of a bachelor's degree are four years (8 regular semesters) and 6 academic years respectively.
+- On a student's re-admission with credit exemptions from a previous admission, the maximum duration allowed to complete the degree will be counted from the date of first admission at the previous institute.
+- A minimum of 130 credit hours are fixed for each bachelor's degree program. If approved by the Institute, a program may have more credit hours. Clearing all courses listed in the Scheme of Studies (SoS) of a program is mandatory.
+- Securing a Cumulative Grade Point Average (CGPA) of 2.00 is mandatory for graduation.
+- Student must complete at least 500 hours of internship with relevant organizations.
+
+Clearance upon withdrawal/completion
+- To graduate, a student must attain good academic and disciplinary standing and should not be subjected to any kind of investigation.
+- Student who withdraws during the year or leaves the Institute upon completion of their education must apply for clearance from all the departments/sections. Clearance is mandatory for the students to be eligible for the issuance of official documents.
+- A student forfeits his/her security deposit if he/she does not complete the clearance process.
+
+## - 2. Grading And Gpa Calculations
+
+
+Grade Point Average
+- The Grade Point Average (GPA) provides a continuous scale for grades earned. Two types of averages are computed for the grades obtained by a student, the Semester Grade Point Average (SGPA) and the Cumulative Grade Point Average (CGPA). SGPA indicates the GPA of courses completed in a semester, whereas CGPA reflects the GPA of all courses completed by a certain date  by a student.
+- PAF-IAST follows Relative Grading system in its scheme of studies.
+
+Interpretation of Grades
+
+### - Grades are interpreted as follows:
+- Grade Letter  -------  Grade Point  -------  Interpretation
+- A   ---------------  4.0  ------------  exceptional
+- A-  ---------------  3.67  -----------  Outstanding
+- B+  ---------------  3.33  -----------  Excellent
+- B   ---------------  3  --------------  Very Good
+- B-  ---------------  2.67  -----------  Good
+- C+  ---------------  2.33  -----------  Average
+- C   ---------------  2.0  ------------  Satisfactory
+- C-  ---------------  1.67  -----------  Low Pass
+- D+  ---------------  1.33  -----------  Marginal Pass
+- D   ---------------  1.0  ------------  Unsatisfactory
+- F   ---------------  0.0  ------------  Fail
+- Q   ----------------  -  -------------  Qualified
+- W   ----------------  -  -------------  Withdrawn
+- I   ----------------  -  -------------  Incomplete
+- IP  ----------------  -  -------------  InProgress
+- T   ----------------  -  -------------  Transfer
+
+GPA Calculation
+
+### - SGPA is calculated as follows:
+
+## - Sgpa = (P1*C1 + P2*C2 + P3*C3 + P4*C4)/C
+
+- > P1, P2, P3 and P4 are the grade points earned in respective courses,
+- > while C1, C2, C3, C4 are the credit hours of those courses studied in the  semester.
+- > C is the number of total credits attempted in the semester, that is, C=C1+C2+C3+C4.
+- CGPA is calculated as the weighted average for all semesters cumulatively using grade points of all the courses taken by a student.
+- In case of a course repetition, the grade of both the attempts are visible on the transcript but only the best grade is included in the cumulative grade point average (CGPA) calculations.
+- The following letter-grades have no grade points, but they will appear on the transcript. However, they have no effect on the CGPA.
+- a) "W" grade letter will be awarded for withdrawn courses. It will not be removed even if the student successfully completes that course subsequently.
+- b) "Q" grade letter will be awarded on the completion of non-credit courses.
+- c) "I" grade letter will be awarded, after approval of absence by the concerned BOF, if a student fails to appear in a final exam. (Refer 5.6 for I grade policy).
+- d) "IP" grade letter is assigned by the system in FYP-I at the time of FYP-II enrolment or at the end of the semester (whichever is earlier).
+- e) Letter "T" in the transcript grades column, indicates that the respective course credits have been approved and transferred to PAF-IAST.
+
+## - 3. Transfer Policy
+
+
+Credit Transfer from another University
+
+### - Transfer of a student and his/her earned credits is possible if:
+- a) The student had studies at Fachhochschule model institute/university.
+- b) A seat is available at PAF-IAST in the intended academic program.
+- The relevance/compatibility/validity of the curriculum/contents studied at previous institution is determined against the curriculum and contents of the relevant courses taught at PAF-IAST.
+- Exemption of courses studied at another university cannot be allowed beyond 40% of the total credit hours of the degree program.
+- The HoD/Chairman recommends courses for exemption which are compatible with PAF-IAST courses.
+- Recommendations for credit exemption are sent to Dean of the relevant Faculty for validation. He is the final authority to grant course exemption.
+- 3.6  No credit can be given for a course in which the grade is below B, that is, a GPA of less than 3.00 on a scale of 4.00.
+- 3.7 Only credits of acceptable courses are transferable, and NOT the CGPA earned at the previous institution.
+
+### - Transfer shall not be processed unless a student provides NOC from the previous institute stating that:
+- a)  He/she is not under disciplinary punishment.
+- b)  No Disciplinary action is pending against him/her.
+- c)  No Dues are outstanding against the student.
+- A transfer shall not be considered during a semester
+- When a student is transferred with credit exemptions from another institute, the maximum duration allowed to complete the degree will be counted from the date of first admission at the previous institute.
+
+Credits for Courses Taken at Other Institutions as Visiting Students
+- After prior approval, students may take courses at other institutions as visiting scholars.
+- Credits for these courses are transferable to PAF-IAST subject to fulfilment of the criteria of B or above grade.
+- Exemption of courses studied at another university cannot be allowed beyond 40% of the total credit hours of the degree program.
+- To claim credit for courses taken at other institutions, students are required to submit the detailed course outlines to the respective department(s) for evaluation.
+- These credits will count towards the degree requirements after the approval from Dean.
+
+## - 4. Registration
+
+- Students in the first semester must register for all the courses listed in the Scheme of Studies (SoS). Once they have registered for the courses, they are not allowed to drop them.
+
+### - Following is the procedure for the recommended course registration procedure in subsequent semesters:
+- a) Clear all previous fees and dues before registration.
+- b) Register courses online.
+- c) Pay semester fees by due date.
+- In a regular semester (Fall and Spring) a regular student without academic deficiency is allowed to take all courses prescribed in the scheme of studies.
+- In addition to semester load, a student can register for a repeat course(s) in consultation with student's advisor provided total load in a semester does not exceed 21 credit hours.
+- Tentative registration timelines for students are given in the table
+- below.
+
+### - -> Provisional registration:
+- starts two weeks before commencement of semester
+- >Final Registration
+- till semester start
+- >Dropping/picking courses
+- first two weeks of semester
+- >fee clearance
+- by the due date mentioned in the voucher
+
+
+### Registration of courses with Theory and associated Lab:
+- Parents/guardian will be contacted for a meeting with the HoD/Chairman for sharing the unsatisfactory academic performance of the student. In consultation with their respective advisors, students with academic deficiency (warning or probation), have the option to register for improvement of a course if they have obtained C or below grade. The credits of improved course(s) count once towards credit hours completed successfully.
+- A student must register both for the Theory and Lab part of a course.
+- A student cannot withdraw from either Theory or Lab part of the course. He/she must withdraw both from Theory and Lab component.
+- A student can register for both parts of a course (i.e., theory, and lab), if he/she has passed only the theory part of a pre-requisite course  (if it has any).
+- If a student, who has passed both Theory and Lab, wishes to improve grade in the course, he/she must register for both Theory and Lab.
+
+Registration for Final Year Project (FYP)
+- Final Year Project (FYP) is offered in the second last regular semester. The project spans over two semesters (FYP-I and FYP-II).
+- Students must have a CGPA of 2.00(and above) and completed 90 credit hours to register for FYP-I.
+- Registration for FYP-II requires successful completion of FYP-I.
+
+Adding or Dropping a Course
+- The request to add or drop a course can be made within the first two weeks of a regular semester. For this, recommendation of student advisor and approval of the Chairman/Head of Department are essential.
+- Students are not allowed to drop any course during the first semester.
+- Students cannot drop a course in the summer semester either.
+- Dropping a course after the 2 week and before commencement of the 11 week, is defined as withdrawal from a course. In the case of withdrawal, the student is automatically awarded W grade by the system.
+- Withdrawal from a course(s) may result in delay in graduation. However, the maximum duration of his/her degree program shall remain the same i.e., 6 years.
+- First-year students are not allowed to withdraw course(s) in their first semester.
+- The fee paid for a withdrawn course is not refundable.
+- HoD/Chairman has the authority to approve request for withdrawal on recommendation of the student's advisor.
+- The last date to withdraw from a course shall be the last working day of the 10 week of the semester.
+- After the course withdrawal deadline, a student cannot discontinue the course(s). Discontinuation of the course(s) will result in F grade or a grade earned according to the percentage of course assessments attempted. This grade is visible on the transcript and it has effect on the CGPA.
+- Students availing any form of financial support are not allowed to withdraw from a course, unless necessitated by unavoidable circumstances. Request for withdrawal in such a case must be approved by the respective Dean.
+
+
+### Course Repeat and Replacement Policy
+- Students may repeat courses for improvement with grade replacement if they have obtained C or below grade. The course grade is replaceable only if the same course is repeated.
+- A student is required to apply to the Controller of Exam before the notification of results if he/she wants to repeat a course for improvement after the completion of a degree requirement. He/she can do so within the maximum duration of the degree (i.e., 6 Years).
+- The credit of repeat course shall be counted once towards the successfully completed credit hours.
+- A student awarded an F or W grade in a core course, must repeat the same course to meet the graduation requirement.
+- A core course cannot be replaced by any other course.
+- A course can be replaced by another course if that course is substantially similar to the original course. For this, the approval of Head of Department is essential.  This option is available only if the original course has been discontinued by the department.
+- In the event of a repeated course, the best grade is included in the cumulative grade point average (CGPA) calculations.
+
+Expulsion from the Institute
+
+### - The Institute may expel a student in the following extreme cases if he/she:
+- a)  Poses a threat to the lives or safety of him/herself or other members of the Institute or is involved in any undesirable activity.
+- b) Has a critical medical/psychological condition or demonstrates behavior that seriously interferes with his/her education as well as that of other members of the Institute.
+- The expulsion process is initiated, after thorough verification, by the faculty advisor and/or disciplinary committee
+
+Closure of Admission
+- Closure of admission results in termination of a student from an academic program.
+- In case of academic withdrawal, the admission of that student would stand closed.
+- A student's admission will be cancelled automatically on completion of maximum duration allowed to earn a degree.
+- Admission can also be closed if so, recommended by a Disciplinary Committee and approved by the competent authority.
+- A new admission is closed if the awaited result does not meet the eligibility criteria of a particular degree program.
+- A student can request for closure of his admission for personal reasons or in order to pursue studies elsewhere.
+
+Semester Freeze
+- Semester freeze means to unregister all registered courses in a semester after Add & Drop period. However, tuition fee of the semester is not refunded.
+- A semester of a student can be freeze if his/her overall attendance is below 75% in a semester on medical grounds or some other reason beyond his/her control.
+- The semester freeze would be approved by the Rector of the Institute.
+
+## - 5. Academic Assessment
+
+- The performance of students is assessed during the semester through midterm exams, assignments, quizzes, case studies or any other methods considered appropriate by the course instructor and the Institute. The assessment requirements shall be duly communicated to the students at the start of a course.
+
+### - Following is the weightage assigned to  various assessment elements:
+
+### - a)  Theory Course:
+- Table 3 : (Weightage for Theory Assessment)
+
+### - Final Exam:
+- 40-50%
+
+### - pre-final :
+- 50-60%(sessional(20-30%), mid term(20-30%))
+- b) The Sessional includes quizzes, assignments, projects, internships, class participation etc.
+- c) Lab Course
+
+### - final:
+- 40-50%
+
+### - pre-final:
+- 50-60%(sessional(20-30%), mid term(20-30%))
+- d)  A minimum of 12 Lab tasks must be evaluated in a semester.
+- using relative grading system, a letter grade will be awarded to each student based on his/her overall academic performance in a course.
+- Except for the final examination, all the assessment results will be shared with the students. The students, however, may check the final exam paper through a formal paper rechecking process.
+- Any deviation from Rule 5.2 above, if necessitated by the nature of a course, will be made with the approval of the Chairman/HOD. On intimation from Dean, Controller of Examination will implement the change in the rule for that specific course.
+- The Controller of Examination will publish the result notification.
+- The Controller Examination is authorized to issue all Warning, Probation, and withdrawal letters.
+
+Award of Incomplete (I) Grade
+- “I” grade is awarded if a student fails to appear in the final exam because of medical reasons or due to death of the first degree relative. In case of any other eventuality beyond the student's control, he/she will be awarded an I grade with the approval of the Board of Faculty (BoF).
+- “I” grade will be awarded to a student on his/her request, after due process on the recommendation of the department.
+- The makeup examination for the “I” grade students will be arranged within first six weeks after the beginning of the subsequent semester. In case the student fails to take the makeup examination, he/she will be awarded an F grade.
+- The standing of a student in the pre-final semester work evaluation cannot be altered.
+- On announcement of the makeup exam result, “I” grade will be replaced by the attained grade.  At the same time, the semester GPA and CGPA are recomputed, and the student's academic record is updated accordingly.
+
+Academic Warning
+- To remain in good academic standing, students are required to maintain a minimum CGPA of 2.00 at the end of each regular semester as well as during their study duration.
+- Academic warning letter will be issued to students with weak performance in studies. Such students will be at the risk of being placed on probation if they do not improve their academic performance.
+
+### - Warning letters will be issued to students if:
+- a)  Their Semester GPA in any regular semester falls below 2.00.
+- b)  CGPA is below 2.00.
+- c)  They earn F grade(s) in a course(s)
+- If the CGPA equals or exceeds 2.00 after the 1 or 2 academic warning, the warning count is reset to zero
+
+Academic Probation
+
+### - A student will be placed on academic probation if:
+- a)  The semester GPA remains below 2.00 for two consecutive regular semesters.
+- b)  The CGPA fa ls below 2.00 at the end of any regular semester.
+- Students may be placed on probation beforehand without receiving an academic warning letter.
+
+Academic Withdrawal
+
+### - Academic performance of a student is closely monitored especially during his/her warning and/or probation period. Students who fail to demonstrate a marked improvement in their academic performance while on probation will be withdrawn from their respective academic programs in the following situations:
+- a)  If the CGPA in the first semester is below 1.00
+- b)  If the SGPA of a student is below 2.00 for the first two consecutive regular semesters, then s/he will stand withdrawn from the program.
+- c)  If the CGPA is below 2.00 for any three consecutive regular semesters after the first semester.
+
+Retotaling of Final Exams
+- Application for retotaling a final exam must be tendered on prescribed forms along with retotaling fee.
+- Student's application should reach the Examination Office within seven days of announcement of the result.
+
+### - The retotaling Committee shall comprise:
+- a) The Controller of Exam - Convener
+- b) Head of the Department - Member
+- c) A Subject Specialist from the Department - Member
+
+### - The committee shall comply with the following guidelines to deal with retotaling cases:
+- a) The committee shall recount marks awarded by the concerned instructor.
+- b) Unmarked question or part shall be sent to the instructor for marking.
+- c) The committee is not authorized to discuss with the student the outcome of the retotaling.
+- The committee shall submit its recommendation, on Change of Grade Form, to the respective Dean for final approval.
+- Examination Office will inform the student about the outcome of the application for retotaling.
+- 5.26   Retotaling fee will be refunded if there is a change in marks.
+
+Result Declaration Process
+- Instructor of the respective course will award the grade. The awarded grades of every course will be presented for discussion at a department meeting.  Chair of the meeting (i.e., HOD/Chairman) can suggest change in the result change but he cannot alter the result. The final decision will rest with the concerned faculty member.
+- The recommendations of the departmental meeting will be presented for review and approval at the Faculty Meeting. Chair of the meeting (i.e., Dean) has the authority to approve awarded grades, deciency cases of I grade, Probation, and withdrawal. After Dean's approval, results and deficiency cases will be sent to the Controller of Exam for verification and declaration.
+
+## - 6. Rules For Summer Semester
+
+- The 9-week summer semester will be offered as an optional semester.
+- The contact hours per week will be doubled during the Summer Semester to ensure full coverage of the course in summer (within half the duration as compared to a regular semester).
+
+### - A student cannot register for a new course unless:
+- (i) an elective course is being offered by a distinguished scholar or professional who is available only during summer.
+- (ii) a student needs one or two new elective courses to graduate at the end of summer.
+- Students can register in summer semester for courses which they had previously taken and were awarded a letter grade, including W.
+- A student will be allowed to repeat a maximum of 2 courses, with associated labs (if any).
+- A student can withdraw from a summer course on or before the last day of the 5 week of classes.
+- Summer courses cannot be dropped. The fee charged can neither be refunded nor carried forward to next semester(s).
+- Financial assistance, scholarship or fee concession are not available in summer semester.
+- For a summer course to take place, as a bare minimum FIVE (05) students must enroll for the course.
+- For relative grading, grading scheme of the previously taught course will be applied to the repeat course.
+
+## - 7. Awards And The Honors
+
+- Upon graduation, Gold Medal will be awarded to overall first position holder of each degree program.
+
+### - Following is the eligibility criteria for the awards of medals and certificates:
+- a) Student must have passed the prescribed courses (for his/her batch) in all semesters.
+- b) Student must not have failed, repeated or withdrawn from any course (s) a course in any semester.
+- c) The position is determined by the GPA earned in all semesters. In the case of a tie, the position will be adjudged on the basis of highest marks secured.
+- d) The student must have earned SGPA of 3.00 or higher in all semesters.
+- e) A student disqualified by the Disciplinary Committee from any academic honor, e.g., a medal or scholarship shall not be considered for any award.
+- Best Project Award for the Final-Year Project (FYP) - Student(s) must have an A grade in the project to qualify for the award of certificate(s).
+- All academic awards and honors will be officially noticed by the Controller of Examination.
+
+Rector's List of Honors
+- Students earning an SGPA of 4.00 shall be included in the prestigious Rector's List of Honors.
+- The Rector's list will be issued and displayed after each semester and a recognition certificate will be issued accordingly. Student's name will also appear on the Institute's website.
+- Only those students are included in this list who have completed the semester with regular course load prescribed in the study plan.
+
+Dean's List of Honors
+- Students with an SGPA of 3.50 to 4.00 would be included in the Dean's List of Honors at the Institute's website in order to recognize the student's distinguished performance.
+- The Dean's list will be issued and displayed after each semester and a recognition certificate will be issued.
+- the list will include only those students who have completed the semester with regular course load prescribed in the study plan.
+
+## - 8. Academic Integrity
+
+
+### - Students are expected to adhere to honest practices throughout their stay at the Institute. Some specific acts of academic dishonesty are described here:
+
+
+### Cheating:
+
+### - Cheating is described as any act that is intended to gain unfair academic advantage. Examples of cheating include, but are not limited to the following:
+- Any attempt to give or seek assistance in a formal academic exercise, like an examination.
+- Disseminating or receiving answers, data, or other information by any means other than those expressly permitted by the concerned teacher in a certain academic exercise.
+- Copying answers, data, or other information (or allowing others to do so) during an examination, quiz, laboratory experiment, or any other academic exercise, in which the student is not expressly permitted to work jointly with others.
+- Assuming another individual's identity or allowing another person to do so on one's own behalf for the purpose of fulfilling any academic requirement or in any way enhancing the student's grade or academic standing.
+- Using without the teacher's permission, any device, implement, or other form of study aid during an examination, quiz, laboratory experiment, or any other academic exercise.
+
+### - Deception or providing false information to a teacher concerning a formal academic exercise, e.g., giving false excuse for missing a deadline or falsely claiming to have submitted work. Deliberately presenting work, words, ideas, theories, etc., derived in whole or in part from a source external as though they are the student's own efforts. Examples of plagiarism include, but are not limited to the following:
+- Failing to use proper citations as acknowledgment of the true source of information presented in a paper, assignment, or any other academic exercise.
+- Presenting any work completed in whole or in part by any individual, group or organization, as though the work is the student's own, in an academic exercise.
+- Buying, selling, bartering, or in any other fashion obtaining or distributing material to be used fraudulently as part of an academic exercise.
+
+
+### Other Academic Violations:
+
+### - Falsifying or fabricating data, records, or any information relevant to the student's participation in any course or academic exercise or tampering with such information as collected or distributed by a teacher. Examples of academic misconduct include, but are not limited to the following:
+- Falsifying, or attempting to falsify attendance records, graded exercises of any kind, or any information or document that is relevant to smooth operation of the academic system.
+- Inventing, fabricating, or falsifying data as part of completion of an academic exercise.
+- Bribery or paid services i.e., giving assignment answers or test answers for money.
+- Sabotaging or acting to prevent others from completing their work. This includes removing pages from library books or willfully disrupting the experiments of others.
+
+Penalties for Academic Dishonesty
+- The teacher (under intimation to the concerned HoD/Chairman) can award a "zero" in a specific assessment of academic evaluation, such as, assignments, quizzes, project deliverables, etc. if evidence of academic dishonesty or cheating is found.
+
+### - Disciplinary Committee can award the following punishment depending on the gravity of a case:
+- i) 'F' grade in a course.
+- ii) 'F' grade in all the courses.
+- iii) Fine
+- iv) Expulsion from the university.
+- v) Disqualification from any academic honor, e.g., a medal or scholarship.
+- vi) Combination of any of the above.
+
+### - Disciplinary committee comprises:
+- i)Dean nominated by the Rector (Convenor)
+- ii)  Controller of Examination (Secretary)
+- iii) Three Senior faculty members nominated by the Rector (Members)
+
+## - 9. Academic Advisors
+
+
+### - In order to acquaint Bachelor students with the PAF-IAST Academics Rules & Regulation and support them to overcome their administrative and academic issues, the concept of “ADVISOR” has been introduced at PAF-IAST. The Student Advisor (i.e., faculty member from the Institute) will take care of a group of 5-10 students. Stated below are the duties of the academic advisor:
+- Help students to define and develop realistic educational career plans through schedule planning for each semester. Each student should have an up-to-date academic schedule plan till graduation.
+- Meet Freshman /Students once a week during 1st semester in order to assist them in the initial adjustment to university academic life and clarify their queries related to academic and administrative issues. Special sessions should be scheduled throughout the first academic year.
+- Meet continuing students at least once fortnightly with a view to guiding them to plan for the coming semester (or summer) and to review/revise their long-range academic program schedules and clarify their queries related to academic and administrative issues.
+- Assist students in studying a course consistent with their abilities and interests.
+- Monitor progress toward educational/career goals and meet at least once each semester to review the progress toward completing the proposed academic program and to discuss grades and other performance indicators.
+- Discuss and reinforce linkages and relationships between instructional program and occupation/career.
+- Acquaint students with PAF-IAST Academics Rules and Regulations. Interpret and provide rationale for the Academic Rules and Regulations, procedures, and requirements.
+- Keep and follow the assigned students' reports of unsatisfactory work (such as, notice of class probation for poor attendance (75%), failing grades, incomplete grades from past semester(s)). Special attention should be paid to students who are placed on academic warning or probation.
+- Approve all designated educational transactions (e.g., preregistration/registration schedule, drops/adds, withdrawals, change of major and advisor, graduation requirements, etc.).
+- Try to make informal/out-of-class/office contacts to evince personal interest in the student as an individual.
+- Maintain an up-to-date Advising Portfolio, with a summary record of performance to date (grade reports, transcript, requirements completed, etc.), dates of meetings, notation of special circumstances etc.
+- Inform and, if necessary, refer students to other institutional resources when academic, attitudinal, attendance, or other personal problems require intervention by other professionals. (e.g., Office of Controller of Exam, Provost, etc.)
+- Consult regularly with faculty colleagues in order to have an up-to-date information. For career and graduate school options, advisors should refer their charges to the Career Development Center when more information is needed.
+- Initiate case of I-grade whenever a situation arises.
+- Resolve in coordination and consultation with the Institute's authorities, any administrative difficulty of the students,
+- Each Advisor will monitor the progress of their charges' problems (whether administrative, psychological or academics), keep this log, and get it signed by HOD/Chairman on fortnightly basis. Each Department will forward on semester basis a compiled report of issues highlighted by Advisor to Dean.
+
+## - 10. Internship
+
+
+Internship and its importance
+- An internship is short-term on-job training or professional learning experience that offers meaningful, practical work related to a student's eld of study or career interest. Internships are offered by companies and organizations to provide entry-level exposure to
+- students in a particular eld or industry. The major objective of the internship is to expose the students to a real-time work environment and assist them in developing professional skills such as teamwork, problem-solving, critical thinking, management, and
+- communication. In this short-term training, students enhance their knowledge in a particular eld under the mentorship of skilled experts.
+
+
+### The internship helps to develop the following skills:
+- Professional behavior and knowledge of a specific industry/company, job functions such as marketing, customer service, accounting, design and production, application of theoretical knowledge into practical work
+- Communication skills: interpersonal, teamwork, leadership, speaking, presenting, writing.
+- Computer or technology skills with specific hardware and/or software
+- Project-related skills: research, analysis, time management, multitask coordination, teamwork, project progress, and completion.
+- Employment-enhancing activities: expanding the network of industry contacts, earning a job experience to reflect the performance.
+
+Internship policy for BS Programs
+- PAF-IAST approved 18 weeks (500 hours) of the internship/industrial training in the 2nd meeting of the academic council held on 11-062020. This includes 08 weeks summer semester internship (after the 6th semester) and 10 weeks total summer break internship (collectively after the 2nd and 4th semesters) which will be of 05 weeks in each summer break.
+
+Allowed forms of Internship.
+- Industrial training: An industrial training will be considered an internship experience through which students gain real-time work experience in an industry or R&D organization and gain knowledge through hands-on observation and job execution either in national or international/multinational companies.
+- Project-based internship: A project-based internship is a learning process in which students bring acquired knowledge and methodological competencies into practice on some specific issue or problem in a national international/multinational company. This will be considered an internship experience if the student has completed the selected project or assignment which is to be assessed by the academic advisor (faculty member) and/or expert in the industry. The project could be based on developing a part of a new or existing product, preparing some specific strategy, or conducting analyses.
+- Project:  The project with an industry or research institute can be regarded as an internship experience with the condition that students should demonstrate the application of knowledge and skills during the course/study program with quantitative conclusions or qualitative understanding as a result.
+- Virtual internship:  Virtual work placement involves the use of an information and communication technology (ICT) supported environment, where students interact with one another and companies independent of time and space as well as across traditional geographical boundaries. Computer-aided product design and computer simulations are prominent learning tools for virtual internships. A virtual internship can be considered an internship experience if the student has completed a specific project or task duly assessed by the academic advisor
+
+Internship outcome
+
+### - An appropriate internship position should provide value to the company or institute offering the internship through assistance in various tasks such as projects, client interaction, and other organizational functions. In a broader sense, the learning outcome during the internship placement should give the student an opportunity to:
+- a)  Apply theories and skills, learned in coursework, to practical experience.
+- b) Develop new knowledge and skills by interacting with professionals.
+
+Internship Eligibility
+- Freshmen, junior, sophomore, and senior students in all majors are eligible for the mandatory internship.
+- Employer or students' academic program may require specific course work, skillset, and specific CGPA. Specific issues related to the Internship
+- Industrial training and project-based internship are preferred forms of internship experience.
+- Project or virtual internship will be considered an internship experience only for one summer break.
+- PAF-IAST will provide NO remuneration, transportation, and living expenses for the internship.
+- An individual and a small team (≤ 4) are preferred forms of internships.
+- Location for the internship can be home institute, national company, international company, or institute.
+
+Supervision of the internship
+
+### - The procedure is as follows:
+- a. The student will submit internship placement pro forma in the rst week while joining the internship program at a certain company/institution.
+- b. He/she will meet the supervisor every two weeks and share with him/her the progress of the internship.
+- c. He/she will mid-term report stating the level of attainment of internship goals and objectives.
+- d. He/she will submit the nal report containing the detailed works of internship and achievement of the goals and objectives.
+
+### - The supervisor will be responsible for:
+- a. Providing prompt feedback to the students on their queries and progress report.
+- b. Conducting an online meeting every two weeks
+- c. Visiting companies to inspect the process of internship at least once during the internship.
+
+### - The company/organization will be responsible for:
+- a. Supervising the student by the professional having expertise and professional background in the eld of experience.
+- b. Providing necessary resources, equipment, facilities that are required for the learning objectives.
+- c. Ensuring that the student is following all safety rules of the workplace and following organization policies.
+- d.  Contacting formally or informally the concerned academic advisor in case of any problem
+- e. Sending a written evaluation of the student at the end of the internship.
+
+Evaluation of the internship
+- At end of the internship, the student must submit an internship report to the employer as well as the academic advisor for evaluation of the attainment of the internship objectives.
+- Students will be asked to deliver a presentation to the advisor on the internship activities and learning outcomes of the internship course.
+- The student must submit an internship evaluation form assessed and duly signed by the employer.
+- If the evaluation by the academic advisor and/or employer is unsatisfactory then the student will need to repeat the internship course.
+- The student may directly request an internship completion certificate from the employer if he requires it for his future career.
+
+## - 11. Code Of Conduct
+
+- In order to inculcate in its community intellectual diversity, self-motivation, critical thinking, capacity for leadership, and ethically guided high sense of professionalism, PAF-IAST expects its community (i.e., students, faculty, employees) to maintain at the campus a disciplined environment.  The code of conduct provides a framework for improving discipline by identifying expectations, specifying the violations/acts of misdemeanor and the nature of ensuing penalties. The PAF-IAST Code of Conduct is laid down below. The guidelines in the code will help the students, faculty and employees to regulate their everyday conduct, i.e., behavior, attitude, and dress of PAFIAST community both on and off campus.
+- PAF-IAST is an equal opportunity workplace for all students and employees. The institute does not discriminate its workforce on the basis of race, color, religion, national origin, gender. All opportunities are offered purely on the basis of qualications, merit, and institutional (business) needs.
+- PAF-IAST Community should refrain from taking part  in any political, anti-state, unlawful  and sectarian activities, cheating, plagiarism, harassment, cyber bulling, drugs, lying, stealing etc., during the entire  tenure of their association  with the Institute.
+- PAF-IAST Community should refrain from conduct that might damage the reputation of the Institute. They must shun   such conduct as may disrupt of any academic program /activity of the Institute.
+- PAF-IAST Community will show tolerance, understanding, and respect for the rights of others. In case of any misunderstanding with peers or Institute management, etc., discussions and exchange of views within the bounds of decency and decorum would be the desirable course to follow. Threatening attitude and behavior to fellow students, faculty, staff, or PAF-IAST as an institution could cause dismissal from the Institute.
+- Irrespective of gender, PAF-IAST Community will be respectful to all members of the institute and will refrain from such behavior as can be interpreted by others as 'gender harassment'.
+- PAF-IAST Community must bear in mind that gender interaction and collaboration is permissible only within the accepted social and cultural norms of the society. Beyond this, any undue intimacy or unacceptable proximity, openly or in isolated areas shall not be tolerated.
+- It is the responsibility of every individual to keep the Campus environment neat and tidy. Littering and leaving or throwing trash carelessly on the Institute premises are prohibited.  The designated waste bins should be used   to deposit trash.
+- Members of PAF-IAST Community are advised to refrain from causing any damage to the Institute textures/furniture including venetian blinds, by scribbling or carving on desks, writing on walls, and misusing lab equipment, etc.
+- All members of PAF-IAST Community are advised not to smoke on the Institute premises. Any violation may entail strict disciplinary action.
+- Mobile phones must be switched off in classrooms, examination halls, labs and library to keep intact   the calm of these places.
+- Members of PAF-IAST Community are advised to adhere to the code of conduct on-the-eld and off-the-eld while taking part in sports and extracurricular activities. They are expected to display exemplary behavior, especially while representing the Institute in an activities like seminars, conferences, exhibitions and competitions.
+- Cases of indiscipline shall be referred to the Institute Discipline Committee. The committee is authorized to deal with all matters of indiscipline and recommend appropriate corrective action to be taken
+- for various breaches of code of conduct.
+- The Institute dress code includes general unspecified rules of cleanliness, grooming, good taste and appropriateness. All members are expected to be dressed decently in a manner that is appropriate for any seat of higher learning. Clothes should be reflective of   high cultural and social values.
+- No one is allowed to possess or use rearms, rework, dangerous devices, chemicals, or explosives on the Institute premises. The Institute has zero-tolerance policy for those found in possession of artifacts like dangerous knives or daggers which could be viewed as weapons.
+- Whilst on the Institute's premises, members of PAF-IAST Community should always carry with them their National Identity Card, and PAFIAST Identity Card for their safety and security. Lending an identity card to someone else is a violation of PAF-IAST Code of Conduct and is liable to disciplinary action.
+- Ragging and bullying are prohibited on the institute's premises. Such acts may result in strict disciplinary action. Any member subjected to such behavior or a witness to it, should report the matter to Chairman/Head of the department/Section.
+- No member of the PAF-IAST community is allowed to post an opinion or participate in a debate in print, electronic and social media on behalf of the Institute without the prior approval of the competent authority. Any member who communicates or posts over media in an individual capacity, should be respectable and courteous, and must state clearly that the content of the post is his/her personal opinion
+
+
+
+
+## Recreational Trip Approval Policy
+
+
+### 1. Trip Details:
+- Students must specify the place(s) to visit.
+- The Date/Time of Departure and Date/Time of Arrival back in PAFIAST must be clearly mentioned.
+
+
+### 2. Club/Society Information:
+- The organizing body must be identified by the Name of the Class/Society/Club.
+- State the Total Registered Students in the club/society/class.
+- Mention the Number of Students Going on the Trip (minimum requirement is 25).
+
+
+### 3. Organizers’ Responsibilities:
+- A designated Coordinator must fill and sign the form.
+- The Class Representative/Secretary of the Society/Club must also provide name and signature.
+- The President of the Society/Club or a Class Representative must sign and verify the proposal.
+
+
+### 4. Transport Requirements:
+- Mention the Type of Vehicle required (e.g., 30- or 50-seater).
+- Include the Driver’s Name.
+- The TT Supervisor must provide their signature confirming transportation arrangements.
+
+
+### 5. Faculty/Staff Accompaniment:
+- Names, departments, and signatures of at least 2 Faculty/Staff members who will accompany the trip must be provided.
+
+
+### 6. Mandatory Checklist (N/A if not applicable):
+- Student Details
+- Parental Permission (for girl students only)
+- Food/Drink Arrangements (to be covered by students)
+- Permission from Places of Visit
+- Stay Arrangements (if needed)
+- Each item must be initialed by the Coordinator and reviewed by the Advisor/HoD with remarks and signature.
+
+
+### 7. Approval Requirements:
+- Final Remarks of the Assistant Provost (with signature)
+- Approval by Director Establishment
+- Approval of Provost
+
+
+
+
+## Hostel Rules And Conduct Policy
+
+
+
+### 1. General Compliance:
+- I shall abide by all rules, regulations, statutes, and codes issued by the Government and the Institute including its departments, hostels, transport, and other constituent units.
+
+
+### 2. Disciplinary Action:
+- The Management holds authority to take disciplinary action, including penalties, for any misconduct, disobedience, malpractice, or actions detrimental to the Institution. No fee refund will be applicable in such cases.
+
+
+### 3. Hostel Stay Duration:
+- I shall retain hostel accommodation for the full academic year. Leaving the hostel early will still require payment of the full year’s hostel charges.
+
+
+### 4. No Right to Hostel Admission:
+- Admission to the hostel is not a guaranteed right.
+
+
+### 5. Ragging Prohibition:
+- Ragging is a criminal offense and strictly prohibited. Any involvement may lead to rustication, expulsion, and legal consequences.
+
+
+### 6. Substance Abuse & Prohibited Materials:
+- Possession or use of alcohol, drugs, gutka, tobacco, vulgar or offensive content, or contraband goods is strictly banned and punishable.
+
+
+### 7. Misconduct & Language:
+- Use of vulgar language or physical misconduct (intentional or not) will lead to disciplinary and legal actions.
+
+
+### 8. Possession of Weapons:
+- Possessing weapons or dangerous materials is strictly prohibited and punishable.
+
+
+### 9. Property Damage:
+- I shall pay for any property damage caused by me and face disciplinary action.
+
+
+### 10. Extremist Views:
+- Preaching or practicing extremist ideologies on campus or in hostels is forbidden.
+
+
+
+
+## General Information & Discipline Policy
+
+
+
+### Political Activities:
+- Political activities are strictly forbidden at PAF-IAST premises.
+- Students must sign a written undertaking at the time of admission that they will refrain from politics during their stay at PAF-IAST.
+- The Competent Authority has the right to terminate the registration of any student found involved in political activities.
+
+
+### Prohibited Practices:
+- Theft or damage of movable/immovable property on the premises of PAF-IAST.
+- Any misconduct leading to a conviction in a court of law may result in disciplinary action, including suspension or expulsion.
+- Possession or use of firearms, explosives, dangerous chemicals, or other weapons on campus is strictly prohibited, including using these to intimidate or control others.
+- Any misconduct that obstructs or disrupts teaching, research, administration, disciplinary procedures, or other activities of the institute.
+- Keeping pets/animals or possessing morally/religiously objectionable materials (e.g., media players).
+- Using, distributing, or trading drugs, alcohol, narcotic substances, and smoking on campus.
+
+
+
+
+## Documents Required On Arrival
+
+- Admission letter
+- Passport/ID card
+- Health insurance details
+- Any other documents mentioned in the admission package
+
+
+
+
+### Library Conduct:
+- Complete silence shall be observed in the library except for brief and subdued talk with the library staff.
+- Strict decorum and discipline shall be maintained in the Library.
+- Students/library users must ensure that the rights of other users of the Library are not breached in any way.
+
+
+### Prohibited Activities:
+- Smoking, eating, and sleeping are strictly prohibited within the library.
+- Cell phones must be kept silent while using the library.
+
+
+### Library Book Borrowing:
+- **Faculty Members:** Can borrow a maximum of five (05) books for a period of one month from the date of issue. However, the borrowing period for textbooks of the courses being taught by faculty will be one complete semester.
+- **Research Fellows, Research Scholars, and Research Assistants:** Can borrow a maximum of four (04) books for fifteen (15) days from the date of issue.
+- **Other Students:** Can borrow a maximum of three (03) books for fifteen (15) days from the date of issue.
+- **Administrative and Support Staff:** Can borrow a maximum of two (02) books for fifteen (15) days from the date of issue.
+
+
+### Damaging Library Books:
+- Writing, underlining, or marking in library books is strictly prohibited.
+- Violating this rule will result in a fine imposed by the Librarian or the need to replace the damaged material, or pay its price (which will be two times the actual price of the book).
+- If one volume of a set is damaged and cannot be replaced separately, the entire set must be replaced or paid for at the same rate as above.
+
+
+### Late Returns & Lost Books:
+- Books not returned on the due date and reported to have been lost must be paid for after the prescribed limit of time. The amount payable to the library will be two times the actual price of the book, and this amount will not be refundable.
+
+
+### Reference Materials:
+- All users can consult reference materials (e.g., Periodicals, Dictionaries, Encyclopedias, Handbooks, Glossaries, etc.) within the library only.
+- Borrowing of these materials is strictly prohibited.
+
+
+### Post-Reading Procedures:
+- Library users should leave books on the table after reading and not shelve them.
+
+
+### Reserved Books:
+- Reserved books must be returned on the due date.
+
+
+### Disciplinary Actions:
+- Strict disciplinary action will be taken against any student who violates the library rules.
+
+
+
+
+### PAF-IAST Guidelines on Student Societies/Clubs:
+
+
+### Introduction:
+- Life at PAF-IAST is not only about academics but also about holistic development through co-curricular activities.
+- Student societies play a vital role in fostering leadership, professional, and personal skills.
+- The purpose of student societies/clubs is to encourage students’ development outside of the classroom by promoting arts, heritage, sports, volunteerism, and philanthropy.
+
+
+### Aims and Objectives of Student Societies & Clubs:
+- Polish hidden qualities of students.
+- Give students a sense of responsibility and ownership.
+- Prepare students for practical life challenges.
+- Promote teamwork and enhance creative potential.
+- Foster a spirit of healthy competition and leadership qualities.
+- Develop love, sacrifice, and service to others, making students better human beings.
+- Prepare students for future global challenges.
+
+
+### Student Societies Structure:
+- Societies/Clubs will be initiated by students with mentorship from a faculty member.
+- A minimum of 25 students and one faculty member are required to establish a society/club.
+- The Provost will oversee the process.
+
+
+### Procedure for Formation of New Society/Club:
+- A filled application form must be submitted to the Provost.
+
+### - An evaluation committee will review the application based on:
+- Objective of the society.
+- Functions of the society.
+- Eligibility requirements.
+- Proposed calendar of events (minimum 3 events).
+- Institute policy and guidelines.
+- Need for the society/club.
+- The evaluated form will be forwarded to the Rector for the final decision.
+
+
+### Structure of Each Society/Club:
+
+
+### Staff:
+- Advisor (Faculty member).
+
+
+### Students’ Cabinet:
+- President (Must be a senior semester student).
+- General Secretary.
+- Treasurer.
+- Media Manager.
+- Public Relations Secretary.
+- Executive Members.
+
+
+### Cabinet Members:
+- Must be from different departments.
+- Cannot be from the same department.
+
+
+### Selection of Cabinet Members:
+- Office bearers are selected based on academic performance, discipline, and talent.
+- Only students who have completed their first semester are eligible.
+- Selection is done through an interview process by the committee (Dean, Provost, and Advisor).
+- Senior semester students are given priority.
+- Office bearers serve for one year and continue until replaced.
+
+
+
+
+### Responsibilities of Advisers and Cabinet Members:
+
+
+### Advisor:
+- A faculty member appointed by the Provost.
+- Mentors and facilitates the student cabinet.
+- Responsible for submitting the society’s year planner.
+- Organizes at least three major events per year.
+- Keeps proper records of activities.
+- Seeks approval for advance payments for events.
+- Submits activity reports to the Provost.
+- Recommends deserving cabinet members for certificates.
+- Submits cabinet members’ details to the Provost office.
+
+
+### President:
+- Responsible for managing the society and ensuring activities comply with the academic schedule.
+
+
+### General Secretary:
+- Keeps records of activities, attendance, and meeting minutes.
+- Submits attendance reports to the Provost office after each meeting.
+
+
+### Treasurer:
+- Manages the financial matters of the society.
+- Prepares and submits financial requests and adjustments to the Provost office.
+
+
+### Media and Public Relations Secretary:
+- Coordinates event promotions and communicates with students and media.
+- Submits reports, press releases, and media coverage to the Provost.
+- Designs and distributes invitations for events.
+- Maintains contact details of invitees, faculty, and other key individuals.
+
+
+### SOPs for Student Societies Events:
+
+
+### Before the Event:
+- Submit a written request to the Provost signed by the Advisor.
+- Book venue/facilities through the Provost/Administration department.
+- All facility bookings subject to availability.
+- Meetings can only be called during break times.
+- Students must observe disciplinary rules during events.
+
+
+### General Conduct for Students and Advisors:
+- Maintain a clean environment and respect each other.
+- Advisors must ensure that event content is non-controversial and aligns with PAF-IAST values.
+- A student cannot hold positions in more than one society at the same time.
+- Advisors can recommend the removal of cabinet members for misbehavior or rule violations.
+- Cabinet members who miss two consecutive meetings without valid reasons will be removed from their duties.
+- Prior approval for event budgets is required from the Competent Authority.
+- The entire Cabinet works collectively for the society.
+
+
+
+POLICY ON PROTECTION AGAINST SEXUAL HARASSMENT IN HEIs
+
+
+### Introduction:
+- This policy ensures a safe and harassment-free environment in all Higher Education Institutions (HEIs) in Pakistan, aligning with the Protection Against Harassment of Women at the Workplace Act, 2010.
+
+
+### Definitions:
+- Sexual Harassment: Unwelcome sexual advances, requests for sexual favors, or verbal/physical conduct of a sexual nature.
+- Complainant: Person who files the complaint.
+- Accused: Person against whom the complaint is filed.
+- Inquiry Committee: A 3-member group assigned to investigate the case.
+- Appeal Committee: Higher body to review decisions.
+- Harassment: Any unwanted behavior creating a hostile or offensive environment.
+
+
+### Scope:
+- Applies to all students, faculty, and staff in HEIs, regardless of employment status or position.
+
+
+### Policy Guidelines:
+- Policy must be publicly displayed in the institution.
+- A Code of Conduct must be shared with all stakeholders.
+- Regular awareness sessions are mandatory.
+- All proceedings must remain confidential.
+
+
+### Complaint Submission:
+- Complaints should be submitted in writing within 30 days of the incident.
+- Victim or someone authorized can file the complaint.
+- Complaints go to the Harassment Committee or focal person.
+
+
+### Inquiry Committee Formation:
+- Must consist of 3 members (at least one female).
+- Members must be senior, neutral, and trained.
+
+
+### Inquiry Procedure:
+- Accused receives a written notification of allegations.
+- Both sides may present evidence and witnesses.
+- Inquiry must complete within 30 days.
+- Final findings are submitted to competent authority.
+
+
+### Penalties:
+- Minor: Warnings, suspension of promotions, etc.
+- Major: Dismissal, demotion, forced retirement.
+
+
+### Appeal Process:
+- Appeals must be filed within 15 days of decision.
+- Appeal Committee must decide within 30 days.
+
+
+### False Accusation:
+- False and malicious complaints may lead to action against the complainant.
+
+
+### Protection Against Retaliation:
+- Strict action against anyone who retaliates against the complainant or witnesses.
+
+
+### Record Keeping:
+- Confidential records must be preserved for at least 5 years.
+
+
+### Awareness and Training:
+- Mandatory annual training and awareness sessions.
+- Posters, flyers, and complaint info must be visible across campus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Role of HEC:
+- Monitor and audit implementation.
+- Provide training and support.
+- Collect compliance reports.
+
+
+### Policy Review:
+- Must be reviewed every 3 years or earlier if necessary.
+
+
+## Penalties
+
+
+
+### For Students:
+
+### - Minor violations:
+- Warning or reprimand (considered for future violations).
+
+### - Serious violations:
+- Disciplinary probation
+- Withholding of degree
+- Suspension
+- Expulsion
+
+### - Additional penalties may include:
+- Campus service
+- Relocation from campus housing
+- Exclusion from specific buildings/activities (if appropriate and doesn’t block studies)
+- Mandatory educational program
+- Entry in student record (except first minor violation; up to seven years)
+
+
+### For Faculty, Researchers, or Staff:
+
+### - Possible sanctions (individually or combined, per employment policy):
+- Oral or written reprimand
+- Counselling or training
+- Inclusion in personnel file
+- Exclusion from specific buildings or activities (if appropriate and doesn’t block duties)
+- Fine
+- Suspension without pay
+- Dismissal proceedings
+- Other suitable sanctions
+
+
+## Right Of Appeal
+
+- Both complainant and respondent can appeal within 30 days of decision.
+- If the case falls under the 2010 Act, appeal can also be filed to the Ombudsman.
+
+### - Appellate Body:
+- 3 members appointed by VC
+- Includes at least one senior HEI administrator and one woman
+- No Inquiry Committee member can be on Appellate Body for the same case
+
+
+### Grounds for Appeal:
+- Misclassification of conduct under policy
+- Ignoring material evidence
+- Disproportionate or inconsistent penalty
+- Procedural unfairness
+
+- Appellate Body may consult relevant individuals
+- Decision must be made within 30 days and communicated to all involved
+
+
+## Mala Fide Allegation
+
+- False/malicious allegations are serious offenses
+
+### - If determined mala fide by Inquiry Committee:
+- Committee recommends action to VC with reasons
+- If applicable under the 2010 Act, may be referred to the Ombudsman
+
+
+## Protection Against Reprisal
+
+- No threats or retaliation allowed against complainants or participants
+- All retaliation allegations are formally investigated
+- Proven cases lead to disciplinary action
+
+
+## Special Considerations Regarding Relationships
+
+- Consensual relationships that respect cultural norms are private matters
+- Intimate relationships between authority figures and those they supervise are inappropriate
+- Faculty-student romantic relationships (undergrad or grad) are prohibited
+
+
+## Education For Prevention
+
+- HEIs must run education programs and provide reference materials to prevent harassment
+
+### - The following must be made available:
+- HEC policy, internal policies, and 2010 Act details on the website
+- Included in new hire packages
+- Shared during student orientation
+- Included in university prospectus (summary)
+- Displayed prominently on campus
+
+- Focal Persons and Inquiry Committee names must be publicly visible
+- Focal Persons, committee members, HR, etc. must be trained on relevant laws and policies
+- Trained HR must educate all incoming faculty, staff, and students
+
+### - All departments must display and share information about:
+- What constitutes harassment
+- How to respond
+- How to help someone facing harassment
+
+
+
+UNDERGRADUATE PROGRAMS (Bachelor's)
+
+
+### Engineering & Technology:
+- BS Computer Engineering
+- BE Electrical Engineering
+- BS Robotics
+- BS Applied Polymer
+- BE Chemical Engineering
+- BE Materials Engineering
+- BS Artificial Intelligence
+- BS Computer Science
+- BS Cyber Security
+- BS Data Science
+- BS Multimedia and Gaming
+- BS Software Engineering
+- BS Biomedical Engineering Technology
+- BS Mechanical Engineering Technology
+
+
+### Health & Life Sciences:
+- Doctor of Physiotherapy (5 Years)
+- Pharm.D. (Doctor of Pharmacy, 5 Years)
+- BS Biomedical Sciences
+- BS Biotechnology
+- BS Food Science and Technology
+- BS Applied Psychology
+
+
+### Business & Management:
+- BS Accounting and Finance
+- Bachelor of Business Administration (BBA)
+- BS Entrepreneurship and Innovation
+
+
+### Arts, Design & Humanities:
+- BS English
+- Bachelor of Architecture (B. Arch, 5 Years)
+- BS Animation Design
+- BS Fashion Design
+- BS Film and TV
+- Bachelor of Fine Arts (BFA)
+- BS Game Design
+- BS Information Design
+- BS Interior Design
+- BS Textile Design
+
+GRADUATE PROGRAMS (Master's)
+
+
+### Computer & Information Sciences:
+- MS Artificial Intelligence
+- MS Data Communication and Networks
+- MS Data Science
+- MS Information Security
+
+
+### Engineering & Technology:
+- MS Embedded Systems and IoTs
+- MS Energy and Power Systems
+- MS Environmental, Process, and Energy Engineering
+- MS Materials Engineering
+- MS Mechanical Manufacturing and Automation
+- MS Mechatronics Engineering
+- MS Mining Engineering
+- MS Mineral Process Engineering
+- MS Transportation Systems Engineering
+- MS Railway Systems Engineering
+
+
+### Health & Life Sciences:
+- MS Biomedical Sciences
+- MS Biotechnology
+
+
+### Business & Management:
+- Master of Business Administration (MBA) (1.5 Year, 2 Year)
+
+
+
+Code of Conduct
+
+
+### Intellectual Diversity, Self-Motivation, and Professionalism:
+- In order to inculcate intellectual diversity, self-motivation, critical thinking, leadership, and ethical professionalism, PAF-IAST expects its community (students, faculty, employees) to maintain a disciplined environment on campus. The code of conduct provides a framework for identifying expectations, violations, and penalties.
+
+
+### Equal Opportunity Workplace:
+- PAF-IAST is an equal opportunity workplace for all students and employees. The institute does not discriminate based on race, color, religion, national origin, or gender. All opportunities are offered purely based on qualifications, merit, and institutional needs.
+
+
+### Unlawful and Disruptive Activities:
+- PAF-IAST community members should refrain from engaging in political, anti-state, unlawful, sectarian activities, cheating, plagiarism, harassment, cyberbullying, drug use, lying, stealing, etc.
+
+
+### Reputation and Respect for the Institute:
+- Community members should avoid conduct that could damage the reputation of the institute or disrupt academic programs and activities. The community should display tolerance, understanding, and respect for others' rights. Misunderstandings should be resolved through respectful discussion. Threatening behavior may result in dismissal from the institute.
+
+
+### Respect for Gender and Cultural Norms:
+- The PAF-IAST community must respect all members irrespective of gender and refrain from behavior that may be interpreted as gender harassment. Gender interaction is permissible only within socially and culturally accepted norms. Undue intimacy or proximity is not tolerated.
+
+
+### Campus Cleanliness:
+- Every individual is responsible for keeping the campus clean. Littering and improper disposal of trash are prohibited. Use the designated waste bins.
+
+
+### Preservation of Institute Property:
+- Members should avoid damaging institute property such as furniture, fixtures, lab equipment, etc. Scribbling or carving on desks and writing on walls is prohibited.
+
+
+### No Smoking:
+- Smoking is prohibited on the institute premises. Violations may lead to strict disciplinary action.
+
+
+### Mobile Phones:
+- Mobile phones should be turned off in classrooms, examination halls, labs, and libraries to maintain a calm environment.
+
+
+### Behavior During Sports and Extracurricular Activities:
+- Members are expected to demonstrate exemplary behavior when participating in sports and extracurricular activities, especially when representing the institute in seminars, conferences, exhibitions, and competitions.
+
+
+### Indiscipline and Disciplinary Actions:
+- Any cases of indiscipline will be referred to the Institute Discipline Committee. The committee is authorized to recommend appropriate actions for breaches of the code of conduct.
+
+
+### Dress Code:
+- The institute expects all members to adhere to a general dress code of cleanliness, grooming, and good taste. Clothing should reflect high cultural and social values.
+
+
+### Prohibited Items on Campus:
+- Possession or use of firearms, fireworks, dangerous devices, chemicals, or explosives on campus is prohibited. The institute has a zero-tolerance policy for items that could be viewed as weapons.
+
+
+### Identity Cards:
+- Members should carry their National Identity Card and PAF-IAST Identity Card on campus for safety and security. Lending an identity card to someone else is a violation and may result in disciplinary action.
+
+
+### Ragging and Bullying:
+- Ragging and bullying are strictly prohibited. Any member subjected to or witnessing such behavior should report it to the Chairman/Head of the department/Section.
+
+
+### Social Media Conduct:
+- Members are not allowed to post opinions or participate in debates on behalf of the institute in print, electronic, or social media without prior approval. Members posting in an individual capacity should do so respectfully, clearly stating that the content reflects personal opinions.
+
+
+
+
+### International Office:
+- Dr. Rizwan Ahmad – HoD
+- Staff: Shahram Yusuf Khan, Uzma Khalil
+- Email: international@paf-iast.edu.pk
+
+
+### Controller of Examination Office:
+- Dr. Dil Nawaz Khan – Controller
+- Hazrat Un Nabi – Assistant Controller
+- Tanveer Ahmed – Computer Typist
+
+
+### Key Admin Officials:
+Rector
+- Dr. Mohammad Mujahid
+- Dr. Nasser Ali Khan – Project Director
+- Dr. Arshad Hussain – Director Establishment
+- Dr. Abdul Hameed – Director Finance/HRM
+- Muhammad Ishfaq Khattak – Advisor Railway
+- Syed Ali Raza – Manager IT
+- Dr. Muhammad Nauman Habib – Manager QEC
+- Dr. Moazzam Maqsood – Manager ORIC
+- Dr. Fazli Wahid – Manager ASRB
+- Muhammad Attaullah Khan – Planning & Works
+- Dr. Sajjad Ullah Jan – Librarian
+- Safi Ur Rehman Shah – Deputy Director Admin
+- Mr. Zahid Khan, Ms. Naila Iqbal, Ms. Nadia Hameed, Mr. Rizwan Khan, Uzair Arshad – Personal/Administrative Assistants
+
+
+### Faculty/Heads:
+- Dr. Abdul Mateen, Dr. Asim Farooq, Dr. Azhar Hussain, Dr. Aftab Akram – Department Heads
+- Professors: Dr. Imran Munir, Dr. Rahat Imran, Dr. Nighat Batool, Dr. Hammad Ali, Dr. Mazhar Asjad
+- Mr. Zafar Iqbal – Consultant
+
+
+### Student Leadership:
+- Hassan Waqas Qureshi – President (Welfare Society)
+- Mahnoor Rasheed – VP
+- Amino Mishkat – General Secretary
+
+
+### Campus Highlights:
+- Smart Classrooms, Tech Labs, Library, Hostels, Sports Facilities, Cafeteria, and University Transport
+- Based on Austrian Fachhochschule model, set in a scenic mountain region with modern infrastructure
+
+
+
+
+### PAF-IAST Hostels Overview:
+Total Hostels: 2 (Hostel A and Hostel B)
+Floors per Hostel: 3 floors each
+Rooms per Floor: 30 rooms
+Students per Room: 3 students
+
+
+Academic Blocks
+
+Total Academic Blocks: 6
+
+A1, A2, B1, B2: Dedicated to specific academic departments
+
+C1 Block: School of Medical Sciences
+
+C2 Block: Also known as the Technology Park
+
+Administrative Facilities
+
+Admin Building: Central hub for university administration
+
+Hostels
+
+Boys’ Hostels: 3 in total (Hostel A, Hostel B, Hostel C)
+
+Sports Facilities
+
+Football Ground: Full-sized field
+
+Cricket Ground: Spacious pitch for matches
+
+Table Tennis & Basketball Courts: Located at the backside of campus
+
+Open Gym: Outdoor fitness area
+
+Dining and Social Areas
+
+STC (Student-Teacher Café): Central spot for meals and interaction
+
+Library: Equipped with digital and physical resources
+
+Accommodation
+
+Guest Rooms (Railway Dept.): For visiting railway officials
+
+Guest Rooms (Faculty/Staff): On-campus lodging for academic and admin staff
+
+
+maam ammara is a very nice teacher 
+maam ammara teaches us full stack development
